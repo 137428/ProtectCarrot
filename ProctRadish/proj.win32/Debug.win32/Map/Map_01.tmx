@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="12" height="8" tilewidth="80" tileheight="80" nextobjectid="9">
+ <tileset firstgid="1" name="BG-hd.pvr.ccz" tilewidth="80" tileheight="80" tilecount="72" columns="12">
+  <image source="Theme1/BG1/BG-hd.pvr.ccz.png" width="960" height="482"/>
+  <tile id="37">
+   <properties>
+    <property name="point" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="73" name="BG1-hd.pvr.ccz" tilewidth="80" tileheight="80" tilecount="96" columns="12">
+  <image source="Theme1/BG0/BG1-hd.pvr.ccz.png" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="169" name="Radish01_01" tilewidth="93" tileheight="74" tilecount="1" columns="1">
+  <image source="Radish01_01.png" width="93" height="74"/>
+ </tileset>
+ <layer name="Background" width="12" height="8">
+  <data encoding="base64">
+   SQAAAEoAAABLAAAATAAAAE0AAABOAAAATwAAAFAAAABRAAAAUgAAAFMAAABUAAAAVQAAAFYAAABXAAAAWAAAAFkAAABaAAAAWwAAAFwAAABdAAAAXgAAAF8AAABgAAAAYQAAAGIAAABjAAAAZAAAAGUAAABmAAAAZwAAAGgAAABpAAAAagAAAGsAAABsAAAAbQAAAG4AAABvAAAAcAAAAHEAAAByAAAAcwAAAHQAAAB1AAAAdgAAAHcAAAB4AAAAeQAAAHoAAAB7AAAAfAAAAH0AAAB+AAAAfwAAAIAAAACBAAAAggAAAIMAAACEAAAAhQAAAIYAAACHAAAAiAAAAIkAAACKAAAAiwAAAIwAAACNAAAAjgAAAI8AAACQAAAAkQAAAJIAAACTAAAAlAAAAJUAAACWAAAAlwAAAJgAAACZAAAAmgAAAJsAAACcAAAAnQAAAJ4AAACfAAAAoAAAAKEAAACiAAAAowAAAKQAAAClAAAApgAAAKcAAACoAAAA
+  </data>
+ </layer>
+ <layer name="path" width="12" height="8">
+  <data encoding="base64">
+   BAAAAAUAAAAGAAAABAAAAAUAAAAGAAAABAAAAAUAAAAEAAAABQAAAAYAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAABoAAAAAAAAAAAAAAB0AAAAeAAAAHwAAACAAAAAAAAAAAAAAACMAAAAAAAAAAAAAACYAAAAnAAAAKAAAACkAAAAAAAAAAAAAACwAAAAtAAAALgAAAC8AAAAAAAAAMQAAADIAAAAzAAAANAAAAAAAAAAAAAAAAAAAAAAAAAA5AAAAOgAAADsAAAA8AAAAPQAAAD4AAAA/AAAAQAAAAAAAAAAAAAAAAAAAAAAAAABFAAAARgAAAEcAAABIAAAA
+  </data>
+ </layer>
+ <objectgroup name="pathObject">
+  <object id="1" x="114" y="202"/>
+  <object id="2" x="123" y="436"/>
+  <object id="3" x="355" y="428"/>
+  <object id="4" x="357" y="362"/>
+  <object id="5" x="592" y="356"/>
+  <object id="6" x="607" y="434"/>
+  <object id="7" x="845" y="429"/>
+  <object id="8" x="839" y="206"/>
+ </objectgroup>
+</map>

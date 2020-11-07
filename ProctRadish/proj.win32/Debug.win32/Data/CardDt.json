@@ -1,0 +1,30 @@
+[
+
+	{
+		"id":4001,
+		"img":"Bottle%02d.png",
+		"ArmsID":5001
+},
+
+	{
+		"id":4002,
+		"img":"Fan%02d.png",
+		"ArmsID":5002
+},
+	{
+		"id":4003,
+		"img":"FBottle%02d.png",
+		"ArmsID":5003
+},
+	{
+		"id":4004,
+		"img":"Sun%02d.png",
+		"ArmsID":5004
+},
+	{
+		"id":4005,
+		"img":"Snow%02d.png",
+		"ArmsID":5005
+}
+
+]

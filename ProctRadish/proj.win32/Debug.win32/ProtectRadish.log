@@ -1,0 +1,22 @@
+﻿生成启动时间为 2020/10/15 星期四 下午 1:47:02。
+     1>项目“F:\BAOWEILUOBO\ProtectRadish\proj.win32\ProtectRadish.vcxproj”在节点 2 上(Build 个目标)。
+     1>PreLinkEvent:
+         if not exist "F:\BAOWEILUOBO\ProtectRadish\proj.win32\Debug.win32\" mkdir "F:\BAOWEILUOBO\ProtectRadish\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Cocos\Cocos2d-x\cocos2d-x-3.10\prebuilt\win32\*.*" "F:\BAOWEILUOBO\ProtectRadish\proj.win32\Debug.win32\"
+         
+         :VCEnd
+         复制了 60 个文件
+       Link:
+         ProtectRadish.vcxproj -> F:\BAOWEILUOBO\ProtectRadish\proj.win32\Debug.win32\ProtectRadish.exe
+       CustomBuildStep:
+         if not exist "F:\BAOWEILUOBO\ProtectRadish\proj.win32\Debug.win32\" mkdir "F:\BAOWEILUOBO\ProtectRadish\proj.win32\Debug.win32\"
+         xcopy "F:\BAOWEILUOBO\ProtectRadish\proj.win32\..\Resources" "F:\BAOWEILUOBO\ProtectRadish\proj.win32\Debug.win32\" /D /E /I /F /Y
+               
+         :VCEnd
+         F:\BAOWEILUOBO\ProtectRadish\Resources\Data\LevelDt.json -> F:\BAOWEILUOBO\ProtectRadish\proj.win32\Debug.win32\Data\LevelDt.json
+         复制了 1 个文件
+     1>已完成生成项目“F:\BAOWEILUOBO\ProtectRadish\proj.win32\ProtectRadish.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.57

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="12" height="8" tilewidth="80" tileheight="80" nextobjectid="18">
+ <tileset firstgid="1" name="Bg3" tilewidth="80" tileheight="80" tilecount="96" columns="12">
+  <image source="Bg3.png" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="97" name="sucai2" tilewidth="80" tileheight="80" tilecount="30" columns="6">
+  <image source="sucai2.png" width="480" height="400"/>
+  <tile id="0">
+   <properties>
+    <property name="isClear" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="isClear" type="bool" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="pathObject" width="12" height="8">
+  <data encoding="base64">
+   AQAAAAIAAAADAAAABAAAAAUAAAAGAAAABwAAAAgAAAAJAAAACgAAAAsAAAAMAAAADQAAAA4AAAAPAAAAEAAAABEAAAASAAAAEwAAABQAAAAVAAAAFgAAABcAAAAYAAAAGQAAABoAAAAbAAAAHAAAAB0AAAAeAAAAHwAAACAAAAAhAAAAIgAAACMAAAAkAAAAJQAAACYAAAAnAAAAKAAAACkAAAAqAAAAKwAAACwAAAAtAAAALgAAAC8AAAAwAAAAMQAAADIAAAAzAAAANAAAADUAAAA2AAAANwAAADgAAAA5AAAAOgAAADsAAAA8AAAAPQAAAD4AAAA/AAAAQAAAAEEAAABCAAAAQwAAAEQAAABFAAAARgAAAEcAAABIAAAASQAAAEoAAABLAAAATAAAAE0AAABOAAAATwAAAFAAAABRAAAAUgAAAFMAAABUAAAAVQAAAFYAAABXAAAAWAAAAFkAAABaAAAAWwAAAFwAAABdAAAAXgAAAF8AAABgAAAA
+  </data>
+ </layer>
+ <layer name="path" width="12" height="8">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABsAAAAagAAAGsAAAAAAAAAAAAAAGcAAABsAAAAbwAAAG8AAABvAAAAbwAAAGsAAABnAAAAAAAAAGcAAAAAAAAAAAAAAGcAAABnAAAAAAAAAAAAAAAAAAAAAAAAAGcAAABnAAAAAAAAAGcAAAAAAAAAAAAAAGcAAABzAAAAcAAAAHAAAABrAAAAAAAAAGcAAABnAAAAAAAAAGcAAAAAAAAAAAAAAHMAAABwAAAAcAAAAHAAAABxAAAAAAAAAGcAAABnAAAAAAAAAGcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGcAAABtAAAAAAAAAGIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHMAAABxAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+ <objectgroup name="pathObject">
+  <object id="1" x="144" y="95"/>
+  <object id="2" x="110.667" y="444"/>
+  <object id="6" x="434.667" y="430.667"/>
+  <object id="7" x="430.667" y="353.333"/>
+  <object id="8" x="192" y="349.333"/>
+  <object id="10" x="188" y="201.333"/>
+  <object id="11" x="590.667" y="200"/>
+  <object id="13" x="609.333" y="590.667"/>
+  <object id="14" x="700" y="594.667"/>
+  <object id="15" x="685.333" y="121.333"/>
+  <object id="16" x="840" y="118.667"/>
+  <object id="17" x="857.333" y="512"/>
+ </objectgroup>
+</map>

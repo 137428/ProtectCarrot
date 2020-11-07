@@ -1,0 +1,45 @@
+[
+	{
+		"id":1001,
+		"viewimg":"ss_map01.png",
+		"mapimg":"Map/map_01.tmx",
+		"MonsterID":[2001,2002],
+		"CardID":[4001,4002,4003],
+		"CardView":"ss_towers_01.png",
+		"startMoney":500,	
+		"wave":[3,4,5]
+	},
+	
+	{
+		"id":1002,
+		"viewimg":"ss_map02.png",
+		"mapimg":"Map/Map_02.tmx",
+		"MonsterID":[2001,2002,2003],
+		"CardID":[4001,4002,4003,4004],
+		"CardView":"ss_towers_02.png",
+		"startMoney":600,
+		"wave":[4,4,6]
+	},
+	
+	{
+		"id":1003,
+		"viewimg":"ss_map03.png",
+		"mapimg":"Map/Map_03.tmx",
+		"MonsterID":[2001,2002,2003],
+		"CardID":[4001,4002,4003,4004,4005],
+		"CardView":"ss_towers_03.png",
+		"startMoney":1000,
+		"wave":[4,5,6]
+	},
+{
+		"id":1004,
+		"viewimg":"ss_map04.png",
+		"mapimg":"Map/Map_04.tmx",
+		"MonsterID":[2001,2002,2003],
+		"CardID":[4001,4002,4003,4004,4005],
+		"CardView":"ss_towers_04.png",
+		"startMoney":1000,
+		"wave":[4,5,6,7]
+	}
+	
+	]

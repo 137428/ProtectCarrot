@@ -1,0 +1,26 @@
+[
+	{
+		"id":2001,
+		"img":"ui_L_Monsters_01_01.png",
+		"speed":100,
+		"animateID":3001,
+		"Money":999
+		
+},
+	{
+		"id":2002,
+		"img":"ui_L_Monsters_02_01.png",
+		"speed":150,
+		"animateID":3002,
+		"Money":999
+		
+},
+	{
+		"id":2003,
+		"img":"ui_L_Monsters_03_01.png",
+		"speed":120,
+		"animateID":3003,
+		"Money":14
+		
+}
+	]

@@ -1,0 +1,55 @@
+[
+	{
+		"id":6001,
+		"Img":"PBottle%d1.png",
+		"Type":"Common",
+		"die":3016,
+		"buffID":0,
+		"moveAnimateID":3013,
+		"speed":600,
+		"ack":1000
+},
+
+	{
+		"id":6002,
+		"Img":"PFan%d1.png",
+		"Type":"Through",
+		"die":3017,
+		"buffID":0,
+		"moveAnimateID":0,
+		"speed":200,
+		"ack":500
+},
+
+	{
+		"id":6003,
+		"Img":"PSun%d1.png",
+		"Type":"Static",
+		"die":0,
+		"buffID":7002,
+		"moveAnimateID":3025,
+		"speed":0,
+		"ack":500
+},
+{
+		"id":6004,
+		"Img":"PSnow%d1.png",
+		"Type":"Static",
+		"die":0,
+		"buffID":7001,
+		"moveAnimateID":3028,
+		"speed":0,
+		"ack":500
+},
+
+	{
+		"id":6101,
+		"Img":"PFBottle%d1.png",
+		"Type":"Radial",
+		"die":3021,
+		"buffID":0,
+		"moveAnimateID":3018,
+		"speed":0,
+		"ack":20
+}
+]

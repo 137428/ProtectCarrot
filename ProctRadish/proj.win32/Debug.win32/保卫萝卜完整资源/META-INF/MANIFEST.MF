@@ -1,0 +1,3818 @@
+Manifest-Version: 1.0
+Created-By: d2j-apk-sign null
+
+Name: assets/Music/Feeds/PetChange02.ogg
+SHA1-Digest: IiuiFenzvWSHjBv6NV4ysQbYNfY=
+
+Name: res/layout/umeng_xp_fimageview_portrait.xml
+SHA1-Digest: Wicpoeskf/g62A67lamxcvTS9bo=
+
+Name: res/drawable/bottom_sharp_on.xml
+SHA1-Digest: wo7/sZUNlTnv0wlBhpUH4FM+gXg=
+
+Name: assets/Themes/Theme1/BG12/BG-hd.pvr.ccz
+SHA1-Digest: 5F4kS8qslhHSXhxZfNdFr6TyTI0=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_phone_clicked.png
+SHA1-Digest: 1FuxaAevqRhgBLYvbH4DHbtbxZg=
+
+Name: res/drawable-hdpi/umeng_example_two_tab_left.png
+SHA1-Digest: O1EalbExwDjB42ytzLh4QDJfv3U=
+
+Name: assets/Themes/Theme1/BG14/BG-hd.pvr.ccz
+SHA1-Digest: pJ26262kA2gS2Dk7GhbPNCU3VFA=
+
+Name: res/drawable/dialog_btn_selector.xml
+SHA1-Digest: jZlAWMlXoLLzqbJfdkg0bNLDR4g=
+
+Name: assets/Themes/Theme3/BG10/BG-hd.plist
+SHA1-Digest: iIB7ywzR8HCC/a0wtdiVq91r4gg=
+
+Name: res/layout/umeng_example_analytics_webview.xml
+SHA1-Digest: Rv38Jm5rh192p+KIKKW1LgOWgHs=
+
+Name: res/layout/pay_query_list.xml
+SHA1-Digest: iip8jkc1SkLQ86Q4gtvQkVnX2IA=
+
+Name: assets/Themes/Theme3/Items/Object02-hd.pvr.ccz
+SHA1-Digest: UbJVDsGpX2j0dfZ4cQk38JVPIbc=
+
+Name: assets/Themes/Theme2/BG5/BGPath.tmx
+SHA1-Digest: YI4DysEQBWV1ZmubWb0NkDATyo8=
+
+Name: res/drawable-hdpi/umeng_xp_highlight_footview_loading.png
+SHA1-Digest: mut/AXZs39MRWaa1fT+ZnO+dLb8=
+
+Name: assets/Themes/scene/antiboss2-hd.plist
+SHA1-Digest: ZekEd3M8YN+fnP1c9vjIt4Y8tyg=
+
+Name: res/drawable/apay_price_main_btn_on_shape.xml
+SHA1-Digest: upURSb5zJgmsIgG58Q2YRAUEqXQ=
+
+Name: assets/Music/Monsters/Fly163.ogg
+SHA1-Digest: nHl7hD6OvcpWev/j9Jx4/ET6WEk=
+
+Name: res/drawable/pay_list_item_selector.xml
+SHA1-Digest: eqLGSH3eqUYbBr1BDi5xMWa+ePg=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_letter_bg.png
+SHA1-Digest: N9gEE5a0g9DBz2d0Hs6n3kZBoTg=
+
+Name: res/drawable-hdpi/umeng_xp_shape_grey.xml
+SHA1-Digest: fDrF9yxkKZHm5qp87wqSkBmK3u4=
+
+Name: res/drawable-hdpi/umeng_xp_highlight_footview_dashed_line.xml
+SHA1-Digest: bjY2mr4/GeM1et0o/2Nq+w1v84s=
+
+Name: assets/Themes/Theme2/BG11/BG-hd.plist
+SHA1-Digest: JyET0eWctcHUgyGhSjXpPX78XNM=
+
+Name: assets/Music/Towers/Ball.ogg
+SHA1-Digest: +7VZ3kAvNfp4456dQNWtUJC4oVo=
+
+Name: assets/Themes/Towers/TBall-hd.pvr.ccz
+SHA1-Digest: Iu0AR3xp0RHBJwH7zHtgj8WBVgY=
+
+Name: res/drawable-hdpi/upomp_bypay_sub3_default.png
+SHA1-Digest: s75VJw3Ko+uVi0SYmzyAaRfRSqA=
+
+Name: assets/Themes/Items/Items00-hd.plist
+SHA1-Digest: vBge2q8m2fP3v5aZ1Ll9yq3PQTk=
+
+Name: res/layout/umeng_example_analytics.xml
+SHA1-Digest: veN7No46GeYrw76ubvGJtB5pdBM=
+
+Name: res/drawable-hdpi/umeng_xp_gradient_grey2.xml
+SHA1-Digest: /JvjYkY0XeMnxyruRNPPNfn/38I=
+
+Name: assets/domob_next.png
+SHA1-Digest: +uGKKyJoKCab/qzUTuqPSb1f6zU=
+
+Name: res/drawable/umeng_example_xp_shape_gradient_grey_list.xml
+SHA1-Digest: 67UVLeAVIDRFsh7sC8ZrM1BlIDk=
+
+Name: res/drawable-hdpi/upomp_bypay_nav4_default.png
+SHA1-Digest: tWbA/Ni71KfIH7BoVGce330+k24=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_download.png
+SHA1-Digest: kMkWc2jSvchHOzZRwGH9EmUmV70=
+
+Name: res/drawable-hdpi/upomp_bypay_nav4_click.png
+SHA1-Digest: rd1y9QqqrHjbrjhjNrTMrBBuUFo=
+
+Name: res/drawable/upomp_bypay_btn_newweb.xml
+SHA1-Digest: YOv6p2iiHArYre4axx25UkFwWaI=
+
+Name: assets/Themes/scene/layout.plist
+SHA1-Digest: v1C/CWpE+b6+bc0CRVE8A4DCciE=
+
+Name: assets/Themes/Theme6/BG6/BG-hd.plist
+SHA1-Digest: 6N6GwF3mW7uaaiqEurv4z37J9UA=
+
+Name: res/layout/umeng_fb_conversations_item.xml
+SHA1-Digest: c+aaxl7B/gBx50G9BNBjUKcNVTU=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_btn_enter_default.png
+SHA1-Digest: JP9cSeCNr+gKhPmxm1u8Qk2Qiiw=
+
+Name: assets/Themes/Towers/TBlueStar-hd.plist
+SHA1-Digest: uNyydhgCIob361f0/WtpUWOD5SY=
+
+Name: res/drawable/apay_index_shape1.xml
+SHA1-Digest: e217PE9PHv7jolcVsHRKajAz3H4=
+
+Name: res/drawable/pay_type_7new.png
+SHA1-Digest: zMML/JQDNwu5JCSHc2bPgHhdZII=
+
+Name: assets/Themes/Theme3/Items/Monsters01-hd.pvr.ccz
+SHA1-Digest: G34lGmXcHmDMtLCTOfesbWPOblw=
+
+Name: res/drawable-hdpi/upomp_bypay_input_bg.png
+SHA1-Digest: 43LorZW2DE4g33+zZQoDqxcVGL4=
+
+Name: res/drawable-hdpi/gc_billing_red_selector.xml
+SHA1-Digest: vHUcdUsdAdwaZsqWjLNB+dF8jAI=
+
+Name: res/layout/umeng_xp_download_dialog_landscape.xml
+SHA1-Digest: mAgYKv5P/Z9h5DSAVjN3cWF7Qgw=
+
+Name: assets/Themes/Theme3/BG6/BG-hd.pvr.ccz
+SHA1-Digest: +GiP4/532wUoUiYiu9cUR8pc/AM=
+
+Name: assets/Themes/scene/gameover0-hd.plist
+SHA1-Digest: /FtZZhVq6sMqxqXwG7iWD5SdO/I=
+
+Name: res/drawable-hdpi/umeng_xp_back_button.xml
+SHA1-Digest: WYHdHYvjCbit2DYSJqja9YoDlIQ=
+
+Name: res/drawable-hdpi/umeng_xp_recoright.png
+SHA1-Digest: dIRpThkmOd7jSkfHcz6/4+RhHi8=
+
+Name: assets/Music/Monsters/Land121.ogg
+SHA1-Digest: kwtiEfYbyltt0MnAz58JUc+/wQE=
+
+Name: res/layout/upomp_bypay_bottom.xml
+SHA1-Digest: YcwnA55BPq+oKW5fghaXbEod6V0=
+
+Name: assets/domob_refresh_on.png
+SHA1-Digest: bi0ZrQIIXP/tDlAFRwr6uvB0SR0=
+
+Name: assets/Music/Monsters/Land621.ogg
+SHA1-Digest: O1hc8sMZLp6aao36TSThgi2rY14=
+
+Name: assets/Themes/Theme2/BG1/BG-hd.pvr.ccz
+SHA1-Digest: UIzqDT0UAE27K090X0cxMM1s0Q0=
+
+Name: assets/Music/Monsters/Land132.ogg
+SHA1-Digest: M9gA1oWnOLAsj0y2b2IpslchPZY=
+
+Name: assets/Music/Towers/Pin.ogg
+SHA1-Digest: u9HNXbppTVy2bIeNkBFpkEjfADE=
+
+Name: res/drawable-hdpi/gc_gamehall.png
+SHA1-Digest: ugMC5u65pQJ4AadGF6uK/fE0S9o=
+
+Name: assets/Themes/Theme3/BG4/BGPath.tmx
+SHA1-Digest: XuN/tudIVZpIJS8CxPc3SoH5EnY=
+
+Name: assets/Themes/Theme6/BG0/BG1-hd.plist
+SHA1-Digest: TOLYRW/lLDPdUs6acJcDPRJrUHE=
+
+Name: res/layout/umeng_xp_component_flipper_content.xml
+SHA1-Digest: vWelwE27Z6dOua1JHr9BnIZblDQ=
+
+Name: assets/Music/sound.xml
+SHA1-Digest: A3TQfnywuvCmCNqQVfh4f38uof8=
+
+Name: res/layout/pay_switch_account.xml
+SHA1-Digest: uqCIUtAF9oRnR1EHsXMpiG2Fn7s=
+
+Name: res/drawable-hdpi/upomp_bypay_title_bg.png
+SHA1-Digest: /OaAcwI7u3Pacb6gzI0oSt67fz4=
+
+Name: assets/Themes/Pets/PetsTheme01-hd.pvr.ccz
+SHA1-Digest: 6iTN3+wRQZxBoT9o6kIMEkLbk/I=
+
+Name: assets/Themes/Theme6/BG9/BG-hd.pvr.ccz
+SHA1-Digest: 3ecdt5HuzkQWeubURRQKvUXmG98=
+
+Name: assets/Themes/Theme1/Items/Monsters02-hd.plist
+SHA1-Digest: og32LMZqDI1Pp1NozOy9DdQiA0w=
+
+Name: assets/domob_border_white.png
+SHA1-Digest: YUtp/wznRFRuu5LmpGNJG8Wt6Qk=
+
+Name: res/drawable/upomp_bypay_btn_sub3.xml
+SHA1-Digest: b7IR213RfwVFcH8obOhJTFDDs90=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_letter_a1.png
+SHA1-Digest: VL5IEL2a3+rHt52UZpEHJWGeXSM=
+
+Name: assets/chinaunicom.png
+SHA1-Digest: 9ktcEU5GFA33KL0UOeJoEz5EIW4=
+
+Name: assets/Themes/Items/Items06-hd.plist
+SHA1-Digest: 1JmkS8ILZ/ANprYRCjYTUMCS6CU=
+
+Name: res/drawable-hdpi/umeng_xp_back_button_normal.png
+SHA1-Digest: wC65OUAuyWRjWxVw+cirzEDTtWw=
+
+Name: assets/Themes/Theme6/BG18/BG-hd.pvr.ccz
+SHA1-Digest: RXjtv3CMXW0+BwrJbNhMaoLRlxw=
+
+Name: assets/Themes/Theme6/BG3/BGPath.tmx
+SHA1-Digest: 4/0OIM8bDg6n0dMtbg9N9vIwQQU=
+
+Name: res/drawable-hdpi/umeng_share_logo_doub.png
+SHA1-Digest: 0ZaA1O/a0ieyv+wUboqQSHeUwnc=
+
+Name: assets/Music/Feeds/PetSound01.ogg
+SHA1-Digest: 6HOmMm/Xy+QCy3dAjD4vGIgM1Gw=
+
+Name: assets/Themes/scene/help_1-hd.plist
+SHA1-Digest: BdOzWPEEVrvSxW0GU3t1GbsLxMo=
+
+Name: res/drawable/apay_account_btn_on_shape.xml
+SHA1-Digest: gnhmXQT2ZaCH+73xGgb8hdm3B2k=
+
+Name: res/drawable/apay_white_btn_on_shape.xml
+SHA1-Digest: k/yyKwWbCXJw9YaGpQXWx/oikRE=
+
+Name: res/drawable-hdpi/umeng_xp_btn_gradient_grey.xml
+SHA1-Digest: lEjXMVl3AbRZvzY3MJ8E0RtO7Dg=
+
+Name: assets/Themes/Theme1/Items/Object01-hd.pvr.ccz
+SHA1-Digest: NM62ElaHLyXMJpLb5T7i6+roQh0=
+
+Name: res/layout/umeng_example_fb_main.xml
+SHA1-Digest: nlJhsa9Dp7EsSAYIwY6TlwLhL/Q=
+
+Name: assets/Themes/Theme6/BG1/BG-hd.pvr.ccz
+SHA1-Digest: pP/qj0WGFGdMVuLliosA+RrwMCA=
+
+Name: assets/Themes/Towers/TStar-hd.pvr.ccz
+SHA1-Digest: BnJaZuxQm7HWeB9IjPPvlc/BNrU=
+
+Name: res/layout/umeng_fb_atom.xml
+SHA1-Digest: X84wneI0jq4P+l1u4NZO/PEHmm8=
+
+Name: res/drawable-hdpi/umeng_xp_seek.png
+SHA1-Digest: tXZfDoOHLKeFUzHTz6zCorjjQME=
+
+Name: assets/Themes/Theme1/BG0/BG2-hd.plist
+SHA1-Digest: Vr15qpLXZBw8fMAMRF37uuefoDY=
+
+Name: res/drawable-hdpi/share_sepline.png
+SHA1-Digest: lpwHlq0AipkRylTCMI07LtSy3xk=
+
+Name: res/drawable-hdpi/umeng_share_face_12.png
+SHA1-Digest: RVkrZH5tk77RXIEj5bw9TsjxCRw=
+
+Name: assets/Themes/Items/Items03-hd.plist
+SHA1-Digest: 9l/Pld8y50PgSmcNu/mQ0ZRqsMs=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_btn1_on.png
+SHA1-Digest: HfMI27JssPFr8Q0B8+3DSdNbq/4=
+
+Name: assets/Music/Monsters/Fly252.ogg
+SHA1-Digest: w5IMghV1z9RCAOoUWI45e7Esq88=
+
+Name: res/layout/umeng_xp_webview_landing_page.xml
+SHA1-Digest: 9A+AnYoHr89Rq45CSl147cJFvTI=
+
+Name: assets/Themes/Theme3/Items/Monsters02-hd.plist
+SHA1-Digest: Vd4yniAOZAAbCGrWJ8C528zaL+k=
+
+Name: assets/Themes/Theme1/BG13/BGPath.tmx
+SHA1-Digest: kR/+Ig1/FHQ5Jzj3RQTSzKj+5GU=
+
+Name: assets/Themes/Theme3/BG10/BGPath.tmx
+SHA1-Digest: jdSBeSsS/sTUknS0jp3qF176aDQ=
+
+Name: assets/Music/Monsters/Land122.ogg
+SHA1-Digest: kw1wksCJMeGJgQkBsXCBt3lcj9E=
+
+Name: res/drawable/upomp_bypay_keyboard_btn_enter.xml
+SHA1-Digest: hG9pvAqf48zBOvYsoC7lrusAU0g=
+
+Name: assets/Themes/Theme6/Items/Object01-hd.pvr.ccz
+SHA1-Digest: hCpsHwyO9RyBccisErqxVpSEsPE=
+
+Name: assets/Music/Monsters/LittleBoss.ogg
+SHA1-Digest: DE8b90PFPC1allNbDcNpai1t8AM=
+
+Name: res/drawable-hdpi/btn_bg_pressed.9.png
+SHA1-Digest: 3locICaKQzhXbVXovfkUMcXwL7M=
+
+Name: res/drawable-hdpi/upomp_bypay_sub10_on.png
+SHA1-Digest: CvUsJzYfCChTbNByBblcukk5nAw=
+
+Name: res/drawable/bottom_btn1.png
+SHA1-Digest: /yBA29wQoW0wX7b9wQfywApFOrU=
+
+Name: res/drawable-hdpi/umeng_share_send_button_sel.png
+SHA1-Digest: 6f/rDEptZp2akHhSrF1tb7GLIuI=
+
+Name: assets/Themes/Items/Items01-hd.pvr.ccz
+SHA1-Digest: Bs7H237Ve749IRlhKYLDXA3BhoQ=
+
+Name: assets/Themes/Theme6/Items/Monsters02-hd.pvr.ccz
+SHA1-Digest: 3fmOixKRUflgH4gsI2VNAFw//H8=
+
+Name: assets/Themes/Theme1/BG2/BGPath.tmx
+SHA1-Digest: 9OVSJZSr3bVuYhBdXTDkWp7zhmE=
+
+Name: res/drawable/pay_charge_deno_btn.xml
+SHA1-Digest: ZpNqxqKUZLlC5X4EORqNe6ydeMc=
+
+Name: res/drawable-hdpi/upomp_bypay_input_btn_2.png
+SHA1-Digest: +9euP0M7ViWEIDneHp1zugZ1ssg=
+
+Name: assets/Themes/Theme1/BG2/BG-hd.pvr.ccz
+SHA1-Digest: e7P/g44oYkF+pf5o0itG8gkoByI=
+
+Name: assets/Themes/Towers/TCuttle-hd.pvr.ccz
+SHA1-Digest: YHjkBB2mUVDnEK2KbEfwOHXvU4s=
+
+Name: assets/Themes/scene/help_2-hd.pvr.ccz
+SHA1-Digest: G14Gpu/mvbgJIwkIaA7F93ivQyk=
+
+Name: res/drawable-hdpi/share_numbg.png
+SHA1-Digest: cjhokbmAGowHB+x6JX2/Qn6tweM=
+
+Name: res/drawable-hdpi/umeng_logo_big.png
+SHA1-Digest: W2Ikln1qSnUI1rIKzoxwyCzEWFY=
+
+Name: assets/Music/Feeds/Feed02.ogg
+SHA1-Digest: aPenvsuRxxs1btOagmmRQjXn5F8=
+
+Name: res/anim/umeng_xp_slide_out_from_bottom.xml
+SHA1-Digest: jduD6Uox6eObhukC4jMm1ENlDi4=
+
+Name: res/drawable-hdpi/upomp_bypay_btn_small_bg.png
+SHA1-Digest: 4iws6AOcpokkgV6JDIfsIWoa+h0=
+
+Name: res/drawable/bottom_selector.xml
+SHA1-Digest: Yw2yFuVkZ/1iytySD1fAtd9BlKU=
+
+Name: res/drawable-hdpi/upomp_bypay_card_btn_2.png
+SHA1-Digest: UDWOVBdPy8dJR9sX7TubhfMxvj4=
+
+Name: res/drawable-hdpi/umeng_xp_seek_bg.png
+SHA1-Digest: FmkVe4JoiUg5ZbY/A3PGTNH9lTs=
+
+Name: assets/Themes/scene/thempopuplock-hd.pvr.ccz
+SHA1-Digest: lqc/Kpy/27RK7zBAaosfj9syJp0=
+
+Name: assets/Themes/Items/numgiftbox-hd.png
+SHA1-Digest: 7ZJ9MribM3XbuyBp6CT377y4X9E=
+
+Name: res/drawable-hdpi/gc_billing_cancel_unenabled.png
+SHA1-Digest: 19BwmxO5UF7S9ULroRrssiUqz0g=
+
+Name: assets/Themes/scene/antiboss_bg-hd.plist
+SHA1-Digest: Dddd5tEYK+1sCAObsNEKwyXln4w=
+
+Name: assets/Themes/Theme3/BG1/BGPath.tmx
+SHA1-Digest: dtQ7CvG15wkLkkvL3xSp82VidIU=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_grey_5.xml
+SHA1-Digest: x5IlRCaeGxd8leVYr1E1zm6hpFA=
+
+Name: assets/Themes/Theme6/Items/Monsters01-hd.pvr.ccz
+SHA1-Digest: HM/8jFF1NoJgaMIPXM3js7QIZSY=
+
+Name: res/drawable-hdpi/upomp_bypay_nav1_default.png
+SHA1-Digest: Nn/GL1Tnt5vQTQPrczkud/QxEs0=
+
+Name: res/layout/apay_dianka_confirm.xml
+SHA1-Digest: yvaGYBeg/h7gAXfYNvB3sNWzJrc=
+
+Name: res/drawable-hdpi/umeng_share_face_09.png
+SHA1-Digest: qZuOLf8W6ZRPDqLRRb8Jthv+a3g=
+
+Name: assets/Music/Main/Select.ogg
+SHA1-Digest: PBZQCiqrapIkfDmeRo6ZFmuCapA=
+
+Name: assets/Themes/Theme6/BG15/BG-hd.plist
+SHA1-Digest: RU5jKZ+mzBkT2AMlUPgNDcl54qE=
+
+Name: assets/Themes/Pets/PetsShopAndroid-hd.plist
+SHA1-Digest: JKbdhsBsL2XdzCjYQ1+CbDkFNPI=
+
+Name: res/layout/apay_message_dlg.xml
+SHA1-Digest: QJ38NHiYR9Vw16FN5V/Dm6wovQQ=
+
+Name: assets/domob_next_off.png
+SHA1-Digest: grInRNpOLXjWa5hDSdT5DS/AaLg=
+
+Name: assets/Themes/Theme2/Items/Object02-hd.plist
+SHA1-Digest: V40x+LbKPSk6jyHewdEHGSkxNbA=
+
+Name: assets/Music/Feeds/Feed01.ogg
+SHA1-Digest: YHhd4EPI/2JnEYeshK5IJoUaBq0=
+
+Name: res/drawable-hdpi/umeng_share_logo_tenc.png
+SHA1-Digest: 0ZaA1O/a0ieyv+wUboqQSHeUwnc=
+
+Name: assets/Themes/scene/recommend-hd.plist
+SHA1-Digest: uStTsfYK92IhtKfS1x3tPKZTOCk=
+
+Name: res/drawable/upomp_bypay_btn_number.xml
+SHA1-Digest: AkueVrna2hKCrMp5uhvfxGehJC4=
+
+Name: assets/Themes/Theme1/BG1/BG-hd.pvr.ccz
+SHA1-Digest: P7ero8lmtWm3gEbG22OvZqXUPVk=
+
+Name: assets/Themes/Theme1/BG9/BGPath.tmx
+SHA1-Digest: wbfqv0XffWTd/GXn29IkV6Pnm5g=
+
+Name: res/layout/upomp_bypay_pay_result.xml
+SHA1-Digest: 9EnZk/BmdDB7h/CiInCou7tLvok=
+
+Name: assets/Themes/Towers/TPlane-hd.pvr.ccz
+SHA1-Digest: K+KhJArFwhX1XzttJLH9AsXC5Gs=
+
+Name: assets/domob_out_on.png
+SHA1-Digest: gkEO+eSklPysdNgbHyPeyAsXEoM=
+
+Name: res/drawable/umeng_fb_bar_bg.9.png
+SHA1-Digest: zTF3mPGO8XIUaaZ0RJDAPnmH/vc=
+
+Name: res/drawable-hdpi/umeng_xp_strock_bg_1.xml
+SHA1-Digest: 9X2PTJYFIL0tzmU85yV/v9tppsE=
+
+Name: assets/Themes/Theme2/BG7/BGPath.tmx
+SHA1-Digest: 7RmRamTFmZf9oAdV3G7JiEbaCjI=
+
+Name: res/layout/umeng_fb_conversation.xml
+SHA1-Digest: 41AZ4W0lB2HctIgB0JN2X8Xzy80=
+
+Name: res/drawable/umeng_share_shareto_stroke.xml
+SHA1-Digest: 7X2u6n0Az+onGVxWhwQc7HAkF9E=
+
+Name: res/drawable-hdpi/upomp_bypay_user_title_bg2.png
+SHA1-Digest: eem5it3wjWUthuCgVIZz7U1+wa0=
+
+Name: assets/Music/Items/GO.ogg
+SHA1-Digest: T7vM+HmUFpcnk6i7wj7RIZ30TQ0=
+
+Name: res/layout/pay_confirm_dlg.xml
+SHA1-Digest: QibEGcLBJvf8D1obqaAWgh3J6P4=
+
+Name: res/drawable/upomp_bypay_btn_sub2.xml
+SHA1-Digest: 7CAXRIrLjXXMxfcTrL5JmNPGm0A=
+
+Name: assets/Themes/Theme6/BG16/BG-hd.plist
+SHA1-Digest: cec460gUDQkAvBNRzqtAZJyUW+4=
+
+Name: res/layout/upomp_bypay_card_main.xml
+SHA1-Digest: iD7G5X7JD3+NAQJ5qq0VMMx38MY=
+
+Name: assets/Music/Monsters/Land611.ogg
+SHA1-Digest: K7wuv6GP4W6qWhVP+Ii64fFoAuM=
+
+Name: res/drawable/apay_discount_shape.xml
+SHA1-Digest: NpQWDpuDUQ+uqSW3TAyE9/NtAvE=
+
+Name: res/layout/ad_dialog_view.xml
+SHA1-Digest: 3kScyNBL1lsvwxdkk/hXgbzd+MA=
+
+Name: assets/Music/Items/Lose.ogg
+SHA1-Digest: h+Pqt+irka5WIa/z1OnZcK+Ge5s=
+
+Name: assets/Themes/Towers/TArrow-hd.plist
+SHA1-Digest: EDNJ2zcsjPg+qooynsy4D+cqPXo=
+
+Name: res/drawable-hdpi/umeng_share_face_03.png
+SHA1-Digest: kkC0hCCSVC0BuTrChKXaFUousEQ=
+
+Name: res/drawable-hdpi/umeng_xp_highlight_banner_background_selector.
+ xml
+SHA1-Digest: 2VHEKziNlhC8JOngn9/xIOw3lDM=
+
+Name: assets/Themes/Items/clock_num.png
+SHA1-Digest: btPUuCo94ixPvrQ2BrqNiaXXxYs=
+
+Name: res/drawable-hdpi/umeng_xp_back_button_selected.png
+SHA1-Digest: Q26WY0ZlTrkkoKYIenSqNxgWR48=
+
+Name: res/drawable-hdpi/share_btn_pressed.png
+SHA1-Digest: Hj6YWn8pzVGVUdSW+A0pkI0NLso=
+
+Name: assets/Music/Monsters/BigBoss.ogg
+SHA1-Digest: bVDz2l/zopx8IN3iQnTGGKe2nIM=
+
+Name: res/raw/opening_sound.mid
+SHA1-Digest: mFDMwGfLVsJXoP5tzs1AOP6Fa/s=
+
+Name: res/drawable-hdpi/upomp_bypay_tips_title.png
+SHA1-Digest: ifVeercVfmFALlW/QyPdjOzFN4E=
+
+Name: res/drawable/pay_type_8.png
+SHA1-Digest: 3uohQGHyX7jigJa/MvjkyVKGpS8=
+
+Name: assets/Themes/Pets/PetsTip-hd.plist
+SHA1-Digest: shihgGEUaf2PtJv6mHbE5VLzyqg=
+
+Name: assets/Music/Feeds/GiftBox02.ogg
+SHA1-Digest: fUjv3gJm/ZBB7n8JNSqg5+dtikA=
+
+Name: assets/Themes/Towers/TRocket-hd.pvr.ccz
+SHA1-Digest: +yGGs4AWDeQtUW4l8bGSVZbJvcg=
+
+Name: res/drawable/apay_white_btn_shape.xml
+SHA1-Digest: R/AfrdYxd747UVofj3yU5gJXkXY=
+
+Name: assets/OpeningAnimation/g_sound_ask.png
+SHA1-Digest: kIQoCQYEu6nkq136AuEzQ+yVZpw=
+
+Name: assets/Default@2x-360.png
+SHA1-Digest: 2zKsFTHWOgubHlpCTkb2Y+D9agA=
+
+Name: res/drawable/umeng_fb_write_pressed.png
+SHA1-Digest: /mR5ug1ARAvkMzXHb3WTcmTrAQQ=
+
+Name: assets/Music/Towers/Plane.ogg
+SHA1-Digest: DqlQX5RCDlAqtBbf1a73rcokiWo=
+
+Name: assets/Themes/Theme6/BG15/BG-hd.pvr.ccz
+SHA1-Digest: jSGDvVZED7FvNlucMWd01O/rY5Q=
+
+Name: assets/Music/Monsters/Land631.ogg
+SHA1-Digest: 0OtC6vUwmiiwvanUXwi2MSbON+U=
+
+Name: assets/Themes/Towers/TStar-hd.plist
+SHA1-Digest: 1isBPynaHLGws8SGbXdj87p3Pzw=
+
+Name: assets/Themes/Pets/PetsIcon-hd.pvr.ccz
+SHA1-Digest: BzB32t5ykX0i3kC03qR5MKF/xgM=
+
+Name: res/layout/umeng_fb_conversation_item.xml
+SHA1-Digest: UO9oTMsOJhYfBi8htNNkucoZuf0=
+
+Name: res/drawable/actionbar_compat_button.xml
+SHA1-Digest: prDSBQX9W0IdRglbDkSzqbIcXT8=
+
+Name: res/drawable/umeng_fb_dev_bubble.9.png
+SHA1-Digest: pbh5RwRrTGScN2NchTGb+jRNAGk=
+
+Name: res/layout/umeng_example_xp_container_and_icon.xml
+SHA1-Digest: X3ygPtzRrWH7C/YvyD/RafPQ/Fw=
+
+Name: res/layout/apay_yingyongdou_dlg.xml
+SHA1-Digest: dfdAK0U4FPQW8VytERr+AAlhxuU=
+
+Name: res/drawable-hdpi/actionbar_compat_background.9.png
+SHA1-Digest: W3q5hmR0RwO9ZrM2EYdqqrkqG9Y=
+
+Name: res/drawable/umeng_common_gradient_green.xml
+SHA1-Digest: ZDyisfAamRM9mdew8+tq1DegzP8=
+
+Name: res/drawable-hdpi/gc_bg_small.9.png
+SHA1-Digest: PC/+9V4YywpAUxB3P+HffRiuSDA=
+
+Name: res/layout-large/share_to_sina.xml
+SHA1-Digest: ww2NTHSqmC0MgyH+xbfNIZLRzq0=
+
+Name: res/drawable/upomp_bypay_btn_year.xml
+SHA1-Digest: 25jg2nnjD1RZenfUjqGLuTqAqVY=
+
+Name: assets/Music/Monsters/Land232.ogg
+SHA1-Digest: JFP9SF/ZBbtn2bToiY8Puq9h4jU=
+
+Name: assets/Themes/Items/Items04-hd.pvr.ccz
+SHA1-Digest: gxVI+CcX2e0aSiebjmrtc4PcOdI=
+
+Name: assets/Themes/scene/weibo-hd.pvr.ccz
+SHA1-Digest: 6VS1HLc63VBFclo+Lo6gr9InW7o=
+
+Name: res/drawable-hdpi/upomp_bypay_input_bg_on.png
+SHA1-Digest: 8T3L8JikcTdKFvIGLSgc+vA4jeo=
+
+Name: assets/Music/Towers/Mushroom.ogg
+SHA1-Digest: Nc4R2Q+lZJ+TmlFy6y56v4cWT6c=
+
+Name: assets/Themes/Items/Items05-hd.pvr.ccz
+SHA1-Digest: VHknf0SHxmXAVBIdH2CQ2n4SkWg=
+
+Name: res/drawable-hdpi/upomp_bypay_btn_xzm.png
+SHA1-Digest: RQ76ul10sd7lkfdaV1lmF7jFaF8=
+
+Name: res/drawable-hdpi/upomp_bypay_sub1_click.png
+SHA1-Digest: 5X+ONNXa+kUdIjPKVzVeKugUbJI=
+
+Name: assets/Themes/Theme6/BG7/BG-hd.plist
+SHA1-Digest: FmJ19TlclOpRz3utgwBLFVyYaMM=
+
+Name: assets/Music/Towers/Arrow.ogg
+SHA1-Digest: 59MejWFfAmUISC5CmJ5Kcxe+UmI=
+
+Name: assets/Themes/scene/antiboss-hd.plist
+SHA1-Digest: XlAhsEleo+IFK2a38ZzMvS3958k=
+
+Name: assets/Themes/Theme1/BG8/BGPath.tmx
+SHA1-Digest: Rmhej/o6jD3IhI645A4X+OM44t8=
+
+Name: assets/Themes/Theme1/BG5/BG-hd.pvr.ccz
+SHA1-Digest: 2yY82GUI+X9PXYMprV1aFSsSb4Q=
+
+Name: res/layout/upomp_bypay_keyboard_symbol.xml
+SHA1-Digest: Gy7An+FXzY6oq5mlAd0Edpu/IUY=
+
+Name: res/layout/apay_type_phone.xml
+SHA1-Digest: 6EV/rRAtF/woQLF2GjwqXtQE9sM=
+
+Name: res/drawable/share_setting_bg.xml
+SHA1-Digest: I9S+wdIIFpL/k7hDfOkK1fV1BGE=
+
+Name: res/drawable-hdpi/actionbar_compat_separator.9.png
+SHA1-Digest: QbYCeEskhU4TIfCAQ/b45xa+GVE=
+
+Name: assets/Themes/Theme2/BG1/BG-hd.plist
+SHA1-Digest: phgeAOJL4QWqYsTRxuMnElbHvYY=
+
+Name: assets/Music/Towers/FireBottle.ogg
+SHA1-Digest: k/zPHv3+9iCj4w4Pp3/M+gNGekc=
+
+Name: assets/domob_exit_on.png
+SHA1-Digest: 5CMs8jfgvZosxU7CDtFHjsOqk7E=
+
+Name: assets/Themes/Theme2/BG0/BG2-hd.pvr.ccz
+SHA1-Digest: D57HM9O4LODnLwa5HKR47zs/1dc=
+
+Name: res/layout/account_management.xml
+SHA1-Digest: 4/pwlwJgIf7cOIpEXAvO28Z7KKQ=
+
+Name: assets/TenpayService.apk
+SHA1-Digest: +V2nmzCKdm+/H4XOFhhWlLMadQA=
+
+Name: res/drawable/apay_charge_shape.xml
+SHA1-Digest: Sd/DeQyh/2RN5ds+vU2a41so8G8=
+
+Name: res/drawable-hdpi/gc_cmgc_logo_s.png
+SHA1-Digest: LIfjaLA3RV4rcTa9FgNGof95pRI=
+
+Name: assets/Themes/Theme2/Items/Monsters02-hd.plist
+SHA1-Digest: Isndlys35hUThP28h9w0HAmL3Ss=
+
+Name: assets/btn_ac_click.png
+SHA1-Digest: y7CL93N9DyZlEySwF3hUQBMraMs=
+
+Name: res/drawable-mdpi/umeng_share_bg_gridview.9.png
+SHA1-Digest: 9Ep2MTjNpT6x1I/VZIgqDmpv/IE=
+
+Name: res/anim/umeng_xp_zoom_out.xml
+SHA1-Digest: DN7zM6x4eobPK8V1UfIsiNFI34s=
+
+Name: res/drawable-hdpi/umeng_xp_btn_gradient_dark_grey.xml
+SHA1-Digest: 5yuvFXUXHJTq0Xb2B34ThME6j/0=
+
+Name: assets/Themes/Pets/interface_num-hd.png
+SHA1-Digest: Cqo3JvcKG5EM1zf39/Aww/oYiMw=
+
+Name: assets/Themes/Theme3/Items/Object01-hd.pvr.ccz
+SHA1-Digest: R010UJeQwHdjbDST7hZ3oGBsQzc=
+
+Name: assets/Themes/Theme3/BG7/BGPath.tmx
+SHA1-Digest: 9fOYJJOLXMca+qkGrbXWVsQjbwo=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: XOhc5FYS8Ypv3N12Qu2MXch30+U=
+
+Name: res/drawable-hdpi/upomp_bypay_select_month.png
+SHA1-Digest: dk/s/lovDRt/qjmLNPmQ/TgHo6o=
+
+Name: res/drawable-hdpi/upomp_bypay_nav3_on.png
+SHA1-Digest: vBrOBqW4OCUKQ+hLD0Q8Lz/GBD8=
+
+Name: res/drawable-hdpi/upomp_bypay_nav2_on.png
+SHA1-Digest: TIrsbx3mrdTiZK5dGESxO0cn2FM=
+
+Name: res/drawable-hdpi/mainbg.png
+SHA1-Digest: I/YeaYRU4Jq5/lsk4ShlHKbVrPg=
+
+Name: assets/Themes/Theme1/BG15/BG-hd.plist
+SHA1-Digest: 6lQNqLxoBbjplasKsjnzjq5Duxc=
+
+Name: assets/domob_banner.png
+SHA1-Digest: TBlrzvDkjnGYpIIkzp6gzJwiAZQ=
+
+Name: res/drawable-hdpi/close_pressed.png
+SHA1-Digest: odV9JL/ljJ9zylm8yR1kmbSe1uc=
+
+Name: res/drawable-hdpi/ic_title_home_default.png
+SHA1-Digest: 12MIxwHTezPOwQaSuCytHXyI3t8=
+
+Name: assets/Music/Monsters/Land323.ogg
+SHA1-Digest: Q/6yzbiD9xYzpodHTBkpozNm7LY=
+
+Name: assets/pay_secservice_build_info
+SHA1-Digest: kE9+PqzG/j1wqltUmcW+c2Yp0kE=
+
+Name: res/drawable-hdpi/upomp_bypay_sub2_click.png
+SHA1-Digest: p4pSNiR1FQ5Pe90QBfVfPiSBqTY=
+
+Name: assets/Music/Monsters/Fly262.ogg
+SHA1-Digest: 5rFAPzJrEbJQKLDFJ2yEue/Gu0k=
+
+Name: res/drawable/share_fan.png
+SHA1-Digest: wbMi4IOF3edH3cTlkFlwO2/hTFM=
+
+Name: res/drawable-hdpi/share_btn_normal.png
+SHA1-Digest: N0b63AVu0u8CgAuruJCHj6I3ePo=
+
+Name: assets/Themes/Theme3/BG9/BGPath.tmx
+SHA1-Digest: nXPZCa8qlluOHaf8035VxAeRHSc=
+
+Name: assets/Themes/Theme1/BG16/BGPath.tmx
+SHA1-Digest: viiULCAXuD3lLa7HdmQ+mGuAaps=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_phone.png
+SHA1-Digest: D1tsTYJ3rDc5knO0SnSMgbn3iyQ=
+
+Name: assets/Themes/Theme1/BG8/BG-hd.pvr.ccz
+SHA1-Digest: nbUMvRWkeoFxlAbgGWrTB0YUmKs=
+
+Name: res/drawable/umeng_share_gridview_item_sel.xml
+SHA1-Digest: 6b7Ev0Cp2YhzNuVLFNQ5rIydPAk=
+
+Name: assets/Themes/Theme2/BG8/BG-hd.pvr.ccz
+SHA1-Digest: BGmjN8xW1+5XDzWz7NvmRXScDsY=
+
+Name: assets/fps_images.png
+SHA1-Digest: MCuWZNXYwVdYVlvK/ok9Gerxt1M=
+
+Name: res/drawable-hdpi/upomp_bypay_nav3_default.png
+SHA1-Digest: /skLGjbOpGOIOrkQIKHnRU70Kg0=
+
+Name: assets/Themes/Items/Items02-hd.plist
+SHA1-Digest: YD4IJ9o5LzqMQvvKfIeBBSh7QnM=
+
+Name: assets/Music/Items/Object.ogg
+SHA1-Digest: AJxC4w4/UNK75EVu7a7YJm+8R7k=
+
+Name: res/layout-small/share_to_tencent.xml
+SHA1-Digest: 98d4xRshqhEKaZs5r85Z3BKtOfU=
+
+Name: assets/Themes/scene/stages_theme1-hd.plist
+SHA1-Digest: 7bEiliJZd03ZHIECcE7MBcigCHc=
+
+Name: assets/Themes/Theme3/Items/Object02-hd.plist
+SHA1-Digest: JgqHOcPUpGgPdJCODDGmWvcml18=
+
+Name: assets/Themes/Theme6/Items/Object02-hd.plist
+SHA1-Digest: nuQXff+RhJ+58c75PmxzU/YaU+o=
+
+Name: res/drawable-hdpi/umeng_xp_recommend_titile_bg.png
+SHA1-Digest: JVrDV7Q2CWM91Sr4vSE9int0yas=
+
+Name: res/drawable-hdpi/umeng_xp_large_gallery_item_bg.xml
+SHA1-Digest: mpXi+8NwOBydDi4aOCDq6lPwkq8=
+
+Name: res/drawable-hdpi/upomp_bypay_input_btn_hq_click.png
+SHA1-Digest: bvjQTsds8F5tJleTFhvtd7GcyJk=
+
+Name: assets/Themes/Theme2/BG2/BGPath.tmx
+SHA1-Digest: 6y7xjzDOxexe1LRAS5MskkchVAU=
+
+Name: res/drawable-hdpi/umeng_xp_detail.png
+SHA1-Digest: XAbHHZaTmraPgNenAVw7hOPTl/Q=
+
+Name: assets/Themes/Theme6/BG9/BG-hd.plist
+SHA1-Digest: yXaI3rdswGd7X1yEZRlGCFo0WkY=
+
+Name: res/layout/upomp_bypay_keyboard_num.xml
+SHA1-Digest: BZCflbXU4K8K7ob/736uDwbztGA=
+
+Name: res/layout/umeng_example_xp_banner_activity.xml
+SHA1-Digest: BoX+hsXR2J5E3cnBJxiG7Egdrjo=
+
+Name: res/drawable-hdpi/upomp_bypay_btn_big_bg.png
+SHA1-Digest: eRcZkYTVR0I4NA1Md1PF0z7M1vs=
+
+Name: res/drawable/umeng_example_xp_action_refresh.png
+SHA1-Digest: BHsxih8e2p1tI2xFnvkHtUFo6Cg=
+
+Name: res/drawable-hdpi/umeng_xp_standalone_bg.9.png
+SHA1-Digest: c+8OL/Ru+RJpowvSdHeXVRNmHbQ=
+
+Name: assets/Themes/Pets/PetsShopAndroid-hd.pvr.ccz
+SHA1-Digest: Gz4dGUq6m6qLfwetM+vtRA6NWx8=
+
+Name: res/drawable-hdpi/upomp_bypay_card_btn_3.png
+SHA1-Digest: 7Zc9wdmDzQV4e1f8sIkndMLJz5o=
+
+Name: assets/Themes/Theme3/BG12/BG-hd.pvr.ccz
+SHA1-Digest: 6zuuhtrDAGBVwFwmM+U+yD/Os0o=
+
+Name: assets/Themes/Theme2/BG0/BG1-hd.pvr.ccz
+SHA1-Digest: KXsdMzDL5OoSxxU1UOOx6p0x4U0=
+
+Name: res/layout/upomp_bypay_card_bank_result.xml
+SHA1-Digest: vtllgpaP2yBAQktE2FRUZjxpaXg=
+
+Name: res/layout/pay_modify_pwd.xml
+SHA1-Digest: 4lnbEfuHcCIxLz4/h38Kmh9eW30=
+
+Name: res/drawable-hdpi/upomp_bypay_tips_bot.png
+SHA1-Digest: B0/wVV27CzWeBysnRp/J7cKKGuM=
+
+Name: assets/Themes/Pets/PetsDrop-hd.plist
+SHA1-Digest: JqzADOB6POk24smcUoVKqnVkMcE=
+
+Name: assets/Themes/Theme2/Items/Object01-hd.pvr.ccz
+SHA1-Digest: hrcSMRc2y85OPa4ONPlpEelsVDQ=
+
+Name: res/drawable/umeng_xp.png
+SHA1-Digest: ge/3SWZxjBoISOdxsiNlgOVzxJ8=
+
+Name: assets/Themes/Theme2/BG1/BGPath.tmx
+SHA1-Digest: m9CRYPcLKvuRDj8x0I2EvAOCK04=
+
+Name: res/drawable-hdpi/umeng_example_xp_new_tip_bg.png
+SHA1-Digest: RPBjiyLCFJ7niuwqP+unU3OmG8k=
+
+Name: assets/Music/Monsters/Fat643.ogg
+SHA1-Digest: kPQslxMJCuSMosm4g1k+K5V87SU=
+
+Name: assets/Themes/Theme3/BG13/BG-hd.pvr.ccz
+SHA1-Digest: YPdkG6fmL2wywh0MEw/Mun5+tQc=
+
+Name: res/drawable/pay_tips.png
+SHA1-Digest: LeuKazUYRiy4jbF313LIvcT1NEI=
+
+Name: res/drawable-hdpi/upomp_bypay_btn_big_bg_click.png
+SHA1-Digest: inWsBCNlG2b+ZgzwWFpPbBb142U=
+
+Name: assets/Themes/Items/Items08-hd.pvr.ccz
+SHA1-Digest: rPnHcnySCt0631GSZsvdKBJg4+o=
+
+Name: res/anim/umeng_xp_fade_in.xml
+SHA1-Digest: 5bMODiMExkBiN0HlrHvOyyyOTk0=
+
+Name: res/drawable/apay_appicon_shape.xml
+SHA1-Digest: 2Q3toVOs3GEpAvwl6Tdw7qrRoPc=
+
+Name: res/drawable/upomp_bypay_card_list.xml
+SHA1-Digest: SkObtaJmZKnPDiH7B/D8uxv8CnE=
+
+Name: assets/Music/Monsters/Fly662.ogg
+SHA1-Digest: X3+Nv1CCzg9oYX7QfB6qkOMJh0U=
+
+Name: assets/Music/Monsters/Land111.ogg
+SHA1-Digest: yoFkVUrKN1bhh439LUP3DWximh8=
+
+Name: assets/Themes/Theme6/BG13/BGPath.tmx
+SHA1-Digest: L/HMCOD2Rc6iQ238CHbYldvJzrM=
+
+Name: assets/Themes/scene/help_3-hd.plist
+SHA1-Digest: 3Yw8gsr2OctMicK7feAJSA0nWho=
+
+Name: res/drawable-hdpi/umeng_example_xp_admanage.png
+SHA1-Digest: Kg8H08PWLAYCMakRWs/KDPbgreA=
+
+Name: assets/Themes/Pets/PetsReward-hd.plist
+SHA1-Digest: DQOxCzV/fXJ1ru0pDcnwuZ7Mq0E=
+
+Name: res/drawable-hdpi/gc_billing_green_selector.xml
+SHA1-Digest: 2ge6H5th4nZrf9M/AzZWDoialFA=
+
+Name: assets/Themes/Towers/TFish-hd.plist
+SHA1-Digest: M89BIypZuoVrhRZ5a8CV/FQZAOE=
+
+Name: assets/Themes/Pets/PetsTheme06-hd.plist
+SHA1-Digest: CciTgqgm1AHdo43wp85iFpB1/s4=
+
+Name: res/drawable-hdpi/umeng_xp_large_gallery_failed.jpg
+SHA1-Digest: qrowhsOT0zy/K7ezhsGMthB4FIU=
+
+Name: assets/Themes/scene/stages_theme1-hd.pvr.ccz
+SHA1-Digest: HrMSFDr/0j/JC7N6tBPscOpVDGU=
+
+Name: assets/Default-Landscape~ipad-yidong.png
+SHA1-Digest: yr2/fsq1VSs/KjUtT/xo348YBGk=
+
+Name: res/layout/umeng_example_xp_tabfragment.xml
+SHA1-Digest: 8vglFREGPjppCeggEqorDqQhi3Y=
+
+Name: assets/cfg.dex
+SHA1-Digest: T9y5kHemh7sWXttZASlRsXkPj3E=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_pw_bg.png
+SHA1-Digest: pyqYrZkC4+nLitYK/+qsCoQ37DU=
+
+Name: res/drawable-hdpi/ic_title_refresh_default.png
+SHA1-Digest: XurqNO4ukbZPTBSsW9fkms+8GzY=
+
+Name: res/drawable-hdpi/umeng_xp_loading.png
+SHA1-Digest: Xro4zw2/+1ncfP5A1GeXCjFh4gk=
+
+Name: assets/Music/Items/Crash.ogg
+SHA1-Digest: 7jaMvb3/kCWMMd21fHqOCPwKOak=
+
+Name: assets/Themes/Theme2/BG3/BG-hd.plist
+SHA1-Digest: 70MtcTA55O97TORZcQttXSmoFMw=
+
+Name: assets/Themes/Theme6/BG13/BG-hd.plist
+SHA1-Digest: yMM1K3+vPEFC2eTVUpVu3ox2X5s=
+
+Name: res/drawable-hdpi/share_at_normal.png
+SHA1-Digest: PGWUHzuB2zGiFYQc0M+ArwRO/n8=
+
+Name: assets/Themes/Theme3/BG10/BG-hd.pvr.ccz
+SHA1-Digest: rXvBWcd87PU2abJxcTmwHzTy9Pw=
+
+Name: assets/Themes/Theme6/BG11/BG-hd.plist
+SHA1-Digest: Tak/TMxXE75z0zPbdLJ9zYYcPEw=
+
+Name: assets/Music/Monsters/Land612.ogg
+SHA1-Digest: BQKhLnPFcZBr7E35JnRJADFVBQg=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_blue_v2.xml
+SHA1-Digest: YqzgAd8k6k/tVFNmt0HiiFFFlRE=
+
+Name: assets/OpeningAnimation/g_no_hl.png
+SHA1-Digest: nQtdUHp8fstccjqq9fg5w4HpX1U=
+
+Name: assets/Themes/Theme3/BG13/BG-hd.plist
+SHA1-Digest: DHegjKRJHz7DWplxE4555oa/kGE=
+
+Name: res/layout/apay_edittext_item.xml
+SHA1-Digest: q3CDu5jz2n41gmjqSo5O2WIbW4M=
+
+Name: res/drawable-hdpi/umeng_xp_radius_shape.xml
+SHA1-Digest: Obke0H8PD8Ql2Q4KOPW7nwlrM3s=
+
+Name: assets/Themes/Pets/PetsTip-hd.pvr.ccz
+SHA1-Digest: hpnlOzaYXMvWRzK6XWye909HUjU=
+
+Name: assets/Themes/Pets/PetFeedNum-hd.png
+SHA1-Digest: UfsP2u9nXk8AiZusvuYfJhdaX/M=
+
+Name: res/layout/umeng_fb_list_item.xml
+SHA1-Digest: yZqQSaV1DRVvuo9UlaN1DMhYh4U=
+
+Name: assets/Themes/Theme6/BG5/BGPath.tmx
+SHA1-Digest: sa9OVRRFQ/mhuNnOgPuvTDGLVn4=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_letter_a2.png
+SHA1-Digest: IbjVay3NXBN7QPfVky5CYRo1VDE=
+
+Name: res/drawable-hdpi/upomp_bypay_card_btn_1_on.png
+SHA1-Digest: 8HVRg93n96+WvMgNpWiyuUDbwKw=
+
+Name: assets/Themes/Pets/PetsEgg-hd.pvr.ccz
+SHA1-Digest: ag6bVUR27X/bCvcK3cRNdJ7rl+U=
+
+Name: assets/domob_refresh.png
+SHA1-Digest: uOG5gW7P0+WIJBJqQv+OGU4U0pg=
+
+Name: assets/Themes/Items/Items32-hd.pvr.ccz
+SHA1-Digest: O1RXCOpEmJ0z/u2wHun3jAww6Aw=
+
+Name: assets/Music/Monsters/Fly361.ogg
+SHA1-Digest: 5l5ND6wB/drPo+LEms5UV5CdxrM=
+
+Name: assets/Themes/Theme6/BG12/BG-hd.pvr.ccz
+SHA1-Digest: htxg+PlOoLpbspeHG3tdz4Ji2o4=
+
+Name: assets/Themes/Towers/TBlueStar-hd.pvr.ccz
+SHA1-Digest: eoYgyygcgvXteUOcH9++Be9LtBY=
+
+Name: assets/Themes/Items/Items11-hd.plist
+SHA1-Digest: +Ayz2PHJjbCfUtlEi03fcezJw+4=
+
+Name: assets/Themes/Theme6/Items/Monsters01-hd.plist
+SHA1-Digest: KfUdyuuwHRgAC93glMthNNzd/mI=
+
+Name: assets/Music/Feeds/PetSound10.ogg
+SHA1-Digest: EVX3MEKhcL/jOytZZe1JVNs9tU8=
+
+Name: res/drawable/pay_type_1.png
+SHA1-Digest: EAeU65vLYKrFVX5U31GHQv4wUBw=
+
+Name: assets/domob_next_on.png
+SHA1-Digest: xiP7T4ASpjjOcl3kgdUVyFX7MH4=
+
+Name: assets/domob_preview_on.png
+SHA1-Digest: /tHSR296L6Zjzr3VcJyTMv5kmsQ=
+
+Name: assets/domob_out.png
+SHA1-Digest: QjbAqO7Cvx4Lzx7rv+bf91HeqPk=
+
+Name: res/drawable-hdpi/share_logo.png
+SHA1-Digest: M6GVnquJ2CCFfFTEKgzz9IURcHg=
+
+Name: assets/domob_close.png
+SHA1-Digest: gd5WQvwt5x63f+SBtM/5yCWq5ok=
+
+Name: assets/OpeningAnimation/g_logo_cp.png
+SHA1-Digest: ENpSldOc/EP7Y5lRXO1Wt3rA/tk=
+
+Name: assets/Themes/Towers/TMushroom-hd.plist
+SHA1-Digest: rGf49FuBtGNwLSDeMmYrrnpYTiY=
+
+Name: assets/Themes/Theme6/BG10/BG-hd.pvr.ccz
+SHA1-Digest: 2SbDpcKDSJQ3+sjXlmI5d8q7H8k=
+
+Name: res/layout/upomp_bypay_navigator.xml
+SHA1-Digest: wVa7paTsfuJKwQbCgtPmNcq7tGk=
+
+Name: assets/Themes/Pets/PetsWhale-hd.pvr.ccz
+SHA1-Digest: j4Lu1i4TRdVjtoEvkeSYcR/0F/M=
+
+Name: res/drawable/pay_type_12.png
+SHA1-Digest: 02QpRrQ/0tVMVEX8pzlePZxK7ts=
+
+Name: res/drawable-hdpi/upomp_bypay_sub1_on.png
+SHA1-Digest: rkIby3Chhy6E7A+c86NnsrnueWk=
+
+Name: assets/Music/Towers/Cuttle.ogg
+SHA1-Digest: i9lqveeGGQf6zECq+ILLSVNpxX8=
+
+Name: assets/Themes/Theme1/BG10/BG-hd.pvr.ccz
+SHA1-Digest: UdzMq50ns8XnHS78txcefIBa5u4=
+
+Name: assets/Music/Items/Finalwave.ogg
+SHA1-Digest: vaAKvDq/bd4z9zHer7im7IubIm8=
+
+Name: assets/Themes/Theme2/BG5/BG-hd.plist
+SHA1-Digest: rgjKah7KnrcLxludqdb0NMsyiMQ=
+
+Name: assets/Music/Items/CountDown.ogg
+SHA1-Digest: GPDnlzZpt5TtbIdR8RIXpIZoXHc=
+
+Name: res/layout/umeng_xp_fimageview_landscape.xml
+SHA1-Digest: PMlihfcsAfrtd1ageViei793Wzg=
+
+Name: res/drawable-hdpi/umeng_xp_point_selected.png
+SHA1-Digest: qYJXo3iUSXYjFd0uH2RbyF9YMZg=
+
+Name: assets/Themes/scene/setting01-hd.pvr.ccz
+SHA1-Digest: 92VTv5smoIdY2kdjhoruigaw7vU=
+
+Name: res/drawable-hdpi/umeng_xp_handler_rc.png
+SHA1-Digest: 3405D69JZA8Exqzd3crrPmzgLes=
+
+Name: assets/Music/Items/BGMusic02.ogg
+SHA1-Digest: RruTu83NmQJ1aqf26FBko4yOMqw=
+
+Name: assets/Themes/Items/Items05-hd.plist
+SHA1-Digest: HbJaN3zY2CCczSH01KsUYGVSGrU=
+
+Name: res/layout/umeng_xp_partners_banner_grid_item.xml
+SHA1-Digest: UmoEX1RrlR8Xw0Iv0wDHns4d/uQ=
+
+Name: res/drawable-hdpi/gc_billing_green.9.png
+SHA1-Digest: In8X7jX9tJmXVUFh4F6C9a/kDY4=
+
+Name: assets/Themes/Theme1/Items/Monsters01-hd.pvr.ccz
+SHA1-Digest: TARiCv78l9u2ynU87nkgTxJ9UWM=
+
+Name: assets/Themes/Theme2/BG6/BGPath.tmx
+SHA1-Digest: 1281/wCvLK9X60qXj+R2OPtWF5k=
+
+Name: assets/domob_border_black.png
+SHA1-Digest: pvMpjjp+hS2VDNIvaNxqucSiYzU=
+
+Name: res/drawable-hdpi/umeng_xp_icon_background_selector.xml
+SHA1-Digest: DVtRxWz5riSxNpahnjpHo0efiqw=
+
+Name: assets/Music/Monsters/Land222.ogg
+SHA1-Digest: R7tJQbvhJP6zVZAz2zC+XpWExZA=
+
+Name: assets/Themes/Items/Items09-hd.pvr.ccz
+SHA1-Digest: 16WwAUGOX2ld/jfLbaqUCLeFrxo=
+
+Name: assets/Default@2x.png
+SHA1-Digest: KkYPzQE0YHHRfHd2A+SOIMKXxpU=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_open_clicked.png
+SHA1-Digest: 47KidwlBKuYsjQ+6m0Hjz2oyXWg=
+
+Name: assets/Music/Monsters/Land231.ogg
+SHA1-Digest: 84bGX48bW/o6EGe3IKW4U2O03h0=
+
+Name: res/drawable-hdpi/upomp_bypay_btn_xzm_click.png
+SHA1-Digest: hoSqZN3iQq5g72STKAudhWwuvPY=
+
+Name: assets/Themes/scene/gameover-qqewr-hd.pvr.ccz
+SHA1-Digest: g8s4rM4BeemEhQtI0Kgya8whHZQ=
+
+Name: assets/Themes/scene/themescene3-hd.plist
+SHA1-Digest: 8vbkSq/SfTO+oBOnW8TRb7ZJUGs=
+
+Name: res/drawable/apay_hub_top_shape.xml
+SHA1-Digest: avGBD29/WFRgFVRiUMwVjSMFcqA=
+
+Name: res/layout/apay_type_index_item.xml
+SHA1-Digest: tD70RTikYTk8E7R1KBsTrrSm5lI=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_btn_enter_on.png
+SHA1-Digest: yAHAb3Wyelx5g8xUYfrp/Z9TzA4=
+
+Name: assets/Music/Items/BGMusic12.ogg
+SHA1-Digest: K1Mxo5kqYoUG0L41eRq3SmmPx5c=
+
+Name: assets/Themes/Pets/PetsWhale-hd.plist
+SHA1-Digest: wSEzSnJYDWw7gjjSQLMUvCuZ7yo=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_phone_selector.xml
+SHA1-Digest: p5Jo49FRJ3B8VOWW+iJNH9NQ9ko=
+
+Name: assets/OpeningAnimation/g_yes_hl.png
+SHA1-Digest: e/qJ54+mE8XseGt117FZEkY8HzM=
+
+Name: assets/Themes/Theme6/BG4/BG-hd.plist
+SHA1-Digest: 0XrzwTuYxRMVPJeGvGLuXtNfD/M=
+
+Name: assets/Themes/Theme3/BG6/BG-hd.plist
+SHA1-Digest: tdk+HiUD7CNgVBuUaVvgNn/7pAQ=
+
+Name: res/drawable-hdpi/upomp_bypay_psw_bg.png
+SHA1-Digest: 6T8UG9VInYNo47DgJeSceUZtFVM=
+
+Name: assets/Themes/Theme6/BG1/BG-hd.plist
+SHA1-Digest: fN2ndZjSiEq2aMg0NgkZZFIEfWk=
+
+Name: res/anim/umeng_share_popup_exit.xml
+SHA1-Digest: hoKmiST4NHH4L7UQq6TBtEVsAHE=
+
+Name: res/drawable-hdpi/umeng_xp_x_button.png
+SHA1-Digest: jQsn3IqbbigHKbu+D7JBuL7fQ8o=
+
+Name: assets/Themes/Theme2/BG13/BG-hd.pvr.ccz
+SHA1-Digest: 3K59162LSl8mrUAlsJUXtfeXOVI=
+
+Name: res/layout/upomp_bypay_card_balance.xml
+SHA1-Digest: KTA93xAwqio8nu3cyTPQqRlLgSA=
+
+Name: assets/Themes/Theme2/BG3/BG-hd.pvr.ccz
+SHA1-Digest: foLkARNBmSezxjWQYVPIhG3v6Kg=
+
+Name: assets/Themes/Theme3/BG12/BG-hd.plist
+SHA1-Digest: HPbHaDLAxnD+zV7Id/PYmg2o+MM=
+
+Name: res/drawable-hdpi/umeng_share_locate.png
+SHA1-Digest: I13u2JCkI0C96ucsQhr6NmRrSuo=
+
+Name: assets/Music/Towers/Rocket.ogg
+SHA1-Digest: jHRyamabpOu0BZiQ5EW0XQ8Sqbk=
+
+Name: assets/Music/Towers/Snow.ogg
+SHA1-Digest: 29uR40CEVs/GnN4jA22i1HnWkiY=
+
+Name: assets/Themes/scene/darkbg-hd.plist
+SHA1-Digest: y3n/krU22gBjCkHXTKM1DoC+ljo=
+
+Name: assets/Themes/Theme1/BG15/BGPath.tmx
+SHA1-Digest: cT51pu4DFPRQzSf4ncpZHhQcNw4=
+
+Name: assets/Themes/Theme1/BG10/BGPath.tmx
+SHA1-Digest: W9oTKnpsiMy1CYNEhzBl81ZLmEQ=
+
+Name: assets/Themes/Pets/PetsFirst-hd.pvr.ccz
+SHA1-Digest: 08KNmezvi+UnbRQ6wWFLoLgsRhU=
+
+Name: assets/Themes/Theme2/BG0/BG2-hd.plist
+SHA1-Digest: WBlwvVWZcZkgEiEsvcHZj44TCm4=
+
+Name: res/anim/umeng_share_popup_enter.xml
+SHA1-Digest: v076xL9/7tKHI5B59gFxse74XGE=
+
+Name: res/drawable-hdpi/umeng_example_common_banner_promotion.png
+SHA1-Digest: ge/3SWZxjBoISOdxsiNlgOVzxJ8=
+
+Name: assets/Themes/Theme1/BG3/BGPath.tmx
+SHA1-Digest: PP1pyue+TXEqEsSdmWUEsUGKqDA=
+
+Name: assets/Themes/Theme3/BG4/BG-hd.plist
+SHA1-Digest: ov7ieZRqh8cXxIC7j9aiiawZ72w=
+
+Name: res/layout/umeng_xp_clould_dialog.xml
+SHA1-Digest: TF3uV5mT7Z+NNo6kh2+6JcCoGz4=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_letter_bg_on.png
+SHA1-Digest: LXVdi96YfC8Sr4ZE23Z4gZkXm5g=
+
+Name: res/anim/umeng_xp_progressbar.xml
+SHA1-Digest: OtU4505Z7qXrWk9mNmiLknT9xug=
+
+Name: res/layout/umeng_xp_recom_header.xml
+SHA1-Digest: aS2tx16iD3f2UG2fdsi39NcbfL4=
+
+Name: assets/Themes/Theme1/BG9/BG-hd.pvr.ccz
+SHA1-Digest: 8A2m1Gc8x30hggbwuap7+XMM3aw=
+
+Name: assets/Themes/Theme2/BG12/BG-hd.plist
+SHA1-Digest: vqvcsaqPDKUcgeAcA2T5se+eRLY=
+
+Name: assets/Music/Monsters/Fat342.ogg
+SHA1-Digest: eQ3NZ5+93/SZQaOz9bDW9oa+84g=
+
+Name: assets/Themes/scene/newtheme-hd.plist
+SHA1-Digest: GgzxBk6XI+BI/SF8tQkJs2BsNHY=
+
+Name: res/drawable-hdpi/gc_billing_blue.9.png
+SHA1-Digest: 1jrf5QRVbi7Azk/lP7sQXzcDdY4=
+
+Name: res/drawable/qianbaihui.png
+SHA1-Digest: FE7eUZCP38Cq5lTAPlKBKprEVDw=
+
+Name: assets/Music/Monsters/Fly152.ogg
+SHA1-Digest: ibzBZAYhmdLRW41a5pbn2fEbvzo=
+
+Name: assets/Music/Monsters/Land322.ogg
+SHA1-Digest: rfmiZYbQk8WTEM/2wxYLMggnfII=
+
+Name: res/drawable-hdpi/share_at_pressed.png
+SHA1-Digest: bPw9iGByYsrwRD1jxEPHjWsPBLg=
+
+Name: res/drawable-hdpi/upomp_bypay_card_list_bg_click.png
+SHA1-Digest: 7LcGcXv4E4EKKB/9AIypBmuF6T4=
+
+Name: res/drawable-hdpi/umeng_xp_icon_background_clicked.png
+SHA1-Digest: QmJVuy7rKaOhCx29qjYUZEstdxY=
+
+Name: res/drawable/upomp_bypay_btn_button.xml
+SHA1-Digest: qKHERzFPRDNfmSXiM5yYfVGmYQE=
+
+Name: res/drawable/pay_box_input_amount.xml
+SHA1-Digest: pxQ7GrumJDZLs3VblVjcVU1rJqQ=
+
+Name: assets/Themes/Theme2/BG2/BG-hd.pvr.ccz
+SHA1-Digest: IrWEEVtwb0K+AdCxgM1/l0BXVLo=
+
+Name: assets/Themes/scene/mainscene0-hd.plist
+SHA1-Digest: blmJvYJP2dfRkZN9I3KDTN+ktb0=
+
+Name: res/drawable-hdpi/upomp_bypay_input_btn_hq.png
+SHA1-Digest: yGZWoF67/SvJVQPDAJxmSzgAujM=
+
+Name: assets/Music/Monsters/Land221.ogg
+SHA1-Digest: G3EDXVhPDrRmwb3nTZ60nI71Tes=
+
+Name: res/drawable-hdpi/upomp_bypay_sub11_default.png
+SHA1-Digest: LKPKZQekj3sU+dscYAqLcZHpxFg=
+
+Name: res/drawable/apay_account_btn_selector.xml
+SHA1-Digest: 5Qp3dqU0RC/HI117ZBXNUfsz7Fo=
+
+Name: assets/Themes/Theme6/BG0/BG1-hd.pvr.ccz
+SHA1-Digest: S8zCIazJ4YSjHmj4G0yRnAStI1k=
+
+Name: res/drawable-hdpi/upomp_bypay_sub2_default.png
+SHA1-Digest: CZWHWdUovXnRHIE9M9afiT3QzQY=
+
+Name: assets/Themes/Theme2/BG11/BGPath.tmx
+SHA1-Digest: H1V336XnmYD9V+jn/zoUTDwwosM=
+
+Name: res/drawable-hdpi/upomp_bypay_select_year_on.png
+SHA1-Digest: y9YhR7igRaregK5hSBEKTbTiWZ4=
+
+Name: assets/Themes/Theme1/BG15/BG-hd.pvr.ccz
+SHA1-Digest: V+LfMVbSOACutnWsFoxrG86gphw=
+
+Name: assets/Themes/Theme3/BG1/BG-hd.plist
+SHA1-Digest: LYMP1t/F93VznJAhHKYiO9wgoT4=
+
+Name: assets/Themes/Items/clock_num-hd.png
+SHA1-Digest: pQ31l9Pkxjk/zT4JmEEW6cpNotE=
+
+Name: assets/Themes/Theme2/BG15/BG-hd.plist
+SHA1-Digest: wTREnIylf6ySr527ZYstIVy7tOs=
+
+Name: assets/Music/Monsters/Fat142.ogg
+SHA1-Digest: ORGNfSeoqi3o8h0ga1Pxmo5RUDU=
+
+Name: res/drawable-hdpi/umeng_xp_horizontal_divider.xml
+SHA1-Digest: IJEzvBVWgZUhQuj4e9FW0cx46Qw=
+
+Name: assets/Themes/Items/Items00-hd.pvr.ccz
+SHA1-Digest: g/KmJNBZj7b4sYIN9sW1b5aOnGk=
+
+Name: assets/Themes/Theme2/BG15/BGPath.tmx
+SHA1-Digest: 5eW7ZH5OJ/yQXFhxV52dMvy5TF0=
+
+Name: res/drawable-hdpi/umeng_xp_download_dialog_close.png
+SHA1-Digest: q7rv3J52Qc7Cb2JQa4eKpfEG16o=
+
+Name: res/drawable-hdpi/toolbar_bg.png
+SHA1-Digest: CaFge+T5XcUrH4B/aMUxNlgjj70=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_fh_bg_on.png
+SHA1-Digest: QK+XNms60dhaAzoENWoXPX7R5eM=
+
+Name: assets/Themes/Theme1/BG10/BG-hd.plist
+SHA1-Digest: YRxiTihMXd88xRFJRFl6hzaal5U=
+
+Name: res/layout/umeng_example_xp_small_handler_activity.xml
+SHA1-Digest: OL1biuto+W7eL2vMGXN8nGwJ2QQ=
+
+Name: assets/Music/Feeds/PetSound03.ogg
+SHA1-Digest: FDU6ex+UWW14ohPgqz1AE/f3K+o=
+
+Name: res/drawable-hdpi/umeng_xp_normal_banner_background_selector.xml
+SHA1-Digest: qxpgcdmWdrOvnQi5lPppP4nu2I0=
+
+Name: res/layout-854x480/share_to_sina.xml
+SHA1-Digest: exJRJh7lq83SK0IH0nIw/hssDgo=
+
+Name: res/drawable/umeng_share_update_bottom.xml
+SHA1-Digest: ECnqKB2tjSM5PRlFC9KBOWRPyqI=
+
+Name: res/drawable-hdpi/upomp_bypay_title_logo.png
+SHA1-Digest: 9lpN5FSj0ttN3nwsMEeV52fk1RA=
+
+Name: assets/Themes/Theme6/BG2/BG-hd.plist
+SHA1-Digest: fAch2NhnIBSEHqAbs1iR5yGOe3M=
+
+Name: assets/Music/Items/clock.ogg
+SHA1-Digest: DUU6zXNalSLkrDdy8o0EwTfJaKg=
+
+Name: res/drawable-hdpi/umeng_xp_icon_background.png
+SHA1-Digest: rDkpnXMuvUxDLwi6g3Evcv9gvIs=
+
+Name: assets/Themes/scene/antiboss1-hd.pvr.ccz
+SHA1-Digest: 7ZQEG3fpWe/yfkuytdRWlv4sPTs=
+
+Name: assets/Themes/scene/antiboss_bg-hd.pvr.ccz
+SHA1-Digest: n2F2hF0lTGfJYJsIK40dTJTwCCM=
+
+Name: res/layout/umeng_xp_scroll_view_list.xml
+SHA1-Digest: NleFFgCuagPsaJ2iL6E8eLAHiKw=
+
+Name: assets/Themes/Theme2/BG4/BG-hd.plist
+SHA1-Digest: bXPqhTbkah58XIqVfDAQQzyVOM4=
+
+Name: assets/Themes/Theme6/BG8/BG-hd.plist
+SHA1-Digest: Gsg6H9TUcuLdmeB6IjzEidIkz1g=
+
+Name: res/layout/upomp_bypay_card_balance_result.xml
+SHA1-Digest: P4oliXDfgw9BjnrUMpeqoUGt9vM=
+
+Name: assets/Themes/Theme1/BG11/BGPath.tmx
+SHA1-Digest: yGXfwgM0PdZz9590P1AnyD59/Yo=
+
+Name: assets/Themes/Theme6/BG18/BGPath.tmx
+SHA1-Digest: faZli+rsOYjWu0b0uvBsy6GBqWo=
+
+Name: assets/Themes/scene/gameover-hd.plist
+SHA1-Digest: FwVoZr6cGWmQl6dQgXiKp74Xk7M=
+
+Name: res/layout/share_to_tencent.xml
+SHA1-Digest: rvmdKb1kxPuBqDTXowkT4EIZz3I=
+
+Name: assets/Themes/scene/themescene2-hd.plist
+SHA1-Digest: Hze+FVZeA4thKBAPB4hiU1d055o=
+
+Name: res/drawable/umeng_analytics.jpg
+SHA1-Digest: 52qqY5hBweHPjGk6234UTF0zY+w=
+
+Name: res/layout/sinafriends.xml
+SHA1-Digest: I7gAT0LAy6nS28izFmybxOMUxzs=
+
+Name: res/layout/umeng_share_update.xml
+SHA1-Digest: 3sl3pIbST1JmPAeGFbvsP+hrks0=
+
+Name: res/layout/upomp_bypay_keyboard_dialog.xml
+SHA1-Digest: RvhaYSkQaxOAFr1WI92lYuiHdVE=
+
+Name: assets/Themes/Theme1/BG5/BGPath.tmx
+SHA1-Digest: Md8AabZdMVAuleAAHUbLvWHnTbs=
+
+Name: res/drawable/umeng_fb_bottom_banner.xml
+SHA1-Digest: qxQ3iuVDQMZjeW/jQKY1FlRHCiw=
+
+Name: assets/Themes/Theme3/BG16/BG-hd.plist
+SHA1-Digest: tFRbWLsdke154kfmmAJqyRHVrlM=
+
+Name: assets/Themes/Theme2/BG14/BG-hd.plist
+SHA1-Digest: qT8A1DtWhcY5wOMAQxXd7+IA6F4=
+
+Name: res/layout-1280x720/share_to_sina.xml
+SHA1-Digest: B6sbMSx8PyS2tzO1IgxCKP1CQww=
+
+Name: res/layout/umeng_xp_container_banner.xml
+SHA1-Digest: jQmyrMegIZZzlGMu4m9iMKpqyZM=
+
+Name: assets/Themes/Theme2/BG9/BG-hd.pvr.ccz
+SHA1-Digest: U8Ph4SzxcyzhxqQzpqw4J1cjGIs=
+
+Name: res/layout/umeng_example_xp_scroll_view_activity.xml
+SHA1-Digest: HSImtInRDkpywQBiSIVbFRSs9FI=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_gray_stroke.xml
+SHA1-Digest: HSAtpTMSErWsa0BHYD3RWpImAW4=
+
+Name: res/layout/umeng_example_update_main.xml
+SHA1-Digest: tDQn74jG/7HT1lkefm8nAw/FP7w=
+
+Name: res/layout/apay_type_input_item.xml
+SHA1-Digest: ROmCBr+LjqYpNnupsH6Li2Coyuw=
+
+Name: res/layout-480x320/share_to_tencent.xml
+SHA1-Digest: 98d4xRshqhEKaZs5r85Z3BKtOfU=
+
+Name: assets/Themes/Theme2/BG9/BG-hd.plist
+SHA1-Digest: NYn+eW8zkUTI8SxNPOj7nsKvrTQ=
+
+Name: assets/Themes/Towers/TMushroom-hd.pvr.ccz
+SHA1-Digest: nfiOYrSMRHR++xb8e6ZueEKgQ28=
+
+Name: assets/Music/Towers/Buff.ogg
+SHA1-Digest: tKRjqc3tPYeUDkCjKGdpc/SED4w=
+
+Name: assets/Music/Monsters/Fat642.ogg
+SHA1-Digest: Z0inHayvEG386snxRuN6ZNK3erk=
+
+Name: assets/Themes/Items/Items07-hd.plist
+SHA1-Digest: 4Q5/TxeI78ZYW4hX2ap+I6Ph5Us=
+
+Name: res/layout/umeng_fb_new_reply_alert_dialog.xml
+SHA1-Digest: 30t9n7yxf6MMPOy2f2GTcmve7Ho=
+
+Name: assets/Themes/scene/themescene2-hd.pvr.ccz
+SHA1-Digest: LKYl+vLDqR3E0nghDfGDjg6QoO0=
+
+Name: res/drawable-hdpi/umeng_share_send_button_nor.png
+SHA1-Digest: vhz9Sh+k1TJCFWxHutjK3qRsAM4=
+
+Name: res/drawable-hdpi/upomp_bypay_tips3_bg.png
+SHA1-Digest: YJ8rCplUn1N1oNVV3W62aIHHh70=
+
+Name: res/drawable-hdpi/umeng_xp_detail_bg.png
+SHA1-Digest: eo6R/vwWcHW2emsAAAZoesnCj0I=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: ZONDj2Y/pcsVtQu/XSXv2EWhqzc=
+
+Name: res/drawable-hdpi/umeng_xp_more_bottom.9.png
+SHA1-Digest: UocxLWXz9NgJg44NivIEP0lJmQg=
+
+Name: res/drawable/apay_type_item_shape.xml
+SHA1-Digest: NgtI8Dvx1cOJPa0V92HxkU+351U=
+
+Name: assets/Music/Monsters/Land633.ogg
+SHA1-Digest: p9KvEEO2nbklrz24ELCrEEN5XYQ=
+
+Name: assets/Themes/Theme6/BG0/BG2-hd.plist
+SHA1-Digest: NTQhF2Bus92gIsFG5xVRvfzhuwI=
+
+Name: assets/Themes/Theme1/BG14/BGPath.tmx
+SHA1-Digest: e30fIcmtG4/28bmJmDIRRBAsXvQ=
+
+Name: assets/Themes/Theme6/BG11/BG-hd.pvr.ccz
+SHA1-Digest: XGJaBf3o0PmT4VMBQ/78M1w+cBs=
+
+Name: assets/Themes/Pets/PetsTheme01-hd.plist
+SHA1-Digest: oMIvKVa+6Grtjop419jyaWCCd9E=
+
+Name: res/drawable-hdpi/umeng_xp_highlight_item_bg.9.png
+SHA1-Digest: yjSTpaBsNrrDARwH7q8y38/trs4=
+
+Name: assets/Themes/Theme1/BG9/BG-hd.plist
+SHA1-Digest: OqJZsZz6emUX1LOLbvEKT4gQjaY=
+
+Name: res/drawable/upomp_bypay_btn_enter.xml
+SHA1-Digest: h2QuKwt6PH+0YEKD79KqASDDXIQ=
+
+Name: assets/Themes/Towers/TBottle-hd.plist
+SHA1-Digest: 8t+2/sy6ZEv8o0lilYJqiacHgkw=
+
+Name: res/drawable-hdpi/umeng_xp_greenbg_selector.xml
+SHA1-Digest: JEGo1wkuvNF/BbuHV7PRhf/1TRk=
+
+Name: res/drawable-hdpi/umeng_xp_vertical_divider.xml
+SHA1-Digest: nZz5p2fvKRUHLaU09jeEzZ7JGKI=
+
+Name: assets/Themes/Theme2/BG9/BGPath.tmx
+SHA1-Digest: rpZ2VEnsdDW67gP4R5QyU0VEin4=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_grey_list.xml
+SHA1-Digest: gN4Y7xi5LYr3xESD6FlqgASZiiQ=
+
+Name: res/drawable/umeng_fb_top_banner.xml
+SHA1-Digest: Mwlie4mN7jzddP1D5t6qo0dhBhA=
+
+Name: res/drawable-hdpi/actionbar_back_indicator.png
+SHA1-Digest: z6VMeOnviuoKKMFSqAFwJKGvUVo=
+
+Name: res/drawable-hdpi/upomp_bypay_view_xy.png
+SHA1-Digest: A1EMXUfvYjHx6X/HgpY8YkrmEXs=
+
+Name: res/drawable/umeng_fb_see_list_pressed.png
+SHA1-Digest: bPPcl7rx76S9DtiqNtuWxAV5rNg=
+
+Name: assets/Music/Items/BGMusic01.ogg
+SHA1-Digest: P/1b+0n5QshzgGFtzG3D5QqOGB8=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_grey_3.xml
+SHA1-Digest: QxKQdPUTYyAVz3r3YV9e8gf+7qY=
+
+Name: assets/domob_loading.png
+SHA1-Digest: gGrzf8khBxeRKDzWqxWSMSCN6ys=
+
+Name: res/layout-large/share_to_tencent.xml
+SHA1-Digest: 71Sv7oBJp0qqzL7I3dhX/cKm02M=
+
+Name: res/drawable-hdpi/umeng_example_banner_bg.png
+SHA1-Digest: Wjd5+OLWAUr/CNF5oyOl5vyJ0+g=
+
+Name: assets/Music/Towers/Fan.ogg
+SHA1-Digest: h+p7DFRI8mU0+hx+kdsr/+tL3DA=
+
+Name: assets/Music/Monsters/Land311.ogg
+SHA1-Digest: bQYF8tKz8sqDmk6I4t+ct+Ts8ec=
+
+Name: res/drawable-hdpi/umeng_xp_download_dialog_close_clicked.png
+SHA1-Digest: eQjH2RLUEosM2e+7rBar//OCydM=
+
+Name: assets/Music/Towers/PStar.ogg
+SHA1-Digest: DAtujsMHvaG8R91lqcxHyViEAO8=
+
+Name: assets/Themes/Theme2/BG5/BG-hd.pvr.ccz
+SHA1-Digest: DIlpoSWW5pirKaYOy7ogljB2X1w=
+
+Name: assets/Themes/scene/checkcheck-hd.plist
+SHA1-Digest: 0xcu2yfkMyONd+rzyCqPWXne8yg=
+
+Name: assets/Themes/Theme6/BG22/BG-hd.pvr.ccz
+SHA1-Digest: yz5t+9tt0V8WSiPFfQ4O2OT9rLw=
+
+Name: assets/Default@2x-3G.png
+SHA1-Digest: Xrcngi2MhFFRxmz2n9Q81C6RVio=
+
+Name: assets/Themes/Theme6/BG14/BG-hd.pvr.ccz
+SHA1-Digest: 4feEo7VkVb1uqkKafpfoyt2wXCw=
+
+Name: res/drawable-hdpi/upomp_bypay_main_bg.png
+SHA1-Digest: /6pLiu9bhf6YGBN1p4lZtSBjX3Y=
+
+Name: res/drawable-hdpi/umeng_xp_download_gradient_grey.xml
+SHA1-Digest: yn2JaB0BcAWghS0pI3prU5nRVsg=
+
+Name: res/drawable-hdpi/umeng_xp_download_dialog_close_selector.xml
+SHA1-Digest: 0iZteLm3lky+ixKhRGGy5mtqsrk=
+
+Name: res/layout/umeng_xp_handler_grid_item.xml
+SHA1-Digest: AqLZsSziWdylERRqsIGnVhg7NVQ=
+
+Name: res/layout/umeng_example_tab_indicator.xml
+SHA1-Digest: yqG0wjndGNPsAYh5tU1diORB9XI=
+
+Name: assets/Themes/Theme3/BG0/BG2-hd.pvr.ccz
+SHA1-Digest: 0wQ34zX7qArpANL8TjRFQtDTpUU=
+
+Name: assets/Themes/Theme6/BG12/BG-hd.plist
+SHA1-Digest: YiWjVzP2WUuwR4Mdx/WiacZYKTI=
+
+Name: assets/Music/Monsters/Fly253.ogg
+SHA1-Digest: mPAEXAzAA1on4P5iUJ+MHswXa54=
+
+Name: res/drawable/umeng_fb_write_normal.png
+SHA1-Digest: wh9yplgll0Vfb6hMVfOMYNeYVz0=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_number_bg_on.png
+SHA1-Digest: 8AedMBf4ppDIPV8HUFfY+FOJytM=
+
+Name: res/drawable-hdpi/umeng_share_face_08.png
+SHA1-Digest: r4GN4n8EUm3ZPOQuMpJxfAuGal4=
+
+Name: res/drawable/umeng_shape_frame_grey.xml
+SHA1-Digest: Yf3SWR2f6pggn0FVXP81dNdVX5Q=
+
+Name: res/drawable-hdpi/umeng_example_xp_logo.jpg
+SHA1-Digest: C//ud84luo8ShoSteiDmZ2EFfew=
+
+Name: assets/Themes/Items/numyellow0.png
+SHA1-Digest: 9+0eHXojKPLq6+tbSpwOZfRvw70=
+
+Name: assets/Music/Monsters/Fly351.ogg
+SHA1-Digest: Wfa3SgnAdz+btf3fgoBj0SNo394=
+
+Name: assets/Music/Monsters/Fly363.ogg
+SHA1-Digest: SLa1yDMHleVoW0rDdTwXABqphE4=
+
+Name: assets/Themes/Theme6/BG2/BGPath.tmx
+SHA1-Digest: 7UBWMUv4YXXruGySNjRACg1YMVQ=
+
+Name: assets/Themes/Towers/TBuff-hd.plist
+SHA1-Digest: 4oC9CkW8vCzPhqD6u8dHwF71CBw=
+
+Name: assets/Music/Monsters/Fat241.ogg
+SHA1-Digest: JbPi/dhQFFBwmv0HJEq96sQ+hBM=
+
+Name: assets/Themes/Towers/TFireBottle.pvr.ccz
+SHA1-Digest: 2WVkasyBgLSggLUTFV0BrZTF8oQ=
+
+Name: res/drawable-hdpi/umeng_xp_highlight_item_bg_clicked.9.png
+SHA1-Digest: lKsWKxHLHD1Vlx7y4R0kKQ1C+PA=
+
+Name: res/drawable-hdpi/umeng_example_xp_new_tip.png
+SHA1-Digest: HJ/CPjJrNfwKlcOYMVOq3LeZx04=
+
+Name: res/drawable-hdpi/umeng_share_face_06.png
+SHA1-Digest: 8D3LOM8fciMdFeLgLsofCrrbYc4=
+
+Name: assets/Themes/Towers/TAnchor-hd.pvr.ccz
+SHA1-Digest: AOfZhY4S/wNRz1SCMN6XLGkSca0=
+
+Name: assets/Themes/Theme2/BG10/BGPath.tmx
+SHA1-Digest: yfzHrs0Au6fxLmtyagafUz37BG0=
+
+Name: assets/Themes/Theme1/Items/Object01-hd.plist
+SHA1-Digest: u105OBrmGq+Kq472U1bH2k02RSQ=
+
+Name: assets/Themes/Towers/TPin-hd.plist
+SHA1-Digest: aZSEGIYB2dAdjhEMQZ7Q2ZO1/J0=
+
+Name: res/layout/umeng_xp_full_screen_list_layout.xml
+SHA1-Digest: b2KltLE2r3qiaV4UTk/h/K8Opdk=
+
+Name: assets/Music/Items/TowerSelect.ogg
+SHA1-Digest: V98iJocfhI9KUpQrwdh46xFIQCs=
+
+Name: assets/Themes/Theme6/BG1/BGPath.tmx
+SHA1-Digest: jt+ZEkOHKovqTmAuYl4ljqcffDA=
+
+Name: res/drawable-hdpi/share_picbg.png
+SHA1-Digest: VgX5CPrOEH4tFPYUpZHZ0kIKrZI=
+
+Name: assets/Themes/Theme3/BG15/BG-hd.pvr.ccz
+SHA1-Digest: laSumVJYAbor5R0YODuFu7d638Q=
+
+Name: res/drawable-hdpi/umeng_xp_button_cancel_selector.xml
+SHA1-Digest: MTEp9Ig2FuPuCRA4hoxmnqXFXsM=
+
+Name: assets/Themes/Items/Items07-hd.pvr.ccz
+SHA1-Digest: 4kVGM328N3Mj8gmkUHcQTV4Dpiw=
+
+Name: assets/Themes/Theme6/BG10/BG-hd.plist
+SHA1-Digest: jYQS7K2fgUe83cctCQogBPrsdy4=
+
+Name: assets/Themes/Theme2/BG14/BGPath.tmx
+SHA1-Digest: mWR31gEfQI2yYBCuxV3hxtd2RtA=
+
+Name: assets/Themes/Theme1/BG13/BG-hd.pvr.ccz
+SHA1-Digest: UDNW11zClqfpfi7N+/ocljS0eC8=
+
+Name: res/drawable-hdpi/umeng_xp_button_download.9.png
+SHA1-Digest: XJ5g8GiQC3Ics1lu6Ay7gWeDFc4=
+
+Name: res/drawable-hdpi/upomp_bypay_tips_bg.png
+SHA1-Digest: h7TZ6EeClW0h7eETwsUZfGTDADM=
+
+Name: assets/Music/Items/TowerDeselect.ogg
+SHA1-Digest: kkjWxSvSSGNQng/vP3+C8GcUKc0=
+
+Name: res/layout/umeng_xp_large_gallery_item.xml
+SHA1-Digest: 9QzCTGE/4tWXlK65on9kvYsCAns=
+
+Name: assets/Music/Items/carrot3.ogg
+SHA1-Digest: 4MMHimzlgDyPInl3SMe6NBzoAuk=
+
+Name: assets/Music/Feeds/PetSound11.ogg
+SHA1-Digest: +8o3coW8WIc4k7gMqsRK932k8nU=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_bg_clicked.9.png
+SHA1-Digest: EThm1Fl79Tbv2MT1ezRr2bqvzYE=
+
+Name: res/layout/activity_singlepane_empty.xml
+SHA1-Digest: bs5kGc8POp0hiWUb4NLTzpsjVS0=
+
+Name: assets/Themes/Theme1/Items/Monsters01-hd.plist
+SHA1-Digest: lR8CmqflLwo5NHCxbN4sCbfNBB4=
+
+Name: assets/Themes/Towers/TBottle-hd.pvr.ccz
+SHA1-Digest: 4/VhRDLiPro4Zgcvt+OYeINzpXo=
+
+Name: res/drawable/umeng_share_update_button.xml
+SHA1-Digest: Wf49dvp8IiQguVBj6Pu7bGafCJI=
+
+Name: assets/domob.js
+SHA1-Digest: wzkBk+D7PU8Ad60JokFwOJCr/BU=
+
+Name: assets/Themes/Theme2/BG10/BG-hd.pvr.ccz
+SHA1-Digest: LgOqG1QKJLsCLy99/bsV/cWCeRY=
+
+Name: assets/OpeningAnimation/g_rotate_right.png
+SHA1-Digest: y+Kq5xWMK/cN59YyLTOvJZKE+ts=
+
+Name: assets/Themes/Pets/PetsTheme06-hd.pvr.ccz
+SHA1-Digest: AD0TAMWise1Q1/WOmnq5JZDF5D8=
+
+Name: assets/Themes/Items/numyellow.png
+SHA1-Digest: 9+0eHXojKPLq6+tbSpwOZfRvw70=
+
+Name: assets/OpeningAnimation/g_yes.png
+SHA1-Digest: tzGV9LPu8pZRtlPEkP/cRJu8LKQ=
+
+Name: res/drawable/pay_progressbar.xml
+SHA1-Digest: KByPa77R7djTf6FLekhtmhMc+S8=
+
+Name: assets/Themes/Theme2/Items/Monsters01-hd.pvr.ccz
+SHA1-Digest: tZ46FXVfd2GsN6sWOpDGls9DsuM=
+
+Name: res/drawable-hdpi/umeng_share_bg_shareitem_sel.9.png
+SHA1-Digest: 0OFWDbwMmT2pz88r/G1DqYQ0tQE=
+
+Name: assets/Music/Items/Perfect.ogg
+SHA1-Digest: Af998yNSFy+wtCOPjUQJcb3wsNE=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_number_bg.png
+SHA1-Digest: CV73w0oYn0n5jZI0cjp6m6J3I50=
+
+Name: assets/Themes/Towers/TAnchor-hd.plist
+SHA1-Digest: Nkf69PzghXF6N5rwXhhHT9WYQD4=
+
+Name: assets/Themes/scene/setting02-hd.pvr.ccz
+SHA1-Digest: 15OZFcVoDf2SyucKJ9nvEL4zPlw=
+
+Name: assets/Themes/scene/mainscene1-hd.pvr.ccz
+SHA1-Digest: tDdGmLWTDIWfMF9xYv1L/WfnufM=
+
+Name: res/layout/main.xml
+SHA1-Digest: QopF+RMGzPe6M5swC8VeW7M0qrQ=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_bg_selector.xml
+SHA1-Digest: j1r16JnBg04eYV7mDwnE5o+1Ec8=
+
+Name: assets/OpeningAnimation/g_rotate_mid.png
+SHA1-Digest: 7YOUkDk+auUhYfTTwaBDTa27tHU=
+
+Name: assets/Themes/scene/goextreme-hd.pvr.ccz
+SHA1-Digest: 1ujiO0QA35Qzf5Sx+NCSob/913Y=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_open.png
+SHA1-Digest: ZKK7PUoSh4sliUGH4Ls/if/jdx8=
+
+Name: assets/Themes/Theme6/BG14/BGPath.tmx
+SHA1-Digest: YHZ/zONsYM9KN1Y7Fcylq/9LTHM=
+
+Name: res/layout/upomp_bypay_card_info.xml
+SHA1-Digest: L63OMUxmxwtdJCn9wnUi845w+0Q=
+
+Name: res/drawable-hdpi/upomp_bypay_select_month_on.png
+SHA1-Digest: g8GnDlYEoDzc7VXyVbKMhKZzx8s=
+
+Name: assets/Themes/Theme3/BG14/BGPath.tmx
+SHA1-Digest: dEscgpwyPP5v+WpcSLGrtyGtoCc=
+
+Name: assets/Music/Monsters/Fat341.ogg
+SHA1-Digest: Saq7P9oTr0IwrSieRRZ0o/KqG9s=
+
+Name: assets/Themes/Theme2/BG8/BG-hd.plist
+SHA1-Digest: YwrX9Gcb/sNcoeBZFyFUAYD56f0=
+
+Name: res/layout/pay_set_account.xml
+SHA1-Digest: gcNsXo/gH4D87W1Eu4kW0uA4o6A=
+
+Name: res/drawable-hdpi/umeng_share_face_05.png
+SHA1-Digest: ST6XYiMsrCvD7mIrJJ6x2VBAIFs=
+
+Name: res/drawable/pay_right_arrow.png
+SHA1-Digest: j+yUUsQ7X/4XEJdCM1zkyua/844=
+
+Name: res/layout/at_listview.xml
+SHA1-Digest: +WeAgi17KVABLYsbiWWVAhYOODc=
+
+Name: res/drawable/upomp_bypay_keyboard_btn_clear.xml
+SHA1-Digest: E4jORiI/v+Dqa8D+WK24EUG9BkY=
+
+Name: res/drawable/umeng_fb_see_list_selector.xml
+SHA1-Digest: CR7ve8l6zGPnEuOHV5YDEjPk85U=
+
+Name: assets/Music/Items/BGMusic11.ogg
+SHA1-Digest: qlVDCD9cqHQSgeiL9zj1OV/DuYo=
+
+Name: assets/Music/Items/ShootSelect.ogg
+SHA1-Digest: 7zyCI3M6BndKoJyIBsbaqV4D6tA=
+
+Name: assets/Music/Towers/Anchor.ogg
+SHA1-Digest: 9Dfw6bU+KlOwoT2SVI1/mQ7ZolI=
+
+Name: assets/Themes/Items/Items04-hd.plist
+SHA1-Digest: iIuHsmQM738lrKHpU7MPGEHafUE=
+
+Name: assets/mraid.js
+SHA1-Digest: Vj3WaSLYPClsDHGcwSiyvYoa1PU=
+
+Name: res/anim/umeng_xp_zoom_in.xml
+SHA1-Digest: +7wPsflKyFBJPxP0EyNyfUKVVSc=
+
+Name: res/layout/share_to_sina.xml
+SHA1-Digest: exJRJh7lq83SK0IH0nIw/hssDgo=
+
+Name: assets/Themes/Theme6/BG19/BG-hd.plist
+SHA1-Digest: txoAvpe8X0aHXnIWNtOH/B6xHto=
+
+Name: res/drawable-hdpi/upomp_bypay_card_btn_3_on.png
+SHA1-Digest: KtEwCTzA+WwSWQDz1JFNdv25M2I=
+
+Name: assets/Themes/scene/thempopuplock-hd.plist
+SHA1-Digest: X/4JZ8SMeIiXc9dOHnfmbdpZHZc=
+
+Name: res/layout/umeng_xp_large_gallery.xml
+SHA1-Digest: lCjr1wJ7ppK2PhGyx+gzy6FWNDE=
+
+Name: assets/OpeningAnimation/g_logo_cmgc_s.png
+SHA1-Digest: h4aaQA2wGgC6k2CGVubWZhMtESY=
+
+Name: assets/Themes/Theme3/Items/Object01-hd.plist
+SHA1-Digest: qGruLbOM2V9FuNlrzOXmuByUUeY=
+
+Name: res/drawable-hdpi/upomp_bypay_btn_webv.png
+SHA1-Digest: D8x2OOdUJ6r3evuMQJf072wUUB0=
+
+Name: assets/Themes/scene/themescene1-hd.plist
+SHA1-Digest: als12VbHR5wr1irZjgsBYHO/WOg=
+
+Name: assets/Themes/Theme1/BG12/BGPath.tmx
+SHA1-Digest: +ZRmpJCrdQKr+DbngDG2a5p+Hbk=
+
+Name: assets/Themes/Pets/PetNumSmall-hd.png
+SHA1-Digest: eq4j7hBpzjsaZNrYy/E/Acgz4og=
+
+Name: assets/Themes/scene/gameover0-hd.pvr.ccz
+SHA1-Digest: SPtyqYXd6vIBtDZYD4gUWuMWc9k=
+
+Name: assets/Themes/Theme3/BG0/BG2-hd.plist
+SHA1-Digest: 9idUrFP39MaNcNtGztIjdpaFBsE=
+
+Name: res/layout/umeng_xp_banner.xml
+SHA1-Digest: IA6PEBka/lFxEtTkBBeEegYofWI=
+
+Name: assets/Music/Monsters/Land333.ogg
+SHA1-Digest: cDFg43XJZIQI+yZ3rOhSmFE3d2o=
+
+Name: assets/Themes/Theme6/BG4/BGPath.tmx
+SHA1-Digest: 6p7lntOaih+on1PQV9KmiJurVKA=
+
+Name: assets/Themes/Theme6/BG7/BGPath.tmx
+SHA1-Digest: lBoXDacUEgrhFSU/ZyQcY4MM+pk=
+
+Name: assets/Themes/Items/Items08-hd.plist
+SHA1-Digest: QDuv0J4j8sevjBaIPReCp9pcCNg=
+
+Name: assets/Themes/Theme1/BG7/BG-hd.pvr.ccz
+SHA1-Digest: AUcrbkmPH0W7lnIKXomuoGZNFgc=
+
+Name: assets/Themes/Items/Items10-hd.pvr.ccz
+SHA1-Digest: dFtUNbhkDjmYheOB769Lys/Fpcs=
+
+Name: assets/Themes/Theme1/BG4/BG-hd.plist
+SHA1-Digest: nRyJyD1Y3NFIyBEBg9BsYfOtw2Q=
+
+Name: res/drawable/main_bg.xml
+SHA1-Digest: gEcKxekLN56L0ykwIutAbT/DVb8=
+
+Name: assets/Themes/Theme2/Items/Object02-hd.pvr.ccz
+SHA1-Digest: WuSfQV2ou/xTquPdVviXIsYGZ9g=
+
+Name: res/drawable-hdpi/share_fan_disable.png
+SHA1-Digest: 6EZ+5dtjRw6ugciRacAdXz5/cds=
+
+Name: assets/Music/Items/Ach.ogg
+SHA1-Digest: DzG5ET8HICvhPRQcgyBQoJ9A38E=
+
+Name: res/drawable-hdpi/umeng_share_logo_sina.png
+SHA1-Digest: vStxKAdAgnIk9RM+ZqQrukfT+YM=
+
+Name: res/drawable/share_send_btn_bg.xml
+SHA1-Digest: PVV98df5KqbYpfdKdhXyNE5gQpA=
+
+Name: assets/Music/Items/carrot2.ogg
+SHA1-Digest: wT0RAUIPr7QS588yYVV8Md+3C5M=
+
+Name: assets/Themes/scene/stages_theme6-hd.plist
+SHA1-Digest: ybgONyxYmRx0YRASGTAuftC5Sus=
+
+Name: assets/Themes/Theme1/Items/Object02-hd.plist
+SHA1-Digest: RsdXty9tespiFs7RhPqGmNFaB40=
+
+Name: res/layout/upomp_bypay_userprotocal.xml
+SHA1-Digest: 2OJz+fPQsnrxKjUt1l0p7sR1GjY=
+
+Name: res/drawable/umeng_fb_list_item_pressed.9.png
+SHA1-Digest: 5ogIBBDF4t1zBWqHnAG0v0S9jAc=
+
+Name: assets/Music/Items/TowerSell.ogg
+SHA1-Digest: F693t34PGXY0++UzYyQ4bLvzPMg=
+
+Name: res/layout/umeng_xp_highlight_banner_more.xml
+SHA1-Digest: 8epAqUvZ7Q+en4YQyKcALHn41A4=
+
+Name: assets/Music/Monsters/Bcm.ogg
+SHA1-Digest: IJh/7+j5yrVQ1aO0ImrmLpYdxaM=
+
+Name: res/layout/apay_type_input.xml
+SHA1-Digest: Tg0tLpIqrdfsq7SmjhHifUoVdcE=
+
+Name: res/drawable-hdpi/upomp_bypay_xieyi_select_2.png
+SHA1-Digest: ufCVOhVfR6p2R7LcKME9ITRsjcc=
+
+Name: assets/Themes/Theme3/BG2/BG-hd.pvr.ccz
+SHA1-Digest: Sdz6HkT2dvooWPz5tW8IrrRLsgw=
+
+Name: assets/close.png
+SHA1-Digest: 1GtPToSoM6snYvuUt0F3AF/nixo=
+
+Name: res/drawable-hdpi/umeng_xp_download_dialog_bg.png
+SHA1-Digest: 0394I0c0ssgoI6TaVHnhkniyOjk=
+
+Name: assets/Themes/scene/goextreme-hd.plist
+SHA1-Digest: IBfYzX38xuL7Mq8mGMmf1VIK874=
+
+Name: assets/Music/Feeds/BuyItem.ogg
+SHA1-Digest: wjuRuR+KMbK8ibqI5pzafHZE15Q=
+
+Name: assets/Themes/Towers/TBuff-hd.pvr.ccz
+SHA1-Digest: 0aHy256/kKU/3cg4VyCqH9opG2w=
+
+Name: res/drawable-hdpi/umeng_xp_greenbt_selector.xml
+SHA1-Digest: JEGo1wkuvNF/BbuHV7PRhf/1TRk=
+
+Name: assets/Themes/Theme3/BG15/BG-hd.plist
+SHA1-Digest: pjlkdTCgy8Pz32HuSG6xfUAg3MU=
+
+Name: assets/OpeningAnimation/g_rotate_left.png
+SHA1-Digest: ONW2mOkE+1wuDkrGOSJIe1fq9YA=
+
+Name: assets/Themes/scene/help_3-hd.pvr.ccz
+SHA1-Digest: A1aO+nXeJxa2oPD5PrlXPiolPyE=
+
+Name: assets/Themes/Theme3/BG5/BGPath.tmx
+SHA1-Digest: 9qL8DDpubpoQFzndZgn+WXyZP1Q=
+
+Name: res/drawable-hdpi/gc_billing_unenabled.9.png
+SHA1-Digest: bXeL0nU15xuP5d7h+8rnxq6X/9E=
+
+Name: assets/Themes/Theme3/BG11/BG-hd.plist
+SHA1-Digest: QoCy8LmIrYF5f9j0Ob0BQ0Eqcvg=
+
+Name: res/drawable-hdpi/umeng_share_face_04.png
+SHA1-Digest: UR1X3EsCWviszfMdihc62KJVPV8=
+
+Name: res/drawable-hdpi/umeng_xp_list_item_text_selector.xml
+SHA1-Digest: DynEQ277NBO7nDI3e7JNp6Cjrko=
+
+Name: assets/Default-Landscape~ipad-dianxin.png
+SHA1-Digest: E+Ya0pYUCrR6/k90uURu4ddzgoY=
+
+Name: assets/Themes/Pets/PetsNest-hd.pvr.ccz
+SHA1-Digest: VS4b2pgEaAMdflFXfINUx0A9svQ=
+
+Name: res/drawable/umeng_example_common_more.png
+SHA1-Digest: obqnbajIp6KqGV4fTlT8RPtKx1Q=
+
+Name: res/drawable/umeng_fb_submit_selector.xml
+SHA1-Digest: qh1P+wranvHe9L4/wGy5OvXmkXs=
+
+Name: res/drawable/apay_hub_top_line_shape.xml
+SHA1-Digest: 5gPHt1QgDd4i0S+RbSheisd0RW4=
+
+Name: assets/Music/Feeds/GiftBox03.ogg
+SHA1-Digest: dbwrR+zsrA/SILco34rAGhNfIpI=
+
+Name: res/drawable/bottom_sharp.xml
+SHA1-Digest: o5Cz4rJHWXISBuSpWv6R3UBB7ac=
+
+Name: assets/Themes/Towers/TFan-hd.pvr.ccz
+SHA1-Digest: 203al6ankrBhR2YmFtHdVq6H5U8=
+
+Name: assets/Themes/Theme2/BG3/BGPath.tmx
+SHA1-Digest: OifjF6tIH4XAY5GuYnUiTifQwvc=
+
+Name: res/drawable/umeng_strock_bg_1.xml
+SHA1-Digest: mgwQw/QALToS5rYjx/ExYuuyEuA=
+
+Name: assets/Themes/Theme3/BG1/BG-hd.pvr.ccz
+SHA1-Digest: YATFOfDnjzWGsdtnQUVCocpCm9w=
+
+Name: res/drawable-hdpi/gc_logo.png
+SHA1-Digest: 6fOSHXOYHpgEibG9yqAfRZyXNxc=
+
+Name: assets/Themes/Theme6/BG17/BGPath.tmx
+SHA1-Digest: y2b2gtEPp02UaOC4mzeFzdPwNrU=
+
+Name: assets/fps_images-hd.png
+SHA1-Digest: XoiMfsz/KsAsSO4UC3nfDV/WWEo=
+
+Name: res/drawable-hdpi/umeng_example_two_tab_right.png
+SHA1-Digest: 27XSaxNfYeH1iPqhjVgOEEZxzHM=
+
+Name: assets/Themes/Theme1/BG6/BGPath.tmx
+SHA1-Digest: KZCIzouooE8oBS+5G0mUcD0VCY4=
+
+Name: res/drawable/umeng_fb_gradient_green.xml
+SHA1-Digest: ZDyisfAamRM9mdew8+tq1DegzP8=
+
+Name: res/layout/umeng_example_xp_custom_promoter_wall.xml
+SHA1-Digest: g2PdhQL8K9d6FTIBox+oQpN4Hto=
+
+Name: res/layout/apay_type_titlebar.xml
+SHA1-Digest: 6I3o1gasJuhrUInWdiqdDUU7ZBE=
+
+Name: assets/Themes/Theme1/BG3/BG-hd.plist
+SHA1-Digest: aol/EasVLf5JNoJiN5iymj1D9eA=
+
+Name: assets/Themes/scene/bottom_num_hd.png
+SHA1-Digest: buqaewB/UfPz1ogJd0r4nX8mZLU=
+
+Name: assets/Themes/Theme6/BG2/BG-hd.pvr.ccz
+SHA1-Digest: aLMwiiVua715bgobJXOwFyqjtCA=
+
+Name: res/drawable/pay_logo.png
+SHA1-Digest: 0K11+Z30lClTeSVamYTUwDtVQYA=
+
+Name: assets/Themes/Theme6/Items/Object02-hd.pvr.ccz
+SHA1-Digest: b1mCIlpAiBZZKrA327clIvg2Tt8=
+
+Name: res/layout/apay_type_szf.xml
+SHA1-Digest: 7YcjA8xqs2HOLLiGYZWvquA0pcg=
+
+Name: res/drawable/pay_bottom_shape.xml
+SHA1-Digest: ZKMrRtcmtQRyOWWd1CbsKPCLsUs=
+
+Name: res/drawable-hdpi/umeng_example_xp_banner.png
+SHA1-Digest: KkOBL0HpCqhtxX2sjN3Wm+vFanY=
+
+Name: res/layout/umeng_xp_component_back_top.xml
+SHA1-Digest: tHdD5SlLdCkEOfYGRtH60m0tlGo=
+
+Name: res/layout/umeng_share_topics.xml
+SHA1-Digest: zOmnV/uKLga0Yzqa6hg1T+YAn3E=
+
+Name: assets/OpeningAnimation/g_no.png
+SHA1-Digest: lNahvejF4l0l+IdyqTy1i8YGi9E=
+
+Name: assets/Themes/scene/antiboss1-hd.plist
+SHA1-Digest: zmUyGz7Fe5LAHrJT93kCi9WpwyA=
+
+Name: assets/Music/Monsters/Fat143.ogg
+SHA1-Digest: BwVfYf6eEHN9ftCNb7sQHt7tjVE=
+
+Name: res/drawable-hdpi/share_pattern.png
+SHA1-Digest: 1CCLKbWXdgfIPjfZjwzeDqIWSnI=
+
+Name: assets/Music/Monsters/Whale.ogg
+SHA1-Digest: /pDWMwuGmD4ztzOZYYZPASTvEho=
+
+Name: res/layout-480x320/share_to_sina.xml
+SHA1-Digest: kjVb/gedCcK5JIo9W4tqKwKqUZY=
+
+Name: assets/Music/Towers/Star.ogg
+SHA1-Digest: 9msAfRD0r4kHfu9dZMsFQZD1rVY=
+
+Name: res/drawable-hdpi/ic_title_share_default.png
+SHA1-Digest: Q10oh4r9vweLVF/zLsJ7fHZHmgc=
+
+Name: res/drawable/apay_price_main_btn_selector.xml
+SHA1-Digest: tZ+Vk2wNpSZcm0L8vh1OR5G5yXI=
+
+Name: res/drawable-hdpi/umeng_xp_selector_download.xml
+SHA1-Digest: Yvvmj4vTJgXHrQhVvnq43OyBT3g=
+
+Name: assets/Themes/Theme1/BG13/BG-hd.plist
+SHA1-Digest: KA4hhASCmSRA3X5GV8vvvVKn1Qw=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_grey_1.xml
+SHA1-Digest: vsKqBYqxgbWNROggVRJpuav+v2E=
+
+Name: res/layout/umeng_xp_component_back_bottom.xml
+SHA1-Digest: oZQuRZy8jj1DKChp3dduEAfX3as=
+
+Name: res/drawable-hdpi/umeng_xp_back.png
+SHA1-Digest: M+FISiY0Rwd1Z8kO4XIedA1jh0w=
+
+Name: res/layout/umeng_fb_send_feedback.xml
+SHA1-Digest: jbWciYg0BWAmsHwVDFKD1EDqar4=
+
+Name: res/drawable-hdpi/umeng_xp_back_click.png
+SHA1-Digest: qWSNKrt5dL4datQ5PdLlE+wJJJ4=
+
+Name: assets/Music/Items/BGMusic06.ogg
+SHA1-Digest: YLrkc6USTDEEV95kpbj+x1/zbQE=
+
+Name: res/drawable-hdpi/upomp_bypay_select_card_on_bg.png
+SHA1-Digest: 7g8SrqemrVRi1Y+Els+Szo2edeE=
+
+Name: assets/Themes/Theme1/BG2/BG-hd.plist
+SHA1-Digest: +k9IZnXuPC0WrY5uQZdt2FdaklY=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_download_clicked.png
+SHA1-Digest: DrWtR4sqfhLfLq4alsAB98HRAZo=
+
+Name: res/drawable-hdpi/share_leaf.png
+SHA1-Digest: efhgSu/lyExOh8xULbaR5QUZX3o=
+
+Name: assets/Music/Monsters/Land131.ogg
+SHA1-Digest: RRkD6uHRtYmYKuAy/0b8tAzAR4k=
+
+Name: res/layout/apay_hub.xml
+SHA1-Digest: eCRGn8OE2CaNPA1MtomwYV7soOw=
+
+Name: assets/Themes/Theme1/BG7/BGPath.tmx
+SHA1-Digest: aoKZMAJj9c/y+08F2JWjwu945sM=
+
+Name: res/drawable/upomp_bypay_input_btn2.xml
+SHA1-Digest: 5a09NslgHmmd1SnJ1vi6X/CAf/w=
+
+Name: res/drawable-hdpi/close_normal.png
+SHA1-Digest: 4Ff9jFPgP5jGEFzRpilJ4Apg3K8=
+
+Name: assets/Themes/Theme3/BG11/BGPath.tmx
+SHA1-Digest: QPiVSZRtqbY4DgFRLp6u0QdVIUc=
+
+Name: assets/Themes/Theme1/BG8/BG-hd.plist
+SHA1-Digest: T+VaUI/+ulwQnAUwwdJJ7ytgL48=
+
+Name: res/layout/sharetowx.xml
+SHA1-Digest: zue72v4Bv2rHUVA1Fkpue6acpiE=
+
+Name: assets/Music/Monsters/Land211.ogg
+SHA1-Digest: jwUTSpVWnW9ajMudjIb6zPGw7t4=
+
+Name: assets/Default-Landscape~ipad-3G.png
+SHA1-Digest: M5+AAUqj0XkwE4Jflk/RZ7d6xig=
+
+Name: res/layout/pay_no_pay.xml
+SHA1-Digest: liFcCN48+hm7DDqZYZgBUSQSu6c=
+
+Name: assets/Themes/Towers/TShit-hd.pvr.ccz
+SHA1-Digest: Lr/U7GyqULbJ91uogU7DZluWnWw=
+
+Name: assets/Themes/scene/help_1-hd.pvr.ccz
+SHA1-Digest: a8ITBIaM89jBFfCTGx39aVFji1M=
+
+Name: res/anim/umeng_xp_slide_in_from_right.xml
+SHA1-Digest: mz8X9RFWoC1kJ3oT+d90sbmYUMw=
+
+Name: assets/Music/Towers/Bottle.ogg
+SHA1-Digest: ol6LuZPPhV6Jl3bWmjPv7+mBe3s=
+
+Name: assets/Themes/Theme2/Items/Monsters02-hd.pvr.ccz
+SHA1-Digest: q526tv0L+snv5nxwzeOZpeMX1X8=
+
+Name: assets/Themes/Theme3/BG0/BG1-hd.pvr.ccz
+SHA1-Digest: e6PQi28t7icBXDsMjOxGXo3LGVM=
+
+Name: assets/Themes/Theme3/BG12/BGPath.tmx
+SHA1-Digest: 3bo+zeHRv2vZcpDkblFr4s4xrpI=
+
+Name: res/anim/umeng_xp_large_gallery_in.xml
+SHA1-Digest: m8GL36ZQbKqLT9d8mxJZQ+Txw3g=
+
+Name: res/layout/umeng_xp_full_screen_focus.xml
+SHA1-Digest: LoKFdJKEgF+ta7N51UkuRSSlQoo=
+
+Name: assets/Themes/Theme3/BG8/BGPath.tmx
+SHA1-Digest: oldyIb0OsJp3Vu/VdDHH7oUs9OQ=
+
+Name: res/drawable-hdpi/upomp_bypay_card_list_bg.png
+SHA1-Digest: kGVW6YKH3PMRT6jEkIPhWAHUHHE=
+
+Name: res/drawable/umeng_fb_user_bubble.9.png
+SHA1-Digest: u9Gupn9QNFoYozLA7Ra+yE7rIbw=
+
+Name: assets/btn_ac.jpg
+SHA1-Digest: 0xJDGXiks6z4Nxbtf7ENNVSq4Ho=
+
+Name: res/layout/umeng_xp_handler_gallery.xml
+SHA1-Digest: iPxeVD0R3IQhXwCgqIRAgxrckTI=
+
+Name: assets/Themes/Theme2/BG4/BGPath.tmx
+SHA1-Digest: k9PstO4fcGfi8ThSTePe+3hu1tI=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_grey_7.xml
+SHA1-Digest: eQk+Ns37MVCsAd7DfCsaTQPi63E=
+
+Name: assets/Themes/scene/setting01-hd.plist
+SHA1-Digest: 2ow/hI4jfzv2YUsqmRk0k/VlJwU=
+
+Name: assets/alipay_plugin.apk
+SHA1-Digest: vuZwQOlCfARloxddpy6EccfjFbs=
+
+Name: res/drawable/pay_checkbox_btn.xml
+SHA1-Digest: ZitTrwAfdMycVmZHiMKnr4PfBOY=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_letter_clear_bg_on.png
+SHA1-Digest: i2ETCYcbYW5yVvFTQrTE7VN6ehg=
+
+Name: assets/Themes/Theme6/BG13/BG-hd.pvr.ccz
+SHA1-Digest: +moyKljSB9C/reg6bxofFb2tZls=
+
+Name: res/anim/popupwindow_open.xml
+SHA1-Digest: O1xBXhiVy6p82B/J+O+0ee/4/AY=
+
+Name: assets/Themes/Theme2/BG16/BG-hd.pvr.ccz
+SHA1-Digest: 3o8kEHWl+lgWW9c72MhBIiLfbsw=
+
+Name: res/drawable-hdpi/upomp_bypay_sub3_click.png
+SHA1-Digest: HdPr0pzcJetDRRYwa+bsz3NjOhI=
+
+Name: assets/Music/Monsters/Fly663.ogg
+SHA1-Digest: e0VnYF+zdwdX08kOZ9TVkwWr3eY=
+
+Name: assets/Themes/Items/Items01-hd.plist
+SHA1-Digest: T/0ZVwf9yio68AbGX7LWc3Lb2l8=
+
+Name: assets/Music/Monsters/Fly251.ogg
+SHA1-Digest: 5/6oOIlRc7s1T7Y2u3vQ1FfIPEE=
+
+Name: res/layout/upomp_bypay_get_pass.xml
+SHA1-Digest: sCrNaNSaihLXv4ZyzDAOtCstijc=
+
+Name: res/layout/umeng_example_xp_small_handler_list_activity.xml
+SHA1-Digest: Eb8jqg5OaG8YzKJ41Ck97BY5JtY=
+
+Name: res/layout/aapay_account_manage.xml
+SHA1-Digest: OQOUwCb8X2WfnadBMhfdbGb2IEQ=
+
+Name: res/drawable/share_signout.png
+SHA1-Digest: elo0Wl4m8AMGv+SY0qsDqU4Y3fo=
+
+Name: assets/Themes/scene/gameover-qqewr-hd.plist
+SHA1-Digest: V5mKe5ldwU2Z/iSqLDUtqZ1EU04=
+
+Name: assets/Themes/scene/weibo-hd.plist
+SHA1-Digest: V9wo7zlqBZ6mqAAxwsu//ffAPSM=
+
+Name: assets/Themes/Theme2/BG13/BGPath.tmx
+SHA1-Digest: v6EK11fhmT+XQIGHt+OZVCmu6dY=
+
+Name: assets/Default@2x-king.png
+SHA1-Digest: WVGNdQ5lmWG12a8zcBbnb+Xd/Fo=
+
+Name: res/drawable/pay_type_7.png
+SHA1-Digest: Cd771S5RUIiiZ6QZSMBYkOMzSmY=
+
+Name: res/drawable-hdpi/upomp_bypay_nav2_click.png
+SHA1-Digest: 37zSoafvGOubfczNE3nV1v6ZP8g=
+
+Name: assets/Themes/Theme6/BG18/BG-hd.plist
+SHA1-Digest: YLLPpATJaJIZmdWTJqEUA0wbJu8=
+
+Name: assets/Charge.xml
+SHA1-Digest: P7HF7X5GYZuwz6mQ6eX0EF1hIo8=
+
+Name: assets/Themes/scene/checkcheck-hd.pvr.ccz
+SHA1-Digest: Cp4nXPnIauSYh/077Cde9u2mgXE=
+
+Name: res/drawable/umeng_fb_gradient_orange.xml
+SHA1-Digest: AHyEGQnT7imQmkLcSm6fiGPhe3s=
+
+Name: assets/Music/Towers/Sun.ogg
+SHA1-Digest: vtOJG0IzLRw7oegfEWTcNzieCfU=
+
+Name: assets/Themes/Towers/TBall-hd.plist
+SHA1-Digest: PnXm+/4ZYSD3bL9Byv+C0knbx1I=
+
+Name: res/layout/umeng_xp_container_banner_more.xml
+SHA1-Digest: A1opc9+iKHL5DeMfx9WUsU7hMTE=
+
+Name: res/drawable-hdpi/upomp_bypay_card_info_bg.png
+SHA1-Digest: m2dIuzkXuTXIsefx+2ZGPrO4wtU=
+
+Name: res/drawable-hdpi/upomp_bypay_btn_esc_bg_click.png
+SHA1-Digest: eLFGuIqcBe4TIbhWTRjUNGH4sT4=
+
+Name: assets/Themes/Pets/PetNumBig-hd.png
+SHA1-Digest: Ak3jStGFJUBJG2JUW6iTNJsSK8s=
+
+Name: res/drawable-hdpi/upomp_bypay_sub10_default.png
+SHA1-Digest: ePERkF7l3oNi/xorMgwRN3YZAS8=
+
+Name: assets/Themes/scene/setting02-hd.plist
+SHA1-Digest: Ml6/OceecOL1byBBZ29mZc9QqSA=
+
+Name: res/drawable-hdpi/folderview_list_sepline.png
+SHA1-Digest: q136Vla3qaQg/GcDINW3WXrnbgQ=
+
+Name: res/drawable/apay_white_btn_selector.xml
+SHA1-Digest: DWEsEYbVKzUeAv7HTirDcn37DQM=
+
+Name: assets/Themes/Pets/PetsTheme03-hd.pvr.ccz
+SHA1-Digest: 5UqLH4WAWRZsFsVV/kYx5sIe9eg=
+
+Name: assets/Music/Monsters/Fat242.ogg
+SHA1-Digest: 4u1nkXUwHHM2LrySiXp65T/k9fs=
+
+Name: assets/Music/Monsters/Fly661.ogg
+SHA1-Digest: raVxC1fPgE8RWfO0p2w6ETYB4DI=
+
+Name: res/drawable-hdpi/upomp_bypay_input_btn_4_click.png
+SHA1-Digest: f81x2rYikld/kIHZnt9oLpjQqKE=
+
+Name: assets/Themes/Theme2/BG7/BG-hd.pvr.ccz
+SHA1-Digest: XDRC5AQRWwV3kBHTgnfyOWknQ7A=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_bg.9.png
+SHA1-Digest: fWRF1n4zCEBKhqNhjJpHbyGd6jo=
+
+Name: res/drawable/apay_cheap.png
+SHA1-Digest: Thl7ZA+Ym/oLDYFtVzDMEUlE8bE=
+
+Name: res/drawable-hdpi/upomp_bypay_sub1_default.png
+SHA1-Digest: jlfUf/RASWC5DLhM2iNzohNbSok=
+
+Name: assets/Themes/Theme2/BG15/BG-hd.pvr.ccz
+SHA1-Digest: 1RaFk7VZm1iZTNF2UDtBg11TWpQ=
+
+Name: assets/Music/Monsters/Land133.ogg
+SHA1-Digest: K5OkvPyr1DHBNrBZa42UgcXW8VU=
+
+Name: res/drawable-hdpi/umeng_xp_kaijuan_bg.xml
+SHA1-Digest: aj1Uv+wC5nh3vkjGQNEuEjCpNWY=
+
+Name: res/drawable/apay_account_tab_shape.xml
+SHA1-Digest: NCaLmNBA5lrVd4fjHLJw2B6O7Z8=
+
+Name: assets/Themes/Theme6/BG8/BGPath.tmx
+SHA1-Digest: G4IiL+hVQF4QHCxIvtUKdRksnrQ=
+
+Name: res/drawable/market_bg.png
+SHA1-Digest: 2Mjog5oOSBULK9So3srSpC/8u2Y=
+
+Name: assets/Themes/Theme2/BG16/BGPath.tmx
+SHA1-Digest: C+Yp/cP+WCMECxO35AEZvsmMqHk=
+
+Name: res/drawable-hdpi/upomp_bypay_select_card_bg.png
+SHA1-Digest: eh/fqha5FUep9jZLE5/5arI/KfQ=
+
+Name: res/drawable-hdpi/umeng_share_face_11.png
+SHA1-Digest: xb60uuUdMmTpe2Y7SGyN9Np1jnU=
+
+Name: assets/Music/Monsters/Fly263.ogg
+SHA1-Digest: FhGUzL4h8hrMTa22GfrO4aBNBu4=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_browse_clicked.png
+SHA1-Digest: 5bHPPgGmE67xGg9E9E4u1Jg5lmQ=
+
+Name: assets/Themes/Theme3/BG7/BG-hd.pvr.ccz
+SHA1-Digest: +dn7EkJZOY2NFJw3IwbeQSj3oaI=
+
+Name: res/layout/upomp_bypay_loading1_dialog.xml
+SHA1-Digest: P9/JijMCCka7wsj8ngQ2EQxDgqU=
+
+Name: assets/Themes/Theme3/BG9/BG-hd.pvr.ccz
+SHA1-Digest: kVHGu99XGLz9qjcH4xcWeVTdZ9A=
+
+Name: res/anim/umeng_xp_slide_out_from_right.xml
+SHA1-Digest: W1/LaQH05sdSt5N6MdWt8Go4OUU=
+
+Name: assets/Themes/Theme3/BG8/BG-hd.plist
+SHA1-Digest: +VpVaE6qMfype+l2IN3YCMZi1UU=
+
+Name: assets/Music/Main/BGMusic.ogg
+SHA1-Digest: 5YGcpxjCENlZNzMR+kJvEpcLCx0=
+
+Name: assets/Music/Items/SelectFault.ogg
+SHA1-Digest: hNx0GZviLDgmJU0N/dzD2R5UdDk=
+
+Name: res/drawable-hdpi/upomp_bypay_sub2_on.png
+SHA1-Digest: DGhjaRw82b8IjHl9Nh0bpC6snZ8=
+
+Name: assets/Themes/Theme2/BG6/BG-hd.pvr.ccz
+SHA1-Digest: EZGQp2OZorLGpaB1Tg1fiufz0bk=
+
+Name: res/drawable-hdpi/topbtn_bg_default.9.png
+SHA1-Digest: WdeJ+jVrHK0uAAb3qvNkQ1GL3Aw=
+
+Name: res/drawable/upomp_bypay_btn_month.xml
+SHA1-Digest: eIlPDMyCI2lqZSxkQQq+Y86cY/U=
+
+Name: res/layout/upomp_bypay_splash.xml
+SHA1-Digest: QgnU2dYOkztwh8SWyVVLs6GgPTk=
+
+Name: res/drawable/pay_type_4.png
+SHA1-Digest: 1yWhT2mtyJdiy7KHHv4lu7xCseA=
+
+Name: assets/Themes/Theme1/BG12/BG-hd.plist
+SHA1-Digest: 2g/we0cKVX4mXQ0R0wdvaK9hx4Y=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: OSPdxHmyzYCBEl3YZ6sKaL6chwY=
+
+Name: res/drawable/pay_spinner_black_48.png
+SHA1-Digest: G/sjTsWSBWrO1uSXOyhCqOPlbxQ=
+
+Name: res/drawable-hdpi/umeng_xp_x_button_clicked.png
+SHA1-Digest: 10K6uv4LeT+d33FeyVWA/6sfY+w=
+
+Name: assets/Music/Monsters/Fly151.ogg
+SHA1-Digest: pqCyKT23rNFZo2RUb2PkM+WWucY=
+
+Name: res/drawable-hdpi/upomp_bypay_sub3_on.png
+SHA1-Digest: FOgeuD/EYPGvDy1mDKe/JBTocfE=
+
+Name: res/layout/upomp_bypay_loading_dialog.xml
+SHA1-Digest: Ij5RHFbOoKMOmR56JNxMJzPPZls=
+
+Name: res/drawable/upomp_bypay_keyboard_btn_l_clear.xml
+SHA1-Digest: jTT4DGWbvWNxekidTp/wUtfz+i0=
+
+Name: res/drawable/umeng_fb_list_item.9.png
+SHA1-Digest: 7q2oAmsuTIdGdDUC1q1WdMu0Ac8=
+
+Name: assets/Themes/Towers/TFan-hd.plist
+SHA1-Digest: JoAE1NbnDRgLxBuAnOP5nWSE6XI=
+
+Name: assets/Music/Towers/Fish.ogg
+SHA1-Digest: pVXb9KR4wSnprjFLzZYt1yWtiSU=
+
+Name: assets/domob_exit.png
+SHA1-Digest: e2mwW+UQvyCLd4jpO1lwm1h2pxo=
+
+Name: assets/Themes/Theme6/BG21/BG-hd.pvr.ccz
+SHA1-Digest: tAJm6/mzRho2EmjpNmca+knhsC4=
+
+Name: res/drawable/umeng_share_shareitem.xml
+SHA1-Digest: R9NBxWTta97Dg8I4vc6kvE1VOvM=
+
+Name: res/drawable/umeng_share_gridview_item.xml
+SHA1-Digest: tEWnwo+loZRHCP3S2293+JWEw9M=
+
+Name: res/drawable/upomp_bypay_btn_sub1.xml
+SHA1-Digest: NDHYvXFFtn1/GPmYMLHWSTyHNhg=
+
+Name: res/anim/umeng_xp_slide_out_from_top.xml
+SHA1-Digest: v37u5vDx/28RKvSwMqM0Wn/aBzs=
+
+Name: res/drawable-hdpi/umeng_share_face_07.png
+SHA1-Digest: 0ScdVEa4deO3t0u4QGB6r8vBBw0=
+
+Name: assets/values/dimens.xml
+SHA1-Digest: cBakdbWlaBkQ0Rg+d2nbJCwehp4=
+
+Name: assets/Themes/Items/Items32-hd.plist
+SHA1-Digest: tEk/bfQZYw+nu2UtL9PCkptg0FY=
+
+Name: assets/domob_preview_off.png
+SHA1-Digest: b/t3THmIpHAv/89burQdDA+FPwk=
+
+Name: res/layout/umeng_xp_download_dialog.xml
+SHA1-Digest: gOYSYgY3dXzopeT2v76Va46XksI=
+
+Name: assets/Themes/Theme1/BG11/BG-hd.plist
+SHA1-Digest: 8JkiTfn7XNFtXowrGjPNIpfvq9I=
+
+Name: assets/Music/Main/Accomplish.ogg
+SHA1-Digest: DQaFBKuJth8LqUzNjFCql6HEC0o=
+
+Name: res/drawable/umeng_fb_point_new.xml
+SHA1-Digest: f3U/QETVbH/3o7yN/GTXkh5j3jM=
+
+Name: assets/Themes/Towers/TPin-hd.pvr.ccz
+SHA1-Digest: 1phvWTBFLadbzpV3lrYNSfUXLSc=
+
+Name: res/layout/umeng_example_fb_home.xml
+SHA1-Digest: +XiYX2J7z2U/tz2zH3XFM2O/Vhs=
+
+Name: assets/Music/Monsters/Fly352.ogg
+SHA1-Digest: RXJsJ6eHdG0/PrjgvBINIAMvY3o=
+
+Name: assets/Themes/scene/newtheme-hd.pvr.ccz
+SHA1-Digest: 6XcW/AOpnWc13nwqc9UZNGJCYII=
+
+Name: res/drawable-hdpi/upomp_bypay_card_btn_4.png
+SHA1-Digest: icMPUZ401ln0+RkOlX1f65/EzhY=
+
+Name: res/drawable/umeng_xp_shape_gradient_grey_list.xml
+SHA1-Digest: 67UVLeAVIDRFsh7sC8ZrM1BlIDk=
+
+Name: assets/Themes/Theme6/BG4/BG-hd.pvr.ccz
+SHA1-Digest: oreheVqMPpCnJmt7opO8toGo/mk=
+
+Name: res/drawable-hdpi/umeng_xp_link_radius_shape.xml
+SHA1-Digest: 7DkkW7OKtVDZCgP/MsdWkWH4iPE=
+
+Name: assets/btn_an.jpg
+SHA1-Digest: bUmdgKhdLHN/xAoy3HgzrVZqaDM=
+
+Name: res/drawable-hdpi/umeng_xp_progressbar.xml
+SHA1-Digest: FR8hy/eBIbfVs1g4CPQNi45ropg=
+
+Name: res/drawable-hdpi/umeng_xp_banner_grey.xml
+SHA1-Digest: mYoQvrYNFnx83cN7mRzaQV1sLGg=
+
+Name: res/drawable/pay_box_gray_shape.xml
+SHA1-Digest: ogjq0M4YMhriqT819Se/VLH+Iyw=
+
+Name: res/drawable-hdpi/btn_bg_selected.9.png
+SHA1-Digest: rZOL69SuBw6FY1Y+eqEvcfn5iUg=
+
+Name: assets/Themes/Theme6/BG9/BGPath.tmx
+SHA1-Digest: +bdGZs1ulms+RqqyH/blNnhg2PQ=
+
+Name: assets/Themes/Theme1/BG16/BG-hd.pvr.ccz
+SHA1-Digest: go6yPEyEpoRcqdNVAI+ACyYKvQA=
+
+Name: assets/Themes/Theme3/BG9/BG-hd.plist
+SHA1-Digest: HydXsevnMaSdTCs9fqd7//4jH/w=
+
+Name: res/drawable/pay_consume_list_item_shape.xml
+SHA1-Digest: j94N6viXPqq1N4QBxNphLvsx34I=
+
+Name: res/drawable-hdpi/share_fan_active.png
+SHA1-Digest: BKWxfTAkpk3gtkZgiide5mOXtSE=
+
+Name: res/layout/umeng_xp_component_focus_banner.xml
+SHA1-Digest: 2CJ8nsiHZoPg4mjY/+SlZe/abts=
+
+Name: res/drawable-hdpi/upomp_bypay_card_info_title.png
+SHA1-Digest: S7M2Rb5B9+1MnFEAps/rjolITQ8=
+
+Name: assets/Themes/Theme1/BG6/BG-hd.plist
+SHA1-Digest: 57uwI8nqrjnpMjJFhYfaEkLcy6A=
+
+Name: res/drawable/upomp_bypay_btn_symbol.xml
+SHA1-Digest: VADzWmwoEHFChWJyTWpJMeYiUX0=
+
+Name: assets/Themes/Theme6/BG21/BGPath.tmx
+SHA1-Digest: y1flpSI2kWfA6028uhlcooWAwG8=
+
+Name: assets/Music/Monsters/Land622.ogg
+SHA1-Digest: EkylGtfFJahrokr1qJQvqYZVNE0=
+
+Name: assets/Themes/Theme3/BG2/BG-hd.plist
+SHA1-Digest: 1RlL6kCVlhO342lxp8TJFjVaYtE=
+
+Name: res/layout/pay_listview_consume_item.xml
+SHA1-Digest: bSxuU1IwgG2IH9wNx8mAYAvrfkU=
+
+Name: res/drawable-hdpi/umeng_xp_selector_cancel.xml
+SHA1-Digest: MTEp9Ig2FuPuCRA4hoxmnqXFXsM=
+
+Name: assets/Music/Items/TowerBulid.ogg
+SHA1-Digest: mP01+6OcmdAm9oTXonEPl+parq0=
+
+Name: res/drawable/pay_box_help_child_shape.xml
+SHA1-Digest: zNEezOSMozOUgqHcZLrIHj7Rlhg=
+
+Name: res/drawable/apay_price_btn_shape.xml
+SHA1-Digest: HdkFsfsJpjSfYztB18s29QA7oZk=
+
+Name: res/drawable-hdpi/umeng_xp_darkbg.png
+SHA1-Digest: puYTxhWWeweQxhVvoBpO2XU+7VA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: RisWGTjE+xv3GSHn8eUTh7I+lFg=
+
+Name: res/drawable-hdpi/umeng_share_face_10.png
+SHA1-Digest: bAZKhPN2t/u2Bep0djBID3CLI/E=
+
+Name: assets/Themes/Items/Items10-hd.plist
+SHA1-Digest: QaxRCfFT0/SB9Pp5UKN8KfNNoTE=
+
+Name: res/drawable-hdpi/umeng_xp_button_cancel_click.9.png
+SHA1-Digest: N0rL2o2nv7qWPhdtaI9drNGSiBk=
+
+Name: res/drawable-hdpi/upomp_bypay_nav2_default.png
+SHA1-Digest: DvDR4Zk/VVjicgW33GEao9l6jS4=
+
+Name: res/drawable-hdpi/upomp_bypay_card_btn_1a.png
+SHA1-Digest: s3ycK94bhhshUGsBn3rK2UNT3fw=
+
+Name: res/drawable-hdpi/umeng_xp_x_button_selector.xml
+SHA1-Digest: KQjX3x+pMq7tk37KoTx8TwFV3Ag=
+
+Name: assets/Music/Items/bomb.ogg
+SHA1-Digest: JwoQYqeWG1OA3+NTH4LswcEaB+U=
+
+Name: res/drawable-hdpi/umeng_xp_loading_seek.xml
+SHA1-Digest: 3hwjxKo0dsvHvEblP7wywfdLLx4=
+
+Name: res/drawable-hdpi/umeng_share_face_02.png
+SHA1-Digest: N+AniRvhakvjwHMHfbNZLCNVTAc=
+
+Name: res/drawable-hdpi/umeng_xp_gradient_grey.xml
+SHA1-Digest: QSaF6cKql+XmispU3u9KX/uKAb8=
+
+Name: res/drawable/apay_price_btn_selector.xml
+SHA1-Digest: XsHeNST6oEeHJBClXVKtYh/iOlE=
+
+Name: res/drawable/actionbar_btn_pressed.xml
+SHA1-Digest: ONfUwTzmXCIQnco97RIzjkKp/0Q=
+
+Name: res/layout-854x480/share_to_tencent.xml
+SHA1-Digest: rvmdKb1kxPuBqDTXowkT4EIZz3I=
+
+Name: res/drawable/pay_type_9.png
+SHA1-Digest: GedWJtQKJHFpTjhBSDMpBQevaXA=
+
+Name: res/drawable-hdpi/gc_billing_red.9.png
+SHA1-Digest: ccSBU0qreYDLTRX7GIVbSeJIN1I=
+
+Name: assets/Themes/scene/mainscene2-hd.plist
+SHA1-Digest: Z9Pa+u7du1UoHb3GfehFVTSgjR8=
+
+Name: assets/Themes/Theme2/BG14/BG-hd.pvr.ccz
+SHA1-Digest: LfK0uedXpN8W3RScPDvqn1Zy8kg=
+
+Name: assets/Themes/Theme1/BG5/BG-hd.plist
+SHA1-Digest: +2n6YtRuNeQmwffgnruj9HsyFig=
+
+Name: res/layout/umeng_ut_loadpic.xml
+SHA1-Digest: YvJ9OO8jNmIY+vlNItZP2cpgHC4=
+
+Name: assets/Themes/Towers/TRocket-hd.plist
+SHA1-Digest: Mfkw7SN01F5r5a17x46d5IbDoco=
+
+Name: res/drawable/umeng_fb_statusbar_icon.png
+SHA1-Digest: dc/14UYS3XD9xi2BUhYNmVri6cw=
+
+Name: assets/Themes/scene/popuplock-hd.plist
+SHA1-Digest: NzHEntnxY0+x1VC0Dhp7v/hWcXU=
+
+Name: classes.dex
+SHA1-Digest: w85RgxmxwmlHCb4+Wg35LXbmy6w=
+
+Name: res/layout/umeng_xp_component_foucused_app.xml
+SHA1-Digest: R9OHrlvpIBU2nCnAS2yqYBFKlmY=
+
+Name: res/drawable/actionbar_back_indicator.png
+SHA1-Digest: VWL2cUqF4CPMzuCUslBwtNOQZ5c=
+
+Name: assets/Themes/Theme3/BG0/BG1-hd.plist
+SHA1-Digest: nMB64WPYsI0SvK8Nw+uqF12i+Ic=
+
+Name: assets/Music/Monsters/Land312.ogg
+SHA1-Digest: aBBHA+CNNDtNrZs2GYWL+W/7p9o=
+
+Name: assets/Themes/Theme1/BG4/BG-hd.pvr.ccz
+SHA1-Digest: munXEFAhlfDhv/Q93lg8UTHL+qI=
+
+Name: res/drawable/upomp_bypay_card_btn1.xml
+SHA1-Digest: /hdK72lFzeYYXeRjBM3DdsJIk3g=
+
+Name: assets/Themes/Theme6/BG16/BG-hd.pvr.ccz
+SHA1-Digest: UlXHIZotVDLYRB/ylQvrFwSCT2Q=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_blue_container.xml
+SHA1-Digest: S5Qh7Zc/ZX+5EgXgrP5404My4Pc=
+
+Name: res/drawable-hdpi/upomp_bypay_sub_bg.png
+SHA1-Digest: 4wyDyErV0DVCfa0dPi9Jdc9a3Z4=
+
+Name: res/layout/umeng_xp_handler_template.xml
+SHA1-Digest: hwm4YEOcIpJ4skg595Sw+/KtdPM=
+
+Name: res/drawable-hdpi/upomp_bypay_nav3_click.png
+SHA1-Digest: Om7kYcWoxW1KvSYW3EQ0eQ3m0Us=
+
+Name: res/drawable/apay_account_btn_shape.xml
+SHA1-Digest: 18IFGqrUFG7tFCbBmnd+W6YK6Bg=
+
+Name: res/drawable-hdpi/upomp_bypay_card_btn_1.png
+SHA1-Digest: rL0qfCoDKLvfA072CrduEdVuVFk=
+
+Name: assets/Themes/Theme6/BG0/BG2-hd.pvr.ccz
+SHA1-Digest: SHfqxVV7dDwfz+67Gv9C+S4iK8U=
+
+Name: res/layout/upomp_bypay_edit_info.xml
+SHA1-Digest: zzDxVlw2PG5UTG28ozpMOY2TPOY=
+
+Name: assets/Themes/Theme3/BG16/BGPath.tmx
+SHA1-Digest: yX/61kPlVW4iJRuxIyD/YBqpj+c=
+
+Name: assets/Themes/scene/darkbg-hd.pvr.ccz
+SHA1-Digest: eY8I7J3H10SWhxTn7dhqiZ0brg0=
+
+Name: res/drawable/upomp_bypay_progress_init.xml
+SHA1-Digest: 9xs2tvNrDW4lgTk0eQxhpLLBa98=
+
+Name: assets/Themes/Theme2/BG8/BGPath.tmx
+SHA1-Digest: O8DWVzEsqCJetukJKHnXtWW2Hqg=
+
+Name: res/drawable/umeng_fb_blank_selector.xml
+SHA1-Digest: ArNcf6tuetvFrPckG6ktSHDkEyM=
+
+Name: assets/Themes/scene/stages_theme3-hd.plist
+SHA1-Digest: T7uI/BiSgbNPObOJIn2j0LacfXc=
+
+Name: res/layout/upomp_bypay_keyboard.xml
+SHA1-Digest: +5Ij4wWL0DznqrGJyBFQguYXtJY=
+
+Name: assets/Themes/Items/menublood_num-hd.png
+SHA1-Digest: ybdtAKx+fo5P5ltDn1Ooej3DCEg=
+
+Name: res/drawable/pay_checkbox_checked.png
+SHA1-Digest: wlOLtVopxyBaDQBFLCU6DaBor1k=
+
+Name: assets/Themes/Theme3/BG16/BG-hd.pvr.ccz
+SHA1-Digest: g4cbYmdZhr97WNwrmjy1WYJ1Ams=
+
+Name: res/drawable-hdpi/umeng_xp_shadow_bg.9.png
+SHA1-Digest: 7IPSh5i4uiIstLTIizyk7b7YiKA=
+
+Name: assets/OpeningAnimation/g_logo_cmcc.png
+SHA1-Digest: evFQ4S5bYXHCB5ynhl2QhonHQRo=
+
+Name: assets/upomp_bypay_config.xml
+SHA1-Digest: wXiegkT4gZhsp8YioiI1FuBZQ8o=
+
+Name: res/drawable-hdpi/umeng_logo_big_subtitle.png
+SHA1-Digest: ZEoCAH+ji+bHiI49q/f9gMi25Ss=
+
+Name: assets/CMGC/ConfigExtend.xml
+SHA1-Digest: WSLuFXLDHOs3HAcNTBUFur46Uw0=
+
+Name: res/layout/upomp_bypay_keyboard_letter.xml
+SHA1-Digest: YBRPFsk0t6UVeuLaOgG8rCSkTb0=
+
+Name: res/drawable-hdpi/upomp_bypay_loading_dialog.png
+SHA1-Digest: XY21iv7lQLZeaSk5esBIJF7xt+4=
+
+Name: assets/Themes/Theme1/Items/Object02-hd.pvr.ccz
+SHA1-Digest: ZzX7iudur8xZfOHW4v3nLEe2ZwU=
+
+Name: assets/Themes/Theme1/BG3/BG-hd.pvr.ccz
+SHA1-Digest: PlhZDnoClHeu8l7tjrd8DbcT9t0=
+
+Name: assets/Themes/scene/help_2-hd.plist
+SHA1-Digest: Mjwx36Fgh3DHc2y9FY/l9nZWTaA=
+
+Name: assets/Default-Landscape~ipad-360.png
+SHA1-Digest: isGRkuBCk0RZWrs8RW6r4kfikZA=
+
+Name: res/drawable/actionbar_btn_normal.xml
+SHA1-Digest: QIucCLRLxKOz+F2iTYIggb2kcjQ=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_btn_clear_default.png
+SHA1-Digest: d06gJRUY+BCCVCXFg6XuZHmTE7Y=
+
+Name: res/layout/apay_type_gamecard.xml
+SHA1-Digest: 2fgYc7F7Y0LLchfCKGsLcJywQd4=
+
+Name: res/layout/umeng_example_home_dashboard_fragment.xml
+SHA1-Digest: oH1k+lJ95x8+H1IuszdBVraq60E=
+
+Name: res/drawable/apay_type_item_on_shape.xml
+SHA1-Digest: 2G9wu1KGqCYOds4+n9PjJKAFS6k=
+
+Name: assets/Themes/Theme6/BG20/BG-hd.pvr.ccz
+SHA1-Digest: ycPuWwOgkapDWa/UpHnNG7eRI5k=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_bg.png
+SHA1-Digest: O2G4O+xKk8TRrnqF6TH4C1QDvNM=
+
+Name: res/layout/apay_type_list.xml
+SHA1-Digest: ZTF8Vqi4jv6HMH4OeV7r++ANAb0=
+
+Name: assets/Music/Monsters/Fly653.ogg
+SHA1-Digest: d+56CVAETgnYpu5kZMIA5n+M7KE=
+
+Name: assets/Themes/Theme3/BG8/BG-hd.pvr.ccz
+SHA1-Digest: j5QXyKIGf2f+jI96HaYPhIM3yyE=
+
+Name: assets/Themes/Theme6/BG6/BGPath.tmx
+SHA1-Digest: OofqA+JlIHXBxTHbQWU+yoCnQR0=
+
+Name: assets/Themes/scene/mainscene2-hd.pvr.ccz
+SHA1-Digest: 93c97d/EVBJxhLwexiK5Cg0Oq8I=
+
+Name: res/drawable/umeng_fb_see_list_normal.png
+SHA1-Digest: r5E0hH7/To12bEbgFyDRQHkLKMI=
+
+Name: assets/Themes/Towers/TFireBottle-hd.plist
+SHA1-Digest: 1LwmlYwtPOGVdk74Rp7RF5Uu5v0=
+
+Name: assets/Config.xml
+SHA1-Digest: pdl3VjpGPxtjIG2D6b+sDEDJiq4=
+
+Name: assets/OpeningAnimation/g_game_title.png
+SHA1-Digest: T3Z8majfu3c7M1kKaQThs0Gmgo0=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_open_selector.xml
+SHA1-Digest: NOvbjELpwOH8oh0NIdkYuVmFZs0=
+
+Name: assets/Music/Monsters/Fly261.ogg
+SHA1-Digest: CVbqvocCCHECtm58bcKo6fsIbA4=
+
+Name: res/anim/umeng_xp_push_up_out.xml
+SHA1-Digest: HDyr0zoXwh8zGTnmQKQOciMMR6E=
+
+Name: res/drawable-hdpi/upomp_bypay_card_btn_bg.png
+SHA1-Digest: bQnPlkdna8MQDnAOJxyhn+k9vHc=
+
+Name: res/drawable-hdpi/upomp_bypay_loading_bg2.png
+SHA1-Digest: 6SMyrcchtPxQXJA0hJOXHeKhmFU=
+
+Name: assets/Music/Main/Unlock.ogg
+SHA1-Digest: ZwgomBjAze91e+TB8VY3RPfHIc0=
+
+Name: res/drawable/upomp_bypay_progress.xml
+SHA1-Digest: bPDgN0u7rHULTBVWn7/On5EIBXU=
+
+Name: res/drawable/actionbar_background.xml
+SHA1-Digest: QIucCLRLxKOz+F2iTYIggb2kcjQ=
+
+Name: assets/Music/Monsters/Land632.ogg
+SHA1-Digest: /NEol+7SvBA5DXXVDrvYzLVixOI=
+
+Name: res/drawable/actionbar_btn.xml
+SHA1-Digest: Y9QGrwVctmfaJBgK+N5JgwpdsMI=
+
+Name: assets/Themes/Pets/PetsSNS-hd.plist
+SHA1-Digest: lhfnPFAQuNM+YXxUTaQIIZElC2E=
+
+Name: assets/Themes/Theme2/BG12/BG-hd.pvr.ccz
+SHA1-Digest: AwLp+u6fSo7mv6c9buJOepeDQ1o=
+
+Name: res/drawable-hdpi/upomp_bypay_spinner.png
+SHA1-Digest: UiiMDlgdrwrHSOqMWncorYnotEM=
+
+Name: assets/Themes/Theme1/BG6/BG-hd.pvr.ccz
+SHA1-Digest: 99Xz08ICprM95/XonqSmsGmo8tE=
+
+Name: assets/Themes/Theme3/BG15/BGPath.tmx
+SHA1-Digest: OHNuTbxWHOKQpIIeNTX6vGUL0JQ=
+
+Name: assets/Themes/scene/themescene4-hd.plist
+SHA1-Digest: +YjYWWuANDBluP2inR1KGYK/Rks=
+
+Name: res/drawable-hdpi/umeng_xp_highlight_item_bg_selector.xml
+SHA1-Digest: QEvJ7ma1F9mccW5V9e4Pt4aJDgU=
+
+Name: assets/Themes/Theme6/BG3/BG-hd.pvr.ccz
+SHA1-Digest: UesD9ujcQA2scLR16K+SkEmgVvY=
+
+Name: res/layout/upomp_bypay_pay_it.xml
+SHA1-Digest: mkqRHaWURq6HOzb6yiZLACvH3uM=
+
+Name: res/layout/umeng_share_shareto.xml
+SHA1-Digest: Z2qLAS8NBrJ5ODNzqqiU3rBHM1U=
+
+Name: assets/Music/Monsters/Fat141.ogg
+SHA1-Digest: rGURDruW81EN5Nj2B9wXE+mXhrk=
+
+Name: res/layout/umeng_example_xp_hyperlinktext_activity.xml
+SHA1-Digest: YzKvhQfghCLuPxhRcJHOroTfu7c=
+
+Name: assets/Themes/Pets/PetsNest-hd.plist
+SHA1-Digest: wxNwIS2QMsuAQ0SgtUzoiWQmVVc=
+
+Name: res/anim/umeng_xp_push_down_out.xml
+SHA1-Digest: RdoC8yWBlAs8mtRyQIeH5MFydzI=
+
+Name: res/layout/upomp_bypay_account_main.xml
+SHA1-Digest: UJjXGE2zQXFJ6QYGrbjZjP7mG6E=
+
+Name: assets/Music/Monsters/Land332.ogg
+SHA1-Digest: SHEf7TAkKJyQTa6erKOUAisbHX8=
+
+Name: assets/Themes/Theme6/BG16/BGPath.tmx
+SHA1-Digest: SvH5lgcUpbAaHDT01UzTbTNApQE=
+
+Name: res/layout/upomp_bypay_card_list_item.xml
+SHA1-Digest: XQrtN2+tz1ZCFkfRY5+c3jW9vyE=
+
+Name: res/drawable-hdpi/upomp_bypay_select_dx.png
+SHA1-Digest: ysARe+klvIiA1H19jEEMahQHJ6I=
+
+Name: res/drawable-hdpi/umeng_xp_new_tip_button.png
+SHA1-Digest: HJ/CPjJrNfwKlcOYMVOq3LeZx04=
+
+Name: res/anim/umeng_xp_slide_in_from_bottom.xml
+SHA1-Digest: hhtcVYubEnTJOz9BvTEBXnpQH1c=
+
+Name: res/drawable/upomp_bypay_card_btn2.xml
+SHA1-Digest: fOnU5HfxVAjNyoP2imNVmCJM1CY=
+
+Name: res/layout/umeng_example_xp_tab_activity.xml
+SHA1-Digest: r9QtRdyrMaM1xyewNUVfGNCbi80=
+
+Name: assets/Themes/Pets/mystone_num-hd.png
+SHA1-Digest: AB12WhwlH5gfjXg3SGU794n32r0=
+
+Name: assets/Themes/Pets/icon_num-hd.png
+SHA1-Digest: H6KF9sGbOM60SttJJw1oIdVD3ZQ=
+
+Name: assets/loading-hd.png
+SHA1-Digest: 34vlyfZyitKh7raQAXRFGLXrXxc=
+
+Name: res/layout-1280x720/share_to_tencent.xml
+SHA1-Digest: 6M6/FTeR8zDwinMUm/3Fx8u9RWg=
+
+Name: assets/Themes/Theme6/BG22/BGPath.tmx
+SHA1-Digest: wfIv+6XvRid8DxKXZTufAdqVXLg=
+
+Name: res/layout/upomp_bypay_login.xml
+SHA1-Digest: wnBDWZYztnp7K6ZS8NofHPHWKvc=
+
+Name: assets/Themes/scene/popuplock-hd.pvr.ccz
+SHA1-Digest: gepZsz+b9gRoVGmlJzmiNV01qV8=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_grey_4.xml
+SHA1-Digest: mU688N7b6Rqn0Et3wcX8Li5Z6AY=
+
+Name: assets/OpeningAnimation/g_logo_cmgc.png
+SHA1-Digest: dw9C9vl5mMsBNLIha2NcSKmqVsk=
+
+Name: res/layout/upomp_bypay_pay_main.xml
+SHA1-Digest: /DEqBiJ74QL2LTJxVyIXDHDHpKs=
+
+Name: res/drawable/upomp_bypay_btn_letter.xml
+SHA1-Digest: xYBW70dhbmfVPVofDYMN+0CzmdY=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_download_selector.xml
+SHA1-Digest: 6RVZk0i2pTHf3R959+29iv/i0/o=
+
+Name: res/anim/umeng_xp_slide_in_from_top.xml
+SHA1-Digest: E/l7w7h97MjKC09zwRTBG1iEaYc=
+
+Name: res/drawable/umeng_share_shareto_title.xml
+SHA1-Digest: GYhAlnXt8pZU0EJ24yl91+6WYDo=
+
+Name: assets/Music/Monsters/Land331.ogg
+SHA1-Digest: +Cs9Fm4eNZjATQ82ZIYbAIfp2bE=
+
+Name: res/drawable-hdpi/upomp_bypay_xieyi_select_1.png
+SHA1-Digest: 4/8TDbzGsF3Sox/tj8DP7pqXFaE=
+
+Name: assets/Themes/Theme3/BG4/BG-hd.pvr.ccz
+SHA1-Digest: xCuBs71vRCMeF7hhLO3OmDLBuyw=
+
+Name: res/drawable/upomp_bypay_card_btn3.xml
+SHA1-Digest: mKsbBdeAcHO8uE30kqx7APL+qy4=
+
+Name: assets/Music/Items/CutWhale.ogg
+SHA1-Digest: w0VmOM6kchBfljaNuV0ID0OBN7s=
+
+Name: res/drawable-hdpi/share_sepdot.png
+SHA1-Digest: 6w2kZknQ8IwJxV39tVGej5uD/2s=
+
+Name: assets/CMGC/ChPkgs.xml
+SHA1-Digest: 2lR/nBtryUuAjNVffBiwNbklyMQ=
+
+Name: assets/Themes/scene/stages_theme2-hd.plist
+SHA1-Digest: tVFM7+OpMe9GwptpOcsb5a+1eYE=
+
+Name: assets/Themes/scene/stages_bg-hd.pvr.ccz
+SHA1-Digest: YoFJi6a4rDOrVPXqa0kn8EIWq08=
+
+Name: res/drawable-hdpi/upomp_bypay_select_dx_on.png
+SHA1-Digest: xhTQz0LUMxRyNQet0DzWcCqGLOQ=
+
+Name: res/drawable-hdpi/umeng_xp_button_cancel.9.png
+SHA1-Digest: FW90ZljtBSRMgEVFGIRX/2v42Rw=
+
+Name: assets/Themes/Theme2/BG12/BGPath.tmx
+SHA1-Digest: 41QBfoD8YHb4xTstLpEzPJKDnF4=
+
+Name: res/drawable-hdpi/upomp_bypay_btn_small_bg_click.png
+SHA1-Digest: G9+6U8bvnNBBGeXinuta9ov2cu4=
+
+Name: res/drawable-hdpi/umeng_xp_highlight_banner_bg.9.png
+SHA1-Digest: 32HlWEI/Lo1cu6dkiDfWnp9a/u0=
+
+Name: res/drawable/apay_titlebar_shape.xml
+SHA1-Digest: ZFb2LXmRmij4XAF0qYLoNjlBvYs=
+
+Name: assets/Themes/Theme3/BG14/BG-hd.plist
+SHA1-Digest: wIGx3pHVcxvkPkCF36rK7J1Ps7c=
+
+Name: assets/Themes/scene/gameover1-hd.pvr.ccz
+SHA1-Digest: vk+Ya4wN+QjMVvntH/UwbtoW28A=
+
+Name: assets/Themes/Items/numwhite-hd.png
+SHA1-Digest: t/XFOWb7CJ/2uJezFQ3ki7msIig=
+
+Name: assets/Themes/Theme2/BG16/BG-hd.plist
+SHA1-Digest: PwJpOGlJkIx6eG788byaTZsM1Vs=
+
+Name: assets/Themes/scene/antiboss2-hd.pvr.ccz
+SHA1-Digest: fwVUXmzlYA4KKP6APT+MwcHMu6g=
+
+Name: res/layout/apay_liandong_tip.xml
+SHA1-Digest: 1ONIm/YQsAA5+fYd6rc5ahT/piI=
+
+Name: assets/ConsumeCodeInfo.xml
+SHA1-Digest: fLRsIjlmBJ8s4Jr/WMOouun70qs=
+
+Name: assets/Themes/scene/stages_bg-hd.plist
+SHA1-Digest: AzOXoFY8IrSW/Yvr2+rHyiN80hM=
+
+Name: assets/Themes/scene/gameover-hd.pvr.ccz
+SHA1-Digest: opvoHJ1KnzQ/XGGS9QfCSwjBOUM=
+
+Name: res/drawable-hdpi/upomp_bypay_toast_bg.png
+SHA1-Digest: YBW0OJnMMSN+aZbM90FyLQ6wTL8=
+
+Name: res/anim/umeng_xp_fade_out.xml
+SHA1-Digest: mATuWnKwSQ4VWpfkM+oC8E7hENg=
+
+Name: res/drawable-hdpi/share_setting_pressed.png
+SHA1-Digest: lBnw78SwneMZbqgwHcsy0BPkcd8=
+
+Name: assets/Themes/scene/antiboss-hd.pvr.ccz
+SHA1-Digest: Z202mcuH5dQHj6nDdJ6YuII093A=
+
+Name: assets/Themes/Theme3/Items/Monsters01-hd.plist
+SHA1-Digest: ET8L7Q3dKM5XEXzooRA/VVBxPyU=
+
+Name: res/drawable-hdpi/upomp_bypay_card_btn_2_on.png
+SHA1-Digest: LIoVC3WQk31nuTL540ObQ9ihDmU=
+
+Name: assets/Music/Feeds/PetChange01.ogg
+SHA1-Digest: uSfZLVOqY/A4IF5fOQ+qonFkTig=
+
+Name: res/drawable-hdpi/upomp_bypay_loading.png
+SHA1-Digest: 7KMuGr9J7CUzI7yvQq4g6FLDqpk=
+
+Name: res/drawable-hdpi/upomp_bypay_input_btn_2_click.png
+SHA1-Digest: D5aGLYqCWjUTzvJS41Jayyx6GHY=
+
+Name: assets/Themes/Pets/PetsEgg-hd.plist
+SHA1-Digest: dM2aAXVX2y4eBJL13PSt+X62MxA=
+
+Name: res/drawable/umeng_share_update_button_sel.xml
+SHA1-Digest: ctj3pGvWvlAOOUJj5YrF/oT5fOI=
+
+Name: res/drawable/pay_title_icon.png
+SHA1-Digest: FE7eUZCP38Cq5lTAPlKBKprEVDw=
+
+Name: res/layout/upomp_bypay_edit_pass.xml
+SHA1-Digest: wViEcruEgUC2lTRjcEogpSZpuLI=
+
+Name: assets/Themes/Items/menublood_num.png
+SHA1-Digest: Mne7+B9f03nmtbzXikfi3SgS+GU=
+
+Name: res/drawable/share_send.png
+SHA1-Digest: C2n94NffhgE0HcwojD+56u71yPU=
+
+Name: assets/Themes/Theme2/Items/Monsters01-hd.plist
+SHA1-Digest: qBvegPRe42vhvdVI0oz0ePC/iKo=
+
+Name: assets/Themes/Theme1/BG7/BG-hd.plist
+SHA1-Digest: Ba3zOEQL/cVYQ4PGDLqfxdtqk2c=
+
+Name: assets/Music/Monsters/Fly652.ogg
+SHA1-Digest: Xvk96KR6N/r2Fo5YA6ul0j6mE6Q=
+
+Name: res/layout/umeng_example_xp_container_full.xml
+SHA1-Digest: jpT3P65yupDxUWML8TfMp8K3KNk=
+
+Name: assets/Themes/Theme6/BG21/BG-hd.plist
+SHA1-Digest: yWAGfWRkysygLdusBHvt8Oi0HBM=
+
+Name: res/drawable-hdpi/upomp_bypay_select_card_default_bg.png
+SHA1-Digest: xSwUR0jtf3uzDP3QBIRdaGujcJk=
+
+Name: assets/Themes/Pets/PetsTheme03-hd.plist
+SHA1-Digest: 7+YSq5txerzgRYMme+7Mw+DoYPI=
+
+Name: res/drawable-hdpi/upomp_bypay_sub11_on.png
+SHA1-Digest: 8AeMxWgWQwcFSafr32Oay9uBMz4=
+
+Name: res/drawable-hdpi/umeng_xp_button_download_selector.xml
+SHA1-Digest: Yvvmj4vTJgXHrQhVvnq43OyBT3g=
+
+Name: res/drawable-hdpi/upomp_bypay_tips3_top2.png
+SHA1-Digest: TXipV2HAi+7I+McEkZkMD8GC5do=
+
+Name: assets/Music/Monsters/Land112.ogg
+SHA1-Digest: 5hCiVWkmB6MTxSQR+DLSPo4qyyc=
+
+Name: res/drawable-hdpi/umeng_xp_new_tip.png
+SHA1-Digest: HJ/CPjJrNfwKlcOYMVOq3LeZx04=
+
+Name: assets/Themes/Towers/TFish-hd.pvr.ccz
+SHA1-Digest: 2i6AY/3eiLCQUVrqH5jK9yNhQXY=
+
+Name: assets/Themes/Theme3/BG14/BG-hd.pvr.ccz
+SHA1-Digest: mUrXtHbpO3KqEmpVcExHRwC6x24=
+
+Name: assets/Themes/scene/themescene3-hd.pvr.ccz
+SHA1-Digest: qfd/Cfik889X+w1k3dIV06jvLLA=
+
+Name: res/drawable-hdpi/umeng_xp_shape_conner_green.xml
+SHA1-Digest: LX+a1O5TQ0xyHG8jj5Os/b6HIiU=
+
+Name: res/drawable-hdpi/upomp_bypay_btn_esc_bg.png
+SHA1-Digest: IAtg1Rh36Fs5EbOKw4R+5aPgukQ=
+
+Name: res/drawable/btn.9.png
+SHA1-Digest: BaweGQLmIpKhrB9RJO8l+LKv35Q=
+
+Name: res/drawable-hdpi/upomp_bypay_input_btn_4.png
+SHA1-Digest: JOfgtsbc8QctA78nHFhE8M3AfP4=
+
+Name: res/drawable-hdpi/gc_more_game.png
+SHA1-Digest: f7YA937ym6bF5qxPCkwYIGTc0rM=
+
+Name: assets/Themes/Theme6/BG8/BG-hd.pvr.ccz
+SHA1-Digest: eVKTQYlp+Zmpd6P8qE6kO5BAfQA=
+
+Name: res/drawable-hdpi/upomp_bypay_card_btn_4_on.png
+SHA1-Digest: IedRlY7SjWldwQSGPSOQkpPI4Rk=
+
+Name: res/drawable/umeng_fb_gray_frame.xml
+SHA1-Digest: aWHdngf/egP9o3M/2RvzMzfHbl8=
+
+Name: res/layout/umeng_xp_floatdialog_content.xml
+SHA1-Digest: IBLSGgOgGC/29bevYTwbNrl7AsY=
+
+Name: assets/Themes/Theme1/BG4/BGPath.tmx
+SHA1-Digest: SchwkwokMmpynmMPbDkHAEAnF/U=
+
+Name: assets/Themes/Theme2/BG10/BG-hd.plist
+SHA1-Digest: m/08HUbqoX0LQ+Nyx3jeNl0qgxw=
+
+Name: res/layout/umeng_example_xp_home.xml
+SHA1-Digest: PJfLsO3Ifp4jDIzRif6Alr5wqEA=
+
+Name: assets/Default-Landscape~ipad.png
+SHA1-Digest: Nr958IVtNZY8f7MhxdA1DFzCtJ0=
+
+Name: res/layout/umeng_example_common_splash_activity.xml
+SHA1-Digest: 2slY3GjTwHZ3FzKbrxrAC6z4lx0=
+
+Name: res/layout/umeng_fb_conversations.xml
+SHA1-Digest: rYNIIVegzHuTg3T35jB2UZ+ck7w=
+
+Name: res/drawable-hdpi/upomp_bypay_tips3_bot.png
+SHA1-Digest: UgEF0x1wgEe+tmkuDeSlDfxI6UQ=
+
+Name: res/drawable/top_btn_bg.xml
+SHA1-Digest: QF/oVSNmtdyBD2X/8Y2lLZrKRLI=
+
+Name: res/drawable/umeng_fb_point_normal.xml
+SHA1-Digest: nS6YH4+LPj4f7x4zAnSC/ExzaoU=
+
+Name: assets/Themes/Theme2/Items/Object01-hd.plist
+SHA1-Digest: wbAFB5aOq2wqiPXqPvVyRmK8514=
+
+Name: assets/domob_preview.png
+SHA1-Digest: 6Y9EeULY7glb/qlxc1DArMG8B0Q=
+
+Name: res/drawable-hdpi/gc_billing_blue_selector.xml
+SHA1-Digest: DNQxxBgKmAo5oK8gA6c193WudOg=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: T7Qpk8waMvy9s62+YFQwaYEUnH0=
+
+Name: res/drawable-hdpi/topbtn_bg_pressed.9.png
+SHA1-Digest: ZLOnirkmtjFw1c7qF7hLMe70Q+A=
+
+Name: assets/Themes/Theme2/BG4/BG-hd.pvr.ccz
+SHA1-Digest: STCgPFcRxH8MRMy7Lt5MD12jG9Y=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_fh_bg.png
+SHA1-Digest: +nEMiC0IcjsNjdnaIfS1nx5fWe0=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_blue.xml
+SHA1-Digest: mU688N7b6Rqn0Et3wcX8Li5Z6AY=
+
+Name: res/drawable/umeng_example_xp_shape_frame_grey.xml
+SHA1-Digest: Yf3SWR2f6pggn0FVXP81dNdVX5Q=
+
+Name: assets/Themes/Theme3/BG7/BG-hd.plist
+SHA1-Digest: 7Hd704sg32CfQYkQGgtbJzWDRig=
+
+Name: assets/Themes/Items/Items02-hd.pvr.ccz
+SHA1-Digest: tXwA3ye0H16oU/3H/7OQFhlbtk8=
+
+Name: assets/Themes/Towers/TSnow-hd.plist
+SHA1-Digest: kqTiNMS7VTtUIeczdKPHfROXjDQ=
+
+Name: org/apache/http/entity/mime/version.properties
+SHA1-Digest: bid50ZgMS/gQ5ZecVJVZXdGpiMI=
+
+Name: res/drawable/umeng_fb_write_selector.xml
+SHA1-Digest: agVKe6k2Ooa7K7ONqk+rkUmFf3A=
+
+Name: res/drawable-hdpi/umeng_xp_new_tip_bg.png
+SHA1-Digest: RPBjiyLCFJ7niuwqP+unU3OmG8k=
+
+Name: res/drawable-hdpi/upomp_bypay_card_info_bot.png
+SHA1-Digest: F+FFDMMraV8xcros5k1vhFXB9c0=
+
+Name: assets/Themes/Theme6/BG10/BGPath.tmx
+SHA1-Digest: kbjLiDU+c/LdTYOQfeeq6Fk72aU=
+
+Name: res/drawable/apay_index_shape3.xml
+SHA1-Digest: WXGY6+0Bq08w0aSH8Y7xnFze09o=
+
+Name: res/drawable-hdpi/umeng_xp_selector_back.xml
+SHA1-Digest: J9EQtmdd6m8U10K86DxWxP2IZmo=
+
+Name: assets/Themes/Theme2/BG0/BG1-hd.plist
+SHA1-Digest: 2vTUK0dMyYT8uzFyb1529HckvlI=
+
+Name: assets/Music/Monsters/Land321.ogg
+SHA1-Digest: 9mOVC4vMperSYl40v1wg8LwvPu8=
+
+Name: assets/Themes/scene/stages_theme6-hd.pvr.ccz
+SHA1-Digest: irKNLTvEmvz4v1puv9UBElIahLA=
+
+Name: assets/Themes/Theme2/BG7/BG-hd.plist
+SHA1-Digest: WvXOnZtcafgxpFPutw3qvYiWzlk=
+
+Name: assets/Themes/Theme6/BG3/BG-hd.plist
+SHA1-Digest: SNylwwkaH5NGC9u3zH/98adQnC4=
+
+Name: assets/Themes/Towers/TFireBottle-hd.pvr.ccz
+SHA1-Digest: issPhAfOxaWGdfbbA6nPy5bBVjM=
+
+Name: res/drawable-hdpi/umeng_xp_gradient_grey1.xml
+SHA1-Digest: 2ysLI1AMQDuPPYrhReTz9gCZRHo=
+
+Name: assets/Themes/Theme6/BG6/BG-hd.pvr.ccz
+SHA1-Digest: NTe5Tfn3z1W127zmuOIcClxrcZc=
+
+Name: res/drawable/share_close_bg.xml
+SHA1-Digest: 0QRxgHIypavmlhTW5sA0xHNrdAM=
+
+Name: res/drawable/pay_type_2.png
+SHA1-Digest: A7Kceob1hDggf9Bja0WulGy/DTo=
+
+Name: assets/Themes/Towers/TSnow-hd.pvr.ccz
+SHA1-Digest: 6ZiKq6HVr7yGcLMMnP3UAKgibtk=
+
+Name: assets/Themes/Pets/PetsShop-hd.plist
+SHA1-Digest: MwJnfsZnVn7DMcbnelPZLIHJtYk=
+
+Name: res/drawable/share_at_bg.xml
+SHA1-Digest: yKs7XciiTzAy9WsZuzhXGSJ8ACs=
+
+Name: res/drawable/apay_hub_divid.png
+SHA1-Digest: q19CUWUt1xb6655wkI7yVqujLfE=
+
+Name: assets/Themes/Items/Items09-hd.plist
+SHA1-Digest: otLHuZ2dC81mYrEy9G3CuQbyTFg=
+
+Name: assets/Themes/Towers/TSun-hd.plist
+SHA1-Digest: RG8QNuWhA/my24vX0OH/kxAah40=
+
+Name: res/drawable/umeng_share_shareto.xml
+SHA1-Digest: u3/si4KLfA/nTTjIthNyiAHHUVw=
+
+Name: res/layout/umeng_xp_partners_banner.xml
+SHA1-Digest: rggBCnvCMLlm+IHlc9r5+mCsY6Q=
+
+Name: assets/Music/Feeds/PetSound00.ogg
+SHA1-Digest: SCeCq1ujWEVTUkECUR+nBSWc78k=
+
+Name: assets/Themes/Theme6/BG12/BGPath.tmx
+SHA1-Digest: uynCMd+ZSb4JoSz8gS9YSWYT5Js=
+
+Name: res/drawable-hdpi/umeng_xp_shape_conner_blackish_green.xml
+SHA1-Digest: Vz0YWe+wJnLzvxL2+Q8VMzKHJIA=
+
+Name: res/drawable-hdpi/umeng_xp_button_download_click.9.png
+SHA1-Digest: Ik6OiZxHHSVXGPF6voCV77xG/ws=
+
+Name: assets/Themes/Towers/TSun-hd.pvr.ccz
+SHA1-Digest: m2RYi+IDynGmzkKTQj4Xb5OPaPQ=
+
+Name: assets/Themes/Pets/PetsFree-hd.pvr.ccz
+SHA1-Digest: 2VJd8ZOuCiYkNEqXT3bEwKys4Lo=
+
+Name: res/drawable/upomp_bypay_input_btn4.xml
+SHA1-Digest: P2elJZ7wqde0cyhmI6DRFc5aSpE=
+
+Name: assets/Themes/Theme6/Items/Monsters02-hd.plist
+SHA1-Digest: kr/Do/ahndkACTF8x1qPs4v7lGI=
+
+Name: res/drawable-hdpi/umeng_xp_detail365.png
+SHA1-Digest: KGQX93IrPyhWbJhGJQDExXvSIlc=
+
+Name: assets/Themes/Theme6/BG22/BG-hd.plist
+SHA1-Digest: My6+/6Zt5OXfcu2RRQW/MxK1h6c=
+
+Name: res/drawable-hdpi/upomp_bypay_member_btn_bg.png
+SHA1-Digest: WpVqE0rR0Qm99ZViPNzGATH8H34=
+
+Name: assets/Themes/Theme6/BG19/BG-hd.pvr.ccz
+SHA1-Digest: 7LiFr+CMOF080YiO5A2pLz7pt/g=
+
+Name: assets/Themes/Items/Items03-hd.pvr.ccz
+SHA1-Digest: FzlmIAUP0OQzK7osv29HlNxG8pw=
+
+Name: res/drawable-hdpi/gc_billing_cancel.png
+SHA1-Digest: UYiZCtb5U5MYmktS3J3jFgOcavM=
+
+Name: res/layout/apay_type_aibeibi_item.xml
+SHA1-Digest: 2zHvmgHIEwlDSrmqTQF+L2JfH04=
+
+Name: assets/Music/Feeds/PetSound02.ogg
+SHA1-Digest: 6HBCJbr5g3oQ7N29F1ShRVUIwgg=
+
+Name: assets/Themes/Theme6/Items/Object01-hd.plist
+SHA1-Digest: 6Jg0LS+CGQ9T6sdo7jSHWNRYJA8=
+
+Name: res/anim/umeng_xp_slide_out_from_left.xml
+SHA1-Digest: sYLVP65E/aAX2eviY+SG9YiBFus=
+
+Name: assets/Themes/scene/gamemenu-hd.plist
+SHA1-Digest: cBHmzP74UaQ4qK1VFqpsDGtQM6k=
+
+Name: res/drawable-hdpi/gc_billing_hl.9.png
+SHA1-Digest: 2uhbgCRAI8kUNf9O6ORcB0JfpOQ=
+
+Name: res/drawable/upomp_bypay_my_radiobutton.xml
+SHA1-Digest: XKHKtwMFIeZT+SIHA3R8+awD+WI=
+
+Name: res/layout/umeng_common_download_notification.xml
+SHA1-Digest: poTI9TGiT1nzW8Vu8X1zJICixII=
+
+Name: assets/Themes/Items/Items06-hd.pvr.ccz
+SHA1-Digest: Ybri5evJze3slOVVc1gWV++XiLo=
+
+Name: res/drawable-hdpi/upomp_bypay_select_year.png
+SHA1-Digest: rytqXorN30YSEJu59ZQVsXiJURI=
+
+Name: res/drawable/upomp_bypay_card_btn4.xml
+SHA1-Digest: c7hCBLznsmNNUXTUcZ3ZBkOdlzg=
+
+Name: res/drawable-hdpi/upomp_bypay_tips3_top3.png
+SHA1-Digest: Y+usBJJH8qXLWf/bMQNi7VmR1lA=
+
+Name: res/drawable/pay_type_5.png
+SHA1-Digest: g4cItg+bL0HlMnQtV/7vSwzX/K4=
+
+Name: res/drawable/pay_type_11.png
+SHA1-Digest: A7Kceob1hDggf9Bja0WulGy/DTo=
+
+Name: res/drawable/pay_checkbox_unchecked.png
+SHA1-Digest: 1cX6aAJbMCMFIyFdzp590SdWz2c=
+
+Name: assets/Themes/Theme6/BG5/BG-hd.pvr.ccz
+SHA1-Digest: CrxppwAj6Y93Yj7IIDymdFcuGOA=
+
+Name: assets/Themes/Theme1/Items/Monsters02-hd.pvr.ccz
+SHA1-Digest: 2/l/3lxMf9BNnUGw1vpKpXzxhf0=
+
+Name: assets/Themes/Theme6/BG17/BG-hd.plist
+SHA1-Digest: 1JveWMx/jD9+fFzPPIzh9R058dk=
+
+Name: assets/Themes/Towers/TShit-hd.plist
+SHA1-Digest: sduXry339tPVc1tCHpdLBYPktyo=
+
+Name: res/drawable-hdpi/gc_billing_cancel_hl.png
+SHA1-Digest: nvGYPebRLgMtv3CbJ/OfXADM5Tw=
+
+Name: assets/Themes/Theme2/BG13/BG-hd.plist
+SHA1-Digest: c02XbLJp7UbDze+X0WNAqaWmirc=
+
+Name: res/layout/umeng_xp_highlight_banner.xml
+SHA1-Digest: ap7Iz/NqrocGei4sVVtOLcDRweU=
+
+Name: assets/Themes/Theme3/BG6/BGPath.tmx
+SHA1-Digest: HqOZEE/Ew2xwf2T4sfB9Z7N8GMo=
+
+Name: res/drawable/umeng_tools.jpg
+SHA1-Digest: sETsFOQUj54wTzhiG9uYaPfYjNs=
+
+Name: res/drawable/apay_price_main_btn_shape.xml
+SHA1-Digest: ysOFU4EO2OYZY4UWBmKgeRAyW+4=
+
+Name: assets/Music/Items/TowerUpdata.ogg
+SHA1-Digest: EtjOkmwnVgaymtTz4WyrZnysB90=
+
+Name: res/drawable/apay_type_item_selector.xml
+SHA1-Digest: 3ZtXU3fhZDMWu6KVU7GuRjZrP2I=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_letter_clear_bg.png
+SHA1-Digest: ozyGmzkhvmAtlIR8lckm4gde3TE=
+
+Name: res/drawable-hdpi/upomp_bypay_user_title_icon.png
+SHA1-Digest: vov8UD3DZYyw1FFz/bQ4rBX5gi4=
+
+Name: assets/Themes/Theme6/BG15/BGPath.tmx
+SHA1-Digest: gewayUOncBZ2MoUMsLLmOipLmk4=
+
+Name: res/drawable-hdpi/umeng_xp_point_normal.png
+SHA1-Digest: kYwHotkzl47Xgj2O+KZqhoxMlxU=
+
+Name: assets/Themes/Theme1/BG1/BG-hd.plist
+SHA1-Digest: 2o+cvBrC9QbGf9snZdMdlpZqRUc=
+
+Name: res/layout/dialog_view.xml
+SHA1-Digest: ytk5PVezMv2Snv4OcOcRCYBSNtg=
+
+Name: assets/Music/Monsters/Fly162.ogg
+SHA1-Digest: gA7X0OamnLnSBtjXs+3Uk8c8MCo=
+
+Name: assets/Music/Monsters/Fat243.ogg
+SHA1-Digest: dGvHVHy+5MIA3GD8k7126miLK6g=
+
+Name: res/anim/umeng_xp_slide_in_from_left.xml
+SHA1-Digest: 6iPHzwpBQk67SVijCp54velxjDY=
+
+Name: res/drawable/apay_index_shape2.xml
+SHA1-Digest: i1wcOA5PP+YGFrKV5axSRAa7dSk=
+
+Name: assets/Themes/Theme3/BG3/BGPath.tmx
+SHA1-Digest: +jpOoCtEjvgZIC/OIj0h6oecxe4=
+
+Name: assets/Themes/Pets/PetsDrop-hd.pvr.ccz
+SHA1-Digest: 2UVASTFy7RVeq/BuvsADsDDFu6M=
+
+Name: res/drawable-hdpi/upomp_bypay_user_title_bg1.png
+SHA1-Digest: 8+lki3iTYkfkn3ZstCDUXwN4rKY=
+
+Name: assets/Themes/scene/mainscene1-hd.plist
+SHA1-Digest: 5TxBIssBOutL563DR5B09LQ6wJI=
+
+Name: assets/Themes/Pets/PetsFree-hd.plist
+SHA1-Digest: MPpbOnu4TJlYYmhNlzql8aKMGKk=
+
+Name: assets/Themes/Towers/TPlane-hd.plist
+SHA1-Digest: +wtqbMGum7jil/mDUJO/WNGsgcY=
+
+Name: assets/Music/Monsters/Fly362.ogg
+SHA1-Digest: CzaDda07obj7lLTkz2aQdX+rP+s=
+
+Name: assets/Music/Items/BGMusic03.ogg
+SHA1-Digest: WDGAkR1/DpWSuNPnYTp6Sayajgw=
+
+Name: assets/Themes/Theme6/BG5/BG-hd.plist
+SHA1-Digest: XAlreMGxkfQJIrHGuZ21U4C1nFA=
+
+Name: res/drawable-hdpi/upomp_bypay_select_card_add.png
+SHA1-Digest: kOTtks8TVK1DJK8ZnYlQ2ghrT84=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_grey_0.xml
+SHA1-Digest: WOmWrMqQdevmSdPRxhjOQiQbNpU=
+
+Name: assets/Themes/Theme3/BG11/BG-hd.pvr.ccz
+SHA1-Digest: DHXOHVAdJrO1b0rfzmEXuFO61pA=
+
+Name: res/drawable/umeng_share_update_button_nor.xml
+SHA1-Digest: sDQdk4i4xvDNwx5+mS/gUSCJnVA=
+
+Name: res/drawable/umeng_share_bg_shareitem_nor.xml
+SHA1-Digest: TyvGSATmcero3BA+PEEB1d7b6OM=
+
+Name: assets/Themes/scene/gamemenu-hd.pvr.ccz
+SHA1-Digest: ZzbnuJGwIg4lgeCCv50MGGbsqbA=
+
+Name: assets/Themes/Pets/PetsIcon-hd.plist
+SHA1-Digest: iMv6cSKTJgCYNUxIm63UP+uAuAM=
+
+Name: assets/Themes/Items/numwhite.png
+SHA1-Digest: SgYpb+tXJDLxeoVXOqOPAVfUtUU=
+
+Name: res/drawable-hdpi/umeng_example_handler.png
+SHA1-Digest: eZFh0DEQmWHQM8zEhNsxldldytY=
+
+Name: res/drawable-hdpi/upomp_bypay_nav1_on.png
+SHA1-Digest: U6K53PIK8iehKC6M6qJK4QoY3jc=
+
+Name: assets/Themes/scene/stages_theme2-hd.pvr.ccz
+SHA1-Digest: BivbmovZR+CZ5BEGKTsX4AukR24=
+
+Name: resources.arsc
+SHA1-Digest: 1R843wvby1xX00i321sd2C97sxA=
+
+Name: res/drawable/umeng_common_gradient_red.xml
+SHA1-Digest: 2jLyupMAAgTIjXmw8H7uIWqHcPo=
+
+Name: assets/Themes/scene/gameover1-hd.plist
+SHA1-Digest: x//W9e+m3I8xzeu/OdW1S51MgE0=
+
+Name: res/drawable-hdpi/umeng_xp_container_banner_background_selector.
+ xml
+SHA1-Digest: ytEQbG3J+dxAunrinN10wdMLxtQ=
+
+Name: res/drawable-hdpi/upomp_bypay_icon_what.png
+SHA1-Digest: e24iW0GiDE6Ug0XbyoQsmvIJH9g=
+
+Name: assets/Themes/Theme6/BG20/BG-hd.plist
+SHA1-Digest: LoZTywUsH9haescX0FwCoumR2bs=
+
+Name: assets/Themes/scene/win_stagenum-hd.png
+SHA1-Digest: GG1zlMzM9kMJ7p1vszMLtszdZAc=
+
+Name: res/drawable-hdpi/gc_billing_cancel_selector.xml
+SHA1-Digest: l4xb2U5xH51MHhYW1MtfXbhP5pw=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_browse_selector.xml
+SHA1-Digest: NIf9qTpxnAxE/Fwt3ProL1aAibo=
+
+Name: assets/Themes/Theme3/BG2/BGPath.tmx
+SHA1-Digest: +cyQm3AlnhWWS/fLUoHGOM414io=
+
+Name: assets/Themes/scene/themescene1-hd.pvr.ccz
+SHA1-Digest: cLKNbi5qhaFrZMbpQ66U8dO6BRs=
+
+Name: res/drawable-hdpi/umeng_share_face_01.png
+SHA1-Digest: 4kWH09LmQOoJfrFmY316eEgiga0=
+
+Name: res/drawable/pay_consume_list_item_shape_on.xml
+SHA1-Digest: n+lUdt+pOfrwlE4C5O+T9AXX2qw=
+
+Name: assets/Music/Monsters/Land613.ogg
+SHA1-Digest: x4i2rW0hhHUHDdljTqqvOHPApYo=
+
+Name: assets/Themes/Theme2/BG2/BG-hd.plist
+SHA1-Digest: Z+V9qmRMwq4tONW23DvCJ94exqE=
+
+Name: res/drawable/apay_price_btn_on_shape.xml
+SHA1-Digest: erCdWAyGndvW3qhd/7HJu4DeQsY=
+
+Name: res/drawable/apay_index_shape4.xml
+SHA1-Digest: coiAGgwOK1lTA5Pip+RRNVdFJOg=
+
+Name: assets/Themes/Theme3/BG5/BG-hd.pvr.ccz
+SHA1-Digest: R+P+O/Yl+qcT7GOh4u2P90jTpi8=
+
+Name: res/layout/apay_type_frame.xml
+SHA1-Digest: SHuHuJOjQoQjsDIpRki2PF+hgR0=
+
+Name: res/drawable/apay_link_selector.xml
+SHA1-Digest: A2WpBkvcw+NBrj3HM5OigW0Wlzs=
+
+Name: res/layout/actionbar_item.xml
+SHA1-Digest: OlwdY5N2Y2k0zLvshNzn4fENjbI=
+
+Name: assets/Themes/Theme6/BG7/BG-hd.pvr.ccz
+SHA1-Digest: TxeooVNO0Mqk8ipYkpFF7n0v+mk=
+
+Name: assets/Default@2x-dianxin.png
+SHA1-Digest: Nw7723rfcp1YQs9KKXvsClTP2m4=
+
+Name: res/drawable/icon.png
+SHA1-Digest: WlACgmcHtTbX3ecuW7cdW8fL28o=
+
+Name: assets/Themes/Theme1/BG11/BG-hd.pvr.ccz
+SHA1-Digest: xE12HjiBV9s0PJUbhlEjuTpZwPI=
+
+Name: assets/Themes/Theme1/BG0/BG2-hd.pvr.ccz
+SHA1-Digest: GDc+wqCUMdYU4V8P/bI1t9uAHD8=
+
+Name: lib/armeabi/libusedes.so
+SHA1-Digest: 7Uk1zQhhhLzdEYlEk3tQqrj6Pgo=
+
+Name: res/drawable-hdpi/share_setting_normal.png
+SHA1-Digest: foswe0iYNHZyLfG815xk4zNPhJ8=
+
+Name: assets/Themes/Towers/TFireBottle.plist
+SHA1-Digest: WvZ1Z3PDqXVqbOLsV/jZrialWTQ=
+
+Name: assets/Themes/Theme3/BG5/BG-hd.plist
+SHA1-Digest: S//P9qfvFjm7hxi06c2vRXFYeZo=
+
+Name: assets/Themes/Items/Items11-hd.pvr.ccz
+SHA1-Digest: 7NxgnGuz5Gg8SZcgD7ZjszO9s14=
+
+Name: res/drawable-hdpi/umeng_xp_more_top.9.png
+SHA1-Digest: vMYC4lCPuXTBknaFrmbtht87OaA=
+
+Name: assets/Music/Feeds/GiftBox01.ogg
+SHA1-Digest: oP6C9FCyl602DhmIzKsgRpzfIDc=
+
+Name: assets/OpeningAnimation/g_logo_sp.png
+SHA1-Digest: L/rWLOEXeta62o/i5Q+bYVpB3GA=
+
+Name: assets/Themes/Theme3/Items/Monsters02-hd.pvr.ccz
+SHA1-Digest: jc3AYtHLmN/I8QVa2o54zD/aF+8=
+
+Name: res/drawable-hdpi/share_topbg.png
+SHA1-Digest: K2KWu5GS6JeB7ZeN/JPzr7Lsqz0=
+
+Name: res/layout/umeng_xp_normal_banner.xml
+SHA1-Digest: D8b4Y7wCPX1oPOvCjDed4ks/VqE=
+
+Name: assets/Music/Monsters/Fly651.ogg
+SHA1-Digest: cfrAbTvx69ftTLk7jfLZOXzixvs=
+
+Name: assets/Themes/scene/recommend-hd.pvr.ccz
+SHA1-Digest: 2RBjSzk6KwJ+e5jXOOiPBjAowxY=
+
+Name: res/drawable-hdpi/umeng_xp_ad_action_browse.png
+SHA1-Digest: GAiDFH1zGqC8Cn2vAcHwwSeB0O0=
+
+Name: assets/Themes/scene/themescene4-hd.pvr.ccz
+SHA1-Digest: g+qo1nbW4mfyzR8w7eXNBqIKfU0=
+
+Name: assets/Music/Monsters/Fat641.ogg
+SHA1-Digest: Y6mjwyD7DQeWJWayhEtdh0KVLnc=
+
+Name: assets/Music/Items/MC.ogg
+SHA1-Digest: s3jLWEburOi1OY897ISU/ZUYvdc=
+
+Name: res/layout-small/share_to_sina.xml
+SHA1-Digest: kjVb/gedCcK5JIo9W4tqKwKqUZY=
+
+Name: res/drawable-hdpi/umeng_xp_shape_gradient_grey_2.xml
+SHA1-Digest: DJKoPo3Im39mYlduIKsK7bJ3LRU=
+
+Name: assets/Themes/Theme6/BG20/BGPath.tmx
+SHA1-Digest: gpb4wW9c2KblzfakE8r7iDALq1Y=
+
+Name: assets/Themes/Theme3/BG3/BG-hd.plist
+SHA1-Digest: 2KsxcGwQkBdlVr2Kn2T8W/xszQY=
+
+Name: assets/Themes/Theme2/BG11/BG-hd.pvr.ccz
+SHA1-Digest: t6+2/qVCryj7o5jbtZGhqF45Am0=
+
+Name: res/drawable-hdpi/umeng_share_logo_renren.png
+SHA1-Digest: fEw+J4OUhLQ+a5X9ZHqVNeBggPM=
+
+Name: assets/OpeningAnimation/g_rocker.png
+SHA1-Digest: YHuVWiO8yLXgukknJaF8GN7a+K4=
+
+Name: assets/Themes/Towers/TArrow-hd.pvr.ccz
+SHA1-Digest: WHeekVH7YcOEas8mxBY5NPVL9jQ=
+
+Name: assets/Themes/Theme1/BG0/BG1-hd.pvr.ccz
+SHA1-Digest: QW+sVvGi5ZtqFfTU+x7TT9TC96w=
+
+Name: assets/Default@2x-yidong.png
+SHA1-Digest: RyRXDIJsyCqNUvRXgdZQQbJjpMQ=
+
+Name: res/drawable-hdpi/upomp_bypay_nav1_click.png
+SHA1-Digest: /YYR/TPnecDjsz/hCKnQ1WCwSQM=
+
+Name: res/drawable/upomp_bypay_my_checkbox.xml
+SHA1-Digest: wAOmKu98CEjIF2FTGR+W/0lp5xA=
+
+Name: res/layout/upomp_bypay_userinfo.xml
+SHA1-Digest: gK8wPx16eHJp0DHKWy6uLa4hMTk=
+
+Name: assets/wostore_logo.png
+SHA1-Digest: ZjovOVRS16LKch4/RdTFm7gr8MA=
+
+Name: res/layout/apay_type_item.xml
+SHA1-Digest: NVkudR0SusZL+EHBihBaOUfNMZY=
+
+Name: res/drawable/upomp_bypay_btn_esc.xml
+SHA1-Digest: xt5SqlP6N6NXtHNYnm8+natZK6M=
+
+Name: assets/Music/Towers/Shit.ogg
+SHA1-Digest: YDuCsueEv9R2qY1KT1ah50Olqgs=
+
+Name: res/anim/umeng_xp_push_up_in.xml
+SHA1-Digest: MB5oJKOrI7kYyY9gl9wkqi8Q0Yc=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_input_bg.png
+SHA1-Digest: nh+J0l/6Mt4bB2c9xQdRttHDVPo=
+
+Name: assets/Themes/Theme1/BG1/BGPath.tmx
+SHA1-Digest: fTZwSIknJrpbbfBeJVRXdOIaZQE=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_btn1_default.png
+SHA1-Digest: Ip/LvDVuFhnNEp1hW3jLximrJkU=
+
+Name: assets/Music/Monsters/Land623.ogg
+SHA1-Digest: UwSkVKvFqcLfLkVqkaHqfCsE6FY=
+
+Name: META-INF/ia1130303235303
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: assets/Themes/Theme6/BG11/BGPath.tmx
+SHA1-Digest: ZhrVOZkJDBYDf4w6CwVrTBUuMVE=
+
+Name: res/drawable/backgroundtheme.xml
+SHA1-Digest: yR8558Sgk9iDu+8+/Mj3yDZIiUc=
+
+Name: assets/weibosdk_dialog_bg.9.png
+SHA1-Digest: WXvo3k+6TIebf1AC+9PbdGgTOF4=
+
+Name: assets/Themes/Pets/PetsTheme02-hd.plist
+SHA1-Digest: UuWJR5DqtBRp0tUo4OhgnZKw5oE=
+
+Name: res/drawable-hdpi/upomp_bypay_loading_bg.png
+SHA1-Digest: IBc2NF1+ctz6Vw1locJ2vAolqV0=
+
+Name: assets/Themes/Pets/PetsTheme02-hd.pvr.ccz
+SHA1-Digest: mJVcyyTkTeydr5YWNbL0yVEVNBY=
+
+Name: assets/Music/Monsters/Land113.ogg
+SHA1-Digest: f9+eiuiJSZAY19bURBTeNTgLUlA=
+
+Name: assets/loading_ipad.png
+SHA1-Digest: nW3Aov4pZsT1vtMNlyBqXvUO7gA=
+
+Name: res/layout/actionbar.xml
+SHA1-Digest: 0UKhne/EbZUBU/pFOuzmzOIeNNM=
+
+Name: assets/Themes/Theme3/BG3/BG-hd.pvr.ccz
+SHA1-Digest: SywxAH7nYcfBVnstAvWHTCcf7Cw=
+
+Name: assets/Themes/scene/stages_theme3-hd.pvr.ccz
+SHA1-Digest: CVUKCfmLtNyyMxF7JnaTBG2J8nU=
+
+Name: res/drawable-hdpi/umeng_xp_zhanwei.png
+SHA1-Digest: eZFh0DEQmWHQM8zEhNsxldldytY=
+
+Name: res/drawable/umeng_share_send.xml
+SHA1-Digest: Blt3B5TtnI28QeopkEqDbVYa6g4=
+
+Name: assets/Themes/Pets/PetsShop-hd.pvr.ccz
+SHA1-Digest: 05SQr19Jtec/F0EMBo7vjyoc7JE=
+
+Name: assets/Default-Landscape~ipad-king.png
+SHA1-Digest: yv16BChJITx3sXkpa+RJE0cGfGk=
+
+Name: res/drawable/apay_hub_shape.xml
+SHA1-Digest: Z1kHn/LzQ6k/e5ieDYoO8hECghk=
+
+Name: res/layout/umeng_example_xp_container_activity.xml
+SHA1-Digest: JAGyJln4+cUNvCwL3PCm8Gz5hnY=
+
+Name: assets/Themes/Items/numyellow-hd.png
+SHA1-Digest: khLSGykX2tlNeHiJiaJke5952Ok=
+
+Name: assets/Music/Items/MenuSelect.ogg
+SHA1-Digest: D4TgupgFthvuESMG4hZJtwiI8v4=
+
+Name: res/drawable-hdpi/upomp_bypay_tips3_top1.png
+SHA1-Digest: 0lJ84GFol7hJy0MmB2DBezlbwGk=
+
+Name: res/drawable-hdpi/actionbar_compat_logo.png
+SHA1-Digest: BVXrZI4kOZF6G8ibKtFRk+IBJrg=
+
+Name: res/layout/upomp_bypay_card_dialog.xml
+SHA1-Digest: /1wipCAnkT9BdYn5ZMAuPyeVGcs=
+
+Name: assets/Themes/Theme3/BG13/BGPath.tmx
+SHA1-Digest: E8zwl/w9rtW6k2hURHtG8uhILd4=
+
+Name: res/layout/upomp_bypay_add_card.xml
+SHA1-Digest: l+rYyLP46wKLx3AFqZXX12lzkmo=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_nav_bg.png
+SHA1-Digest: yKpfOH4RvcUjawFv3bblSkVFRik=
+
+Name: assets/Themes/Theme1/BG0/BG1-hd.plist
+SHA1-Digest: d2q8Ba1lHGWArVEascH6TWIwupk=
+
+Name: assets/Music/Monsters/Fly161.ogg
+SHA1-Digest: fAndnwc/iQUqr4R4Z+Y1EViEeGA=
+
+Name: assets/Music/Feeds/PetSound12.ogg
+SHA1-Digest: HW0uq914PZZsAzZxZwUc45eJ7oY=
+
+Name: assets/Music/Monsters/Fat343.ogg
+SHA1-Digest: H6JWqHrpJGrgDXTt7OlgRSERYmQ=
+
+Name: assets/Themes/Theme2/BG6/BG-hd.plist
+SHA1-Digest: D3JJ9gXO3Xg7DOHin45mziJuJIg=
+
+Name: assets/Themes/Theme6/BG14/BG-hd.plist
+SHA1-Digest: bCZ7X/LfIi+/ZAnlON/BKRsbxsY=
+
+Name: assets/Themes/scene/mainscene0-hd.pvr.ccz
+SHA1-Digest: IxqVCvC+6gunQBk1YFAWjE+KwJc=
+
+Name: res/drawable/umeng_common_gradient_orange.xml
+SHA1-Digest: AHyEGQnT7imQmkLcSm6fiGPhe3s=
+
+Name: res/drawable/btn_c.9.png
+SHA1-Digest: ZQ/JNKhQuTR2lmpK+OFrvMz3PbY=
+
+Name: assets/Themes/Pets/PetsFirst-hd.plist
+SHA1-Digest: NYNCKYoDsHvman13gvqErXrdNI4=
+
+Name: assets/Themes/Theme1/BG16/BG-hd.plist
+SHA1-Digest: /7W+LjqqamthG0ULVjcsN6EzNok=
+
+Name: assets/Themes/Pets/PetsReward-hd.pvr.ccz
+SHA1-Digest: UGb1gYEY5sZ+kckdBsQMMmv2et0=
+
+Name: assets/Music/Items/carrot1.ogg
+SHA1-Digest: UC+WlaPQsBM17INZuikoT5f7vwQ=
+
+Name: assets/Themes/Towers/TCuttle-hd.plist
+SHA1-Digest: Mr0ftQYz60/Kce5RgKfYtGdZRrU=
+
+Name: assets/CMGC/GH.data
+SHA1-Digest: Vmacd+s7u4Z6Rw1iNJalVdk1qhs=
+
+Name: assets/Themes/Pets/PetsSNS-hd.pvr.ccz
+SHA1-Digest: xe33Vg/6hRsZUKBVCY/8xCQODJ8=
+
+Name: res/layout/upomp_bypay_register.xml
+SHA1-Digest: u4uThx2F2Yl5h+8XMagsdZPWOvs=
+
+Name: res/drawable/umeng_fb_list_item_selector.xml
+SHA1-Digest: ZMxRnCwZApkgeVbt1uBZMBT/n6U=
+
+Name: assets/Themes/Theme6/BG17/BG-hd.pvr.ccz
+SHA1-Digest: WIR7CqikFM7gGX5nrSWKgThFcT4=
+
+Name: assets/Themes/Theme6/BG19/BGPath.tmx
+SHA1-Digest: s+OJcJOmbYyNvhrSS9ohJymq1Yk=
+
+Name: res/layout/umeng_xp_full_screen_list.xml
+SHA1-Digest: 4AwkEeyovphAM4cXl23wSXy8Ku4=
+
+Name: res/drawable/umeng_share_update_main.xml
+SHA1-Digest: mcKraSkjPKbmZ10QJJnxunXeAZ0=
+
+Name: res/drawable-hdpi/upomp_bypay_keyboard_btn_clear_on.png
+SHA1-Digest: EYEUyrByvaC7p1pbIKjTOBp9XkU=
+
+Name: assets/Themes/Theme1/BG14/BG-hd.plist
+SHA1-Digest: NjzvrBWA2ijJmA01Ci0YLf3GhFg=
+
+Name: res/drawable/music.png
+SHA1-Digest: cKILYFNHSfiNfWmJ7Yd8A4IzGRU=
+

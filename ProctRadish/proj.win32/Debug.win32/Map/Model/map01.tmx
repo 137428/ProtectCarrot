@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="12" height="8" tilewidth="80" tileheight="80" nextobjectid="13">
+ <tileset firstgid="1" name="Bg3" tilewidth="80" tileheight="80" tilecount="96" columns="12">
+  <image source="Bg3.png" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="97" name="sucai" tilewidth="80" tileheight="80" tilecount="30" columns="10">
+  <image source="sucai.png" width="800" height="240"/>
+  <tile id="0">
+   <properties>
+    <property name="point" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="point" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="point" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="point" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="127" name="ui_obstacle" tilewidth="80" tileheight="80" tilecount="6" columns="3">
+  <image source="ui/ui_obstacle.png" width="246" height="239"/>
+ </tileset>
+ <layer name="Background" width="12" height="8">
+  <data encoding="base64" compression="zlib">
+   eJwNw4c2QgEAANCHjMjIlkjLStmVWWTPSiH7/7/CvefcriAIuu0xZK999jtg2EGHjDjsiKOOGXXcCSedctoZZ50z5rxxF1w04ZJJU6bNmHXZFVddc92cG+YtuOmW2+646577Fi1Z9sBDjzz2xFMrVj3z3JoXXnrltTfeeue9Dz765LN1GzZ9sWXbV998t+OHn3757Y+//vkPSocSMQ==
+  </data>
+ </layer>
+ <layer name="path" width="12" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAdlAFxORLOBOJEIE6Cshmg/EysuhkYsqCYAYnORmKjgxIc6ktIVF9HonpcoBSIa0lQj643CUk/AK1tD3Q=
+  </data>
+ </layer>
+ <layer name="obstacle1" width="12" height="8" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAF9UDcAMSNDKOAHgAAI5YBgQ==
+  </data>
+ </layer>
+ <layer name="obstacle2" width="12" height="8" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAf1ANxAxA3UmDGSAcA4YcBgQ==
+  </data>
+ </layer>
+ <objectgroup name="pos">
+  <object id="1" x="98.6667" y="93.3333"/>
+  <object id="2" x="416" y="146.667"/>
+  <object id="3" x="421.333" y="526.667"/>
+  <object id="4" x="522.667" y="501.333"/>
+  <object id="5" x="509.333" y="133.333"/>
+  <object id="6" x="670.667" y="137.333"/>
+  <object id="7" x="702.667" y="573.333"/>
+  <object id="8" x="821.333" y="586.667"/>
+  <object id="9" x="857.333" y="129.333"/>
+  <object id="10" x="933.333" y="138.667"/>
+  <object id="11" x="932" y="364"/>
+ </objectgroup>
+ <layer name="obstacle3" width="12" height="8" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAvqAfiBiBupLO9gxUAAJOHAYE=
+  </data>
+ </layer>
+ <layer name="obstacle4" width="12" height="8" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjcoB6IG4C4cYDdQSsAAEuHAYE=
+  </data>
+ </layer>
+ <layer name="obstacle5" width="12" height="8" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBheoB6IG4C4cYDdQSwAAAOHAYE=
+  </data>
+ </layer>
+ <layer name="obstacle6" width="12" height="8" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjZoB6IG4C4cYDsBwC7eAGB
+  </data>
+ </layer>
+ <layer name="obstacle7" width="12" height="8" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFpIB6IG4A4kYqmQcAc3gBgQ==
+  </data>
+ </layer>
+</map>

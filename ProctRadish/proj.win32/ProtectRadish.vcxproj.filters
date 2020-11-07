@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Menu">
+      <UniqueIdentifier>{de59b716-5c2d-45cb-b8aa-2276584b216b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Level">
+      <UniqueIdentifier>{380559d7-375d-4898-b30e-7711640fc375}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Data">
+      <UniqueIdentifier>{c909587e-854c-490e-84ac-3458a970be2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Game">
+      <UniqueIdentifier>{7efa8eae-9ea1-4e19-84a5-1f1e0c3f6327}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Game\Layer">
+      <UniqueIdentifier>{d2d1196c-fcda-4d5d-9e08-37dc37aa03ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Game\Object">
+      <UniqueIdentifier>{8ef3190d-f3b0-450c-8bb9-bd4890fb664a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameMenu.cpp">
+      <Filter>src\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameLevel.cpp">
+      <Filter>src\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataBase.cpp">
+      <Filter>src\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataClass.cpp">
+      <Filter>src\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataMgr.cpp">
+      <Filter>src\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LoadData.cpp">
+      <Filter>src\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameScene.cpp">
+      <Filter>src\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameMap.cpp">
+      <Filter>src\Game\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Monster.cpp">
+      <Filter>src\Game\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MonsterLayer.cpp">
+      <Filter>src\Game\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RoleBase.cpp">
+      <Filter>src\Game\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CardLayer.cpp">
+      <Filter>src\Game\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Card.cpp">
+      <Filter>src\Game\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TouchLayer.cpp">
+      <Filter>src\Game\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ArmsLayer.cpp">
+      <Filter>src\Game\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Arms.cpp">
+      <Filter>src\Game\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Bullet.cpp">
+      <Filter>src\Game\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BulletLayer.cpp">
+      <Filter>src\Game\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BulletBase.cpp">
+      <Filter>src\Game\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BuffLayer.cpp">
+      <Filter>src\Game\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BuffBase.cpp">
+      <Filter>src\Game\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Buff.cpp">
+      <Filter>src\Game\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UpCardLayer.cpp">
+      <Filter>src\Game\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Radish.cpp">
+      <Filter>src\Game\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UILayer.cpp">
+      <Filter>src\Game\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AnimateLayer.cpp">
+      <Filter>src\Game\Layer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameMenu.h">
+      <Filter>src\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameLevel.h">
+      <Filter>src\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataBase.h">
+      <Filter>src\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataClass.h">
+      <Filter>src\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataMgr.h">
+      <Filter>src\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LoadData.h">
+      <Filter>src\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameScene.h">
+      <Filter>src\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameMap.h">
+      <Filter>src\Game\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MonsterLayer.h">
+      <Filter>src\Game\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RoleBase.h">
+      <Filter>src\Game\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CardLayer.h">
+      <Filter>src\Game\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Card.h">
+      <Filter>src\Game\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TouchLayer.h">
+      <Filter>src\Game\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Monster.h">
+      <Filter>src\Game\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ArmsLayer.h">
+      <Filter>src\Game\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Arms.h">
+      <Filter>src\Game\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Bullet.h">
+      <Filter>src\Game\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BulletLayer.h">
+      <Filter>src\Game\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BulletBase.h">
+      <Filter>src\Game\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BuffLayer.h">
+      <Filter>src\Game\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BuffBase.h">
+      <Filter>src\Game\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Buff.h">
+      <Filter>src\Game\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UpCardLayer.h">
+      <Filter>src\Game\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Radish.h">
+      <Filter>src\Game\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UILayer.h">
+      <Filter>src\Game\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AnimateLayer.h">
+      <Filter>src\Game\Layer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

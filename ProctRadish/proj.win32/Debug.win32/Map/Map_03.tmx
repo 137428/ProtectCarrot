@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="12" height="8" tilewidth="80" tileheight="80" nextobjectid="10">
+ <tileset firstgid="1" name="BG2-hd.pvr.ccz" tilewidth="80" tileheight="80" tilecount="96" columns="12">
+  <image source="Theme1/BG0/BG2-hd.pvr.ccz.png" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="97" name="BG-hd.pvr.ccz" tilewidth="80" tileheight="80" tilecount="72" columns="12">
+  <image source="Theme1/BG3/BG-hd.pvr.ccz.png" width="960" height="486"/>
+  <tile id="49">
+   <properties>
+    <property name="point" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="BackGround" width="12" height="8">
+  <data encoding="base64">
+   AQAAAAIAAAADAAAABAAAAAUAAAAGAAAABwAAAAgAAAAJAAAACgAAAAsAAAAMAAAADQAAAA4AAAAPAAAAEAAAABEAAAASAAAAEwAAABQAAAAVAAAAFgAAABcAAAAYAAAAGQAAABoAAAAbAAAAHAAAAB0AAAAeAAAAHwAAACAAAAAhAAAAIgAAACMAAAAkAAAAJQAAACYAAAAnAAAAKAAAACkAAAAqAAAAKwAAACwAAAAtAAAALgAAAC8AAAAwAAAAMQAAADIAAAAzAAAANAAAADUAAAA2AAAANwAAADgAAAA5AAAAOgAAADsAAAA8AAAAPQAAAD4AAAA/AAAAQAAAAEEAAABCAAAAQwAAAEQAAABFAAAARgAAAEcAAABIAAAASQAAAEoAAABLAAAATAAAAE0AAABOAAAATwAAAFAAAABRAAAAUgAAAFMAAABUAAAAVQAAAFYAAABXAAAAWAAAAFkAAABaAAAAWwAAAFwAAABdAAAAXgAAAF8AAABgAAAA
+  </data>
+ </layer>
+ <layer name="path" width="12" height="8">
+  <data encoding="base64">
+   YQAAAGIAAABjAAAAZAAAAGEAAABiAAAAYwAAAGQAAABhAAAAYgAAAGMAAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGgAAABpAAAAAAAAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHQAAAB1AAAAdgAAAHcAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAAAAAAB+AAAAfwAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAAAAAACKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJIAAACTAAAAlAAAAJUAAACWAAAAAAAAAAAAAAAAAAAAAAAAAJsAAACcAAAAnQAAAJ4AAACfAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAClAAAApgAAAKcAAACoAAAA
+  </data>
+ </layer>
+ <objectgroup name="pathObject">
+  <object id="1" x="120" y="274"/>
+  <object id="2" x="122" y="514"/>
+  <object id="3" x="430" y="525"/>
+  <object id="4" x="445" y="351"/>
+  <object id="5" x="595" y="346"/>
+  <object id="6" x="599" y="201"/>
+  <object id="7" x="683" y="198"/>
+  <object id="8" x="677" y="282"/>
+  <object id="9" x="842" y="273"/>
+ </objectgroup>
+</map>

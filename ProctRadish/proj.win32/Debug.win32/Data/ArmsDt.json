@@ -1,0 +1,59 @@
+[
+	{
+		"id":5001,
+		"BaseImg":"Bottle-1%d.png",
+		"Img":"Bottle%d1.png",
+		"AttackID":3004,
+		"BulletID":6001,
+		"upgrade":[100,180,260],
+		"range":[100,120,150],
+		"Interval":[0.6,0.4,0.2],
+		"Rota":1
+},
+	{
+		"id":5002,
+		"BaseImg":"Fan-1%d.png",
+		"Img":"Fan%d1.png",
+		"AttackID":3007,
+		"BulletID":6002,
+		"upgrade":[160,220,260],
+		"range":[100,120,150],
+		"Interval":[0.8,0.6,0.5],
+		"Rota":0
+},
+	{
+		"id":5003,
+		"BaseImg":"FBottle-1%d.png",
+		"Img":"FBottle%d1.png",
+		"AttackID":3010,
+		"BulletID":6101,
+		"upgrade":[160,220,260],
+		"range":[100,120,150],
+		"Interval":[1,1,1],
+		"Rota":1
+},
+	{
+		"id":5004,
+		"BaseImg":"Sun%d1.png",
+		"Img":"Sun-1%d.png",
+		"AttackID":0,
+		"BulletID":6003,
+		"upgrade":[160,220,260],
+		"range":[100,120,150],
+		"Interval":[0.8,0.8,0.8],
+		"Rota":0
+},
+	{
+		"id":5005,
+		"BaseImg":"Snow-1%d.png",
+		"Img":"Snow%d1.png",
+		"AttackID":0,
+		"BulletID":6004,
+		"upgrade":[160,220,260],
+		"range":[100,120,150],
+		"Interval":[0.8,0.8,0.8],
+		"Rota":0
+}
+
+
+]

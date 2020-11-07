@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="12" height="8" tilewidth="80" tileheight="80" nextobjectid="23">
+ <tileset firstgid="1" name="BG2-hd.pvr.ccz" tilewidth="80" tileheight="80" tilecount="96" columns="12">
+  <image source="../保卫萝卜完整资源/assets/Themes/Theme1/BG0/BG2-hd.pvr.ccz.png" width="960" height="640"/>
+ </tileset>
+ <tileset firstgid="97" name="sucai2" tilewidth="80" tileheight="80" tilecount="30" columns="6">
+  <image source="sucai2.png" width="480" height="400"/>
+  <tile id="10">
+   <properties>
+    <property name="point" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="point" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Background" width="12" height="8">
+  <data encoding="base64">
+   AQAAAAIAAAADAAAABAAAAAUAAAAGAAAABwAAAAgAAAAJAAAACgAAAAsAAAAMAAAADQAAAA4AAAAPAAAAEAAAABEAAAASAAAAEwAAABQAAAAVAAAAFgAAABcAAAAYAAAAGQAAABoAAAAbAAAAHAAAAB0AAAAeAAAAHwAAACAAAAAhAAAAIgAAACMAAAAkAAAAJQAAACYAAAAnAAAAKAAAACkAAAAqAAAAKwAAACwAAAAtAAAALgAAAC8AAAAwAAAAMQAAADIAAAAzAAAANAAAADUAAAA2AAAANwAAADgAAAA5AAAAOgAAADsAAAA8AAAAPQAAAD4AAAA/AAAAQAAAAEEAAABCAAAAQwAAAEQAAABFAAAARgAAAEcAAABIAAAASQAAAEoAAABLAAAATAAAAE0AAABOAAAATwAAAFAAAABRAAAAUgAAAFMAAABUAAAAVQAAAFYAAABXAAAAWAAAAFkAAABaAAAAWwAAAFwAAABdAAAAXgAAAF8AAABgAAAA
+  </data>
+ </layer>
+ <layer name="path" width="12" height="8">
+  <data encoding="base64">
+   AAAAAGwAAABqAAAAagAAAGoAAABrAAAAYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAAAAAABtAAAAbQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAAAAAAByAAAAcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAAAAAAByAAAAcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAAAAAAByAAAAcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAAAAAAByAAAAcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAAAAAABtAAAAbQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzAAAAcQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+ <objectgroup name="pathObject">
+  <object id="16" x="120" y="512"/>
+  <object id="17" x="122" y="41"/>
+  <object id="18" x="437" y="42"/>
+  <object id="19" x="444" y="593"/>
+  <object id="20" x="520" y="592"/>
+  <object id="22" x="522" y="35"/>
+ </objectgroup>
+</map>

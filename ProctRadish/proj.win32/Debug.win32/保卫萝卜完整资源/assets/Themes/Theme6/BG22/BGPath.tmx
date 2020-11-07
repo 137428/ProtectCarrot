@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="12" height="8" tilewidth="80" tileheight="80">
+ <properties>
+  <property name="style" value="1"/>
+ </properties>
+ <tileset firstgid="1" name="BOSS2" tilewidth="80" tileheight="80">
+  <image source="../../Resources/Icon.png" width="57" height="57"/>
+ </tileset>
+ <objectgroup name="PATH" width="12" height="8">
+  <object name="PT1" x="80" y="560"/>
+  <object name="PT2" x="640" y="560"/>
+  <object name="PT3" x="640" y="320"/>
+  <object name="PT4" x="480" y="320"/>
+  <object name="PT5" x="480" y="400"/>
+  <object name="PT6" x="80" y="400"/>
+  <object name="PT7" x="80" y="560"/>
+  <object name="1Ob1" type="14" x="0" y="400" width="80" height="80"/>
+  <object name="1Ob2" x="240" y="80" width="80" height="80">
+   <properties>
+    <property name="AT" value="1"/>
+   </properties>
+  </object>
+  <object name="1Ob3" type="9" x="240" y="320" width="80" height="80"/>
+  <object name="1Ob4" type="9" x="640" y="240" width="80" height="80"/>
+  <object name="1Ob5" x="800" y="80" width="80" height="80">
+   <properties>
+    <property name="AT" value="1"/>
+   </properties>
+  </object>
+  <object name="1Ob6" x="880" y="320" width="80" height="80">
+   <properties>
+    <property name="AT" value="1"/>
+   </properties>
+  </object>
+  <object name="1Ob7" type="2" x="560" y="400" width="80" height="80"/>
+  <object name="2Ob1" type="15" x="0" y="560" width="80" height="80"/>
+  <object name="2Ob2" type="12" x="160" y="320" width="80" height="80"/>
+  <object name="2Ob3" x="720" y="240" width="80" height="80"/>
+  <object name="2Ob4" x="880" y="400" width="80" height="80"/>
+  <object name="2Ob5" x="160" y="80" width="80" height="80">
+   <properties>
+    <property name="AT" value="1"/>
+   </properties>
+  </object>
+  <object name="3Ob1" type="8" x="720" y="480" width="80" height="80"/>
+  <object name="4Ob1" type="17" x="480" y="80" width="160" height="80"/>
+  <object name="5Ob1" type="6" x="160" y="480" width="160" height="80"/>
+  <object name="5Ob2" type="7" x="320" y="480" width="160" height="80"/>
+  <object name="5Ob3" type="8" x="480" y="480" width="160" height="80"/>
+  <object name="6Ob1" type="13" x="0" y="80" width="160" height="160"/>
+  <object name="6Ob2" type="1" x="0" y="240" width="160" height="160"/>
+  <object name="6Ob3" x="160" y="160" width="160" height="160"/>
+  <object name="6Ob4" type="9" x="320" y="80" width="160" height="160"/>
+  <object name="6Ob5" type="3" x="320" y="240" width="160" height="160"/>
+  <object name="6Ob6" type="4" x="480" y="160" width="160" height="160"/>
+  <object name="6Ob7" type="16" x="640" y="80" width="160" height="160"/>
+  <object name="6Ob8" type="11" x="800" y="160" width="160" height="160"/>
+  <object name="6Ob9" type="5" x="720" y="320" width="160" height="160"/>
+  <object name="3Ob2" type="10" x="0" y="480" width="80" height="80"/>
+  <object name="Obj1" x="880" y="80" width="80" height="80"/>
+ </objectgroup>
+</map>

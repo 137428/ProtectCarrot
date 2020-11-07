@@ -1,0 +1,162 @@
+[
+	{
+		"id":3001,
+		"count":2,
+		"name":"ui_L_Monsters_01_0%d.png"
+},
+	{
+		"id":3002,
+		"count":2,
+		"name":"ui_L_Monsters_02_0%d.png"
+},
+	{
+		"id":3003,
+		"count":2,
+		"name":"ui_L_Monsters_03_0%d.png"
+},
+	{
+		"id":3004,
+		"count":3,
+		"name":"Bottle1%d.png"
+},
+	{
+		"id":3005,
+		"count":3,
+		"name":"Bottle2%d.png"
+},
+	{
+		"id":3006,
+		"count":3,
+		"name":"Bottle3%d.png"
+},
+	{
+		"id":3007,
+		"count":3,
+		"name":"Fan1%d.png"
+},
+	{
+		"id":3008,
+		"count":3,
+		"name":"Fan2%d.png"
+},
+	{
+		"id":3009,
+		"count":3,
+		"name":"Fan3%d.png"
+},
+	{
+		"id":3010,
+		"count":3,
+		"name":"FBottle1%d.png"
+},
+	{
+		"id":3011,
+		"count":3,
+		"name":"FBottle2%d.png"
+},
+	{
+		"id":3012,
+		"count":3,
+		"name":"FBottle3%d.png"
+},
+	{
+		"id":3013,
+		"count":3,
+		"name":"PBottle1%d.png"
+},
+	{
+		"id":3014,
+		"count":3,
+		"name":"PBottle2%d.png"
+},
+	{
+		"id":3015,
+		"count":3,
+		"name":"PBottle3%d.png"
+},
+	{
+		"id":3016,
+		"count":2,
+		"name":"PBottle0%d.png"
+},
+	{
+		"id":3017,
+		"count":2,
+		"name":"PFan0%d.png"
+},
+	{
+		"id":3018,
+		"count":2,
+		"name":"PFBottle1%d.png"
+},
+	{
+		"id":3019,
+		"count":2,
+		"name":"PFBottle2%d.png"
+},
+	{
+		"id":3020,
+		"count":2,
+		"name":"PFBottle3%d.png"
+},
+	{
+		"id":3021,
+		"count":2,
+		"name":"PFBottle0%d.png"
+},
+	{
+		"id":3022,
+		"count":8,
+		"name":"hlb1%d.png"
+},
+	{
+		"id":3023,
+		"count":3,
+		"name":"hlb2%d.png"
+},
+	{
+		"id":3024,
+		"count":5,
+		"name":"air0%d.png"
+},
+	{
+		"id":3025,
+		"count":5,
+		"name":"PSun1%d.png"
+},
+	{
+		"id":3026,
+		"count":5,
+		"name":"PSun2%d.png"
+},
+	{
+		"id":3027,
+		"count":5,
+		"name":"PSun3%d.png"
+},
+	{
+		"id":3028,
+		"count":5,
+		"name":"PSnow1%d.png"
+},
+	{
+		"id":3029,
+		"count":5,
+		"name":"PSnow2%d.png"
+},
+	{
+		"id":3030,
+		"count":5,
+		"name":"PSnow3%d.png"
+},
+	{
+		"id":3031,
+		"count":9,
+		"name":"PSun0%d.png"
+},
+	{
+		"id":3032,
+		"count":2,
+		"name":"PSnow0%d.png"
+}
+]
